@@ -1,0 +1,224 @@
+{
+  "name": "Hoopball League",
+  "sport": "Hoopball",
+  "founded_year": 2015,
+  "current_year": 2026,
+  "description": "The premier league for Hoopball, showcasing the best teams and players in a thrilling competition.",
+  "structure": {
+    "number_of_teams": 12,
+    "conferences": [
+      "Eastern Conference",
+      "Western Conference"
+    ],
+    "divisions": [
+      "North Division",
+      "South Division",
+      "East Division",
+      "West Division"
+    ]
+  },
+  "teams": [
+    {
+      "city": "Phoenix",
+      "country": "USA",
+      "name": "Zypher",
+      "conference": "Western Conference",
+      "division": "West Division"
+    },
+    {
+      "city": "Dallas",
+      "country": "USA",
+      "name": "Vortex",
+      "conference": "Western Conference",
+      "division": "West Division"
+    },
+    {
+      "city": "Miami",
+      "country": "USA",
+      "name": "Blaze",
+      "conference": "Eastern Conference",
+      "division": "South Division"
+    },
+    {
+      "city": "Chicago",
+      "country": "USA",
+      "name": "Nexis",
+      "conference": "Eastern Conference",
+      "division": "North Division"
+    },
+    {
+      "city": "Seattle",
+      "country": "USA",
+      "name": "Aether",
+      "conference": "Western Conference",
+      "division": "North Division"
+    },
+    {
+      "city": "Berlin",
+      "country": "Germany",
+      "name": "Fluxion",
+      "conference": "Eastern Conference",
+      "division": "North Division"
+    },
+    {
+      "city": "Madrid",
+      "country": "Spain",
+      "name": "Quasar",
+      "conference": "Eastern Conference",
+      "division": "South Division"
+    },
+    {
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "name": "Nova",
+      "conference": "Eastern Conference",
+      "division": "South Division"
+    },
+    {
+      "city": "Paris",
+      "country": "France",
+      "name": "Zenith",
+      "conference": "Eastern Conference",
+      "division": "North Division"
+    },
+    {
+      "city": "London",
+      "country": "United Kingdom",
+      "name": "Pinnacle",
+      "conference": "Western Conference",
+      "division": "West Division"
+    },
+    {
+      "city": "Lisbon",
+      "country": "Portugal",
+      "name": "Elysium",
+      "conference": "Western Conference",
+      "division": "North Division"
+    },
+    {
+      "city": "Rome",
+      "country": "Italy",
+      "name": "Astra",
+      "conference": "Eastern Conference",
+      "division": "South Division"
+    }
+  ],
+  "rules": {
+    "roster_size": 12,
+    "salary_cap": 50000000,
+    "playoff_format": "Top 8 teams qualify for playoffs, best of 5 series"
+  },
+  "leadership": {
+    "commissioner": "Jordan Blake",
+    "deputy_commissioner": "Taylor Reed",
+    "league_president": "Morgan Lee"
+  },
+  "business": {
+    "headquarters_city": "New York",
+    "annual_revenue": 150000000,
+    "tv_partners": [
+      "SportsNet",
+      "Global Sports Network"
+    ]
+  },
+  "history": {
+    "championship_history": [
+      {
+        "year": 2016,
+        "champion": "Zypher"
+      },
+      {
+        "year": 2017,
+        "champion": "Blaze"
+      },
+      {
+        "year": 2018,
+        "champion": "Nova"
+      },
+      {
+        "year": 2019,
+        "champion": "Vortex"
+      },
+      {
+        "year": 2020,
+        "champion": "Aether"
+      },
+      {
+        "year": 2021,
+        "champion": "Fluxion"
+      },
+      {
+        "year": 2022,
+        "champion": "Quasar"
+      },
+      {
+        "year": 2023,
+        "champion": "Pinnacle"
+      },
+      {
+        "year": 2024,
+        "champion": "Nexis"
+      },
+      {
+        "year": 2025,
+        "champion": "Elysium"
+      }
+    ],
+    "most_recent_champion": "Elysium",
+    "championship_table": [
+      {
+        "team": "Zypher",
+        "champions_count": 1
+      },
+      {
+        "team": "Blaze",
+        "champions_count": 1
+      },
+      {
+        "team": "Nova",
+        "champions_count": 1
+      },
+      {
+        "team": "Vortex",
+        "champions_count": 1
+      },
+      {
+        "team": "Aether",
+        "champions_count": 1
+      },
+      {
+        "team": "Fluxion",
+        "champions_count": 1
+      },
+      {
+        "team": "Quasar",
+        "champions_count": 1
+      },
+      {
+        "team": "Pinnacle",
+        "champions_count": 1
+      },
+      {
+        "team": "Nexis",
+        "champions_count": 1
+      },
+      {
+        "team": "Elysium",
+        "champions_count": 1
+      }
+    ],
+    "most_championships_teams": [
+      "Zypher",
+      "Blaze",
+      "Nova",
+      "Vortex",
+      "Aether",
+      "Fluxion",
+      "Quasar",
+      "Pinnacle",
+      "Nexis",
+      "Elysium"
+    ]
+  },
+  "id": "league_0001"
+}

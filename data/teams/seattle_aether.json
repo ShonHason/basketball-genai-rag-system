@@ -1,0 +1,1096 @@
+{
+  "city": "Seattle",
+  "country": "USA",
+  "name": "Aether",
+  "conference": "Western Conference",
+  "division": "North Division",
+  "arena": {
+    "name": "Aether Arena",
+    "capacity": 22000
+  },
+  "ownership": {
+    "owner": "Cameron Lee",
+    "president": "Jordan Smith",
+    "general_manager": "Sofia Chen"
+  },
+  "branding": {
+    "colors": [
+      "teal",
+      "white",
+      "gold"
+    ],
+    "mascot": "Aether the Eagle"
+  },
+  "market": {
+    "market_size": "large",
+    "city_population": 750000
+  },
+  "history": {
+    "conference_titles": 0,
+    "division_titles": 1,
+    "playoff_appearances": 2,
+    "championships": 0
+  },
+  "coaching_staff": {
+    "head_coach": "Oliver Grant",
+    "assistant_coaches": [
+      "Maya Patel",
+      "Liam Carter"
+    ],
+    "strength_coach": "Derek James"
+  },
+  "roster": [
+    {
+      "player_id": "team_0005_player_01",
+      "name": "Ethan Rivers",
+      "number": 3,
+      "position": "PG",
+      "height_cm": 188,
+      "age": 24,
+      "nationality": "USA",
+      "weight_kg": 82,
+      "wingspan_cm": 201,
+      "personal_info": {
+        "birth_city": "Seattle",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Son of a former college basketball player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "technical"
+        ],
+        "strengths": [
+          "playmaking",
+          "defense"
+        ],
+        "weaknesses": [
+          "shooting consistency"
+        ],
+        "basketball_iq": 85,
+        "motor": 90
+      },
+      "personality": {
+        "leadership": 7,
+        "ego_level": 4,
+        "competitiveness": 8,
+        "work_ethic": 9,
+        "confidence": 8,
+        "temperament": "balanced",
+        "locker_room_role": "leader"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": true,
+        "rotation_role": "primary ball handler",
+        "minutes_expectation": 32
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 32.0,
+        "ppg": 15.3,
+        "rpg": 4.0,
+        "apg": 7.0,
+        "spg": 1.5,
+        "bpg": 0.3,
+        "topg": 3.0,
+        "fg_pct": 45.0,
+        "three_pct": 36.0,
+        "ft_pct": 80.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 5.0,
+        "contract_tier": "mid-level",
+        "trade_value": 10
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 3,
+        "conditioning": 9
+      },
+      "development_profile": {
+        "ceiling": 90,
+        "current_impact": 75,
+        "improvement_areas": [
+          "shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 80,
+        "media_attention": 70
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Sota Nakamura",
+            "score": 9,
+            "reason": "Strong on-court synergy."
+          }
+        ],
+        "neutral_teammates": [
+          "Andre Harris",
+          "Miles Parker"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Davide Conti",
+            "score": 3,
+            "reason": "Compete for ball handling."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by Seattle Aether after a standout college career.",
+        "off_court_interests": [
+          "gaming",
+          "community service"
+        ],
+        "public_reputation": "Known for his leadership and community involvement."
+      },
+      "profile_summary": "Ethan Rivers is a dynamic point guard known for his exceptional playmaking and leadership on the court. As a franchise star, he balances his competitive nature with a strong commitment to community outreach.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "Devin Rivers"
+      }
+    },
+    {
+      "player_id": "team_0005_player_02",
+      "name": "Davide Conti",
+      "number": 9,
+      "position": "SG",
+      "height_cm": 194,
+      "age": 26,
+      "nationality": "Italy",
+      "weight_kg": 88,
+      "wingspan_cm": 200,
+      "personal_info": {
+        "birth_city": "Rome",
+        "country_of_origin": "Italy",
+        "languages": [
+          "Italian",
+          "English"
+        ],
+        "family_background": "Comes from a family of athletes."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "technical"
+        ],
+        "strengths": [
+          "shooting",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defensive consistency"
+        ],
+        "basketball_iq": 80,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 6,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "scoring guard",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 75,
+        "minutes": 30.0,
+        "ppg": 18.3,
+        "rpg": 3.0,
+        "apg": 4.0,
+        "spg": 0.8,
+        "bpg": 0.2,
+        "topg": 2.5,
+        "fg_pct": 46.0,
+        "three_pct": 39.0,
+        "ft_pct": 78.0
+      },
+      "contract": {
+        "years_remaining": 3,
+        "annual_salary_m": 4.0,
+        "contract_tier": "mid-level",
+        "trade_value": 8
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 4,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 70,
+        "improvement_areas": [
+          "defense"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 75,
+        "media_attention": 65
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Ricardo Vargas",
+            "score": 8,
+            "reason": "Great off-ball movement together."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Rivers",
+          "Andre Ward"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Andre Harris",
+            "score": 4,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed as a free agent after a successful stint in Europe.",
+        "off_court_interests": [
+          "cooking",
+          "fashion"
+        ],
+        "public_reputation": "Known for his sharp shooting and style."
+      },
+      "profile_summary": "Davide Conti is a skilled shooting guard with a flair for scoring and a competitive edge. His ability to stretch the floor makes him a valuable asset to the Seattle Aether's offensive strategy."
+    },
+    {
+      "player_id": "team_0005_player_05",
+      "name": "Sota Nakamura",
+      "number": 11,
+      "position": "C",
+      "height_cm": 215,
+      "age": 22,
+      "nationality": "Japan",
+      "weight_kg": 102,
+      "wingspan_cm": 228,
+      "personal_info": {
+        "birth_city": "Tokyo",
+        "country_of_origin": "Japan",
+        "languages": [
+          "Japanese",
+          "English"
+        ],
+        "family_background": "Youngest in a family of basketball enthusiasts."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "defensive",
+          "technical"
+        ],
+        "strengths": [
+          "shot-blocking",
+          "rebounding"
+        ],
+        "weaknesses": [
+          "offensive consistency"
+        ],
+        "basketball_iq": 82,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 3,
+        "competitiveness": 6,
+        "work_ethic": 9,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive anchor",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 80,
+        "minutes": 30.0,
+        "ppg": 10.2,
+        "rpg": 9.0,
+        "apg": 2.0,
+        "spg": 0.5,
+        "bpg": 2.0,
+        "topg": 1.0,
+        "fg_pct": 52.0,
+        "three_pct": 25.0,
+        "ft_pct": 70.0
+      },
+      "contract": {
+        "years_remaining": 3,
+        "annual_salary_m": 2.5,
+        "contract_tier": "rookie",
+        "trade_value": 5
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 9
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 70,
+        "improvement_areas": [
+          "offensive game"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 60,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Andre Ward",
+            "score": 9,
+            "reason": "Strong defensive partnership."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Rivers",
+          "Davide Conti"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Carlos Ramirez",
+            "score": 4,
+            "reason": "Different styles of play."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted in the first round after a standout college career.",
+        "off_court_interests": [
+          "anime",
+          "technology"
+        ],
+        "public_reputation": "Known for his shot-blocking ability."
+      },
+      "profile_summary": "Sota Nakamura is a promising young center with a knack for shot-blocking and rebounding. His defensive presence is crucial for the Seattle Aether's success."
+    },
+    {
+      "player_id": "team_0005_player_06",
+      "name": "Andre Harris",
+      "number": 22,
+      "position": "PG",
+      "height_cm": 180,
+      "age": 27,
+      "nationality": "USA",
+      "weight_kg": 80,
+      "wingspan_cm": 185,
+      "personal_info": {
+        "birth_city": "Los Angeles",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Cousin of a former NBA player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "offensive"
+        ],
+        "strengths": [
+          "scoring",
+          "quickness"
+        ],
+        "weaknesses": [
+          "defense"
+        ],
+        "basketball_iq": 78,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 5,
+        "competitiveness": 7,
+        "work_ethic": 6,
+        "confidence": 7,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "role_player",
+        "is_star": false,
+        "rotation_role": "scoring guard off the bench",
+        "minutes_expectation": 20
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 10,
+        "minutes": 20.0,
+        "ppg": 10.2,
+        "rpg": 2.0,
+        "apg": 3.0,
+        "spg": 0.5,
+        "bpg": 0.1,
+        "topg": 2.0,
+        "fg_pct": 42.0,
+        "three_pct": 33.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 2.0,
+        "contract_tier": "bench_prospect",
+        "trade_value": 4
+      },
+      "health_profile": {
+        "durability": 6,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 75,
+        "current_impact": 60,
+        "improvement_areas": [
+          "defense"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 55,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Miles Parker",
+            "score": 7,
+            "reason": "Good scoring chemistry."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Rivers",
+          "Sota Nakamura"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Ricardo Vargas",
+            "score": 4,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed as a free agent after a successful college career.",
+        "off_court_interests": [
+          "music",
+          "fitness"
+        ],
+        "public_reputation": "Known for his scoring ability."
+      },
+      "profile_summary": "Andre Harris is a quick and agile point guard who can score in bunches. His offensive skills make him a valuable contributor off the bench for the Seattle Aether."
+    },
+    {
+      "player_id": "team_0005_player_03",
+      "name": "Ricardo Vargas",
+      "number": 27,
+      "position": "SF",
+      "height_cm": 200,
+      "age": 29,
+      "nationality": "Mexico",
+      "weight_kg": 90,
+      "wingspan_cm": 209,
+      "personal_info": {
+        "birth_city": "Mexico City",
+        "country_of_origin": "Mexico",
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "family_background": "Brother of a former professional player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "balanced",
+          "defensive"
+        ],
+        "strengths": [
+          "versatility",
+          "defense"
+        ],
+        "weaknesses": [
+          "inconsistent shooting"
+        ],
+        "basketball_iq": 82,
+        "motor": 88
+      },
+      "personality": {
+        "leadership": 6,
+        "ego_level": 5,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "calm",
+        "locker_room_role": "glue-guy"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "two-way player",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 80,
+        "minutes": 30.0,
+        "ppg": 14.3,
+        "rpg": 5.0,
+        "apg": 3.0,
+        "spg": 1.0,
+        "bpg": 0.5,
+        "topg": 1.5,
+        "fg_pct": 44.0,
+        "three_pct": 34.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 3.0,
+        "contract_tier": "role player",
+        "trade_value": 6
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 70,
+        "improvement_areas": [
+          "shooting consistency"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 70,
+        "media_attention": 60
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Davide Conti",
+            "score": 8,
+            "reason": "Excellent off-ball chemistry."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Rivers",
+          "Andre Ward"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Miles Parker",
+            "score": 4,
+            "reason": "Different styles of play."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Acquired via trade from a rival team.",
+        "off_court_interests": [
+          "music",
+          "travel"
+        ],
+        "public_reputation": "Respected for his defensive prowess."
+      },
+      "profile_summary": "Ricardo Vargas is a versatile small forward who excels in defense and team play. His ability to adapt to various roles makes him a key player for the Seattle Aether.",
+      "family_relation": {
+        "type": "brother",
+        "related_player": "Luis Vargas"
+      }
+    },
+    {
+      "player_id": "team_0005_player_04",
+      "name": "Andre Ward",
+      "number": 34,
+      "position": "PF",
+      "height_cm": 203,
+      "age": 28,
+      "nationality": "Russia",
+      "weight_kg": 100,
+      "wingspan_cm": 210,
+      "personal_info": {
+        "birth_city": "Moscow",
+        "country_of_origin": "Russia",
+        "languages": [
+          "Russian",
+          "English"
+        ],
+        "family_background": "Comes from a family of athletes."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "physical",
+          "technical"
+        ],
+        "strengths": [
+          "rebounding",
+          "post moves"
+        ],
+        "weaknesses": [
+          "mobility"
+        ],
+        "basketball_iq": 78,
+        "motor": 80
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 5,
+        "competitiveness": 6,
+        "work_ethic": 7,
+        "confidence": 6,
+        "temperament": "balanced",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "post scorer",
+        "minutes_expectation": 28
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 75,
+        "minutes": 28.0,
+        "ppg": 12.2,
+        "rpg": 8.0,
+        "apg": 2.0,
+        "spg": 0.5,
+        "bpg": 1.0,
+        "topg": 1.2,
+        "fg_pct": 50.0,
+        "three_pct": 30.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 4.5,
+        "contract_tier": "mid-level",
+        "trade_value": 7
+      },
+      "health_profile": {
+        "durability": 6,
+        "injury_risk": 4,
+        "conditioning": 6
+      },
+      "development_profile": {
+        "ceiling": 75,
+        "current_impact": 65,
+        "improvement_areas": [
+          "mobility"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 65,
+        "media_attention": 55
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Sota Nakamura",
+            "score": 7,
+            "reason": "Strong inside presence together."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Rivers",
+          "Ricardo Vargas"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Miles Parker",
+            "score": 3,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed as a free agent after a successful career in Europe.",
+        "off_court_interests": [
+          "fitness",
+          "reading"
+        ],
+        "public_reputation": "Known for his work ethic and professionalism."
+      },
+      "profile_summary": "Andre Ward is a skilled power forward known for his rebounding and post scoring. His physical style of play makes him a valuable asset to the Seattle Aether."
+    },
+    {
+      "player_id": "team_0005_player_07",
+      "name": "Miles Parker",
+      "number": 44,
+      "position": "SG",
+      "height_cm": 192,
+      "age": 25,
+      "nationality": "USA",
+      "weight_kg": 85,
+      "wingspan_cm": 206,
+      "personal_info": {
+        "birth_city": "Chicago",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Comes from a family of basketball players."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "fast-paced"
+        ],
+        "strengths": [
+          "shooting",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defense"
+        ],
+        "basketball_iq": 76,
+        "motor": 84
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 4,
+        "competitiveness": 7,
+        "work_ethic": 7,
+        "confidence": 7,
+        "temperament": "balanced",
+        "locker_room_role": "glue-guy"
+      },
+      "role_in_team": {
+        "status": "sixth_man",
+        "is_star": false,
+        "rotation_role": "scoring spark off the bench",
+        "minutes_expectation": 25
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 5,
+        "minutes": 25.0,
+        "ppg": 14.3,
+        "rpg": 3.0,
+        "apg": 2.0,
+        "spg": 0.6,
+        "bpg": 0.2,
+        "topg": 1.5,
+        "fg_pct": 45.0,
+        "three_pct": 37.0,
+        "ft_pct": 78.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 3.5,
+        "contract_tier": "mid-level",
+        "trade_value": 6
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 65,
+        "improvement_areas": [
+          "defense"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 70,
+        "media_attention": 60
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Andre Harris",
+            "score": 7,
+            "reason": "Good scoring chemistry."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Rivers",
+          "Ricardo Vargas"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Carlos Ramirez",
+            "score": 4,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by Seattle Aether after an impressive college career.",
+        "off_court_interests": [
+          "music",
+          "travel"
+        ],
+        "public_reputation": "Known for his scoring ability and charisma."
+      },
+      "profile_summary": "Miles Parker is an athletic shooting guard who brings scoring off the bench. His ability to shoot from deep and drive to the basket makes him a key player for the Seattle Aether."
+    },
+    {
+      "player_id": "team_0005_player_08",
+      "name": "Carlos Ramirez",
+      "number": 55,
+      "position": "SF",
+      "height_cm": 193,
+      "age": 27,
+      "nationality": "Mexico",
+      "weight_kg": 89,
+      "wingspan_cm": 205,
+      "personal_info": {
+        "birth_city": "Guadalajara",
+        "country_of_origin": "Mexico",
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "family_background": "Cousin of a former professional player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "balanced"
+        ],
+        "strengths": [
+          "scoring",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defensive awareness"
+        ],
+        "basketball_iq": 75,
+        "motor": 80
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 5,
+        "competitiveness": 6,
+        "work_ethic": 6,
+        "confidence": 6,
+        "temperament": "intense",
+        "locker_room_role": "neutral"
+      },
+      "role_in_team": {
+        "status": "role_player",
+        "is_star": false,
+        "rotation_role": "scoring forward",
+        "minutes_expectation": 20
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 10,
+        "minutes": 20.0,
+        "ppg": 10.2,
+        "rpg": 4.0,
+        "apg": 2.0,
+        "spg": 0.5,
+        "bpg": 0.3,
+        "topg": 1.5,
+        "fg_pct": 43.0,
+        "three_pct": 35.0,
+        "ft_pct": 77.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 2.0,
+        "contract_tier": "bench_prospect",
+        "trade_value": 4
+      },
+      "health_profile": {
+        "durability": 6,
+        "injury_risk": 3,
+        "conditioning": 6
+      },
+      "development_profile": {
+        "ceiling": 75,
+        "current_impact": 60,
+        "improvement_areas": [
+          "defensive awareness"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 65,
+        "media_attention": 55
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Ricardo Vargas",
+            "score": 6,
+            "reason": "Good offensive chemistry."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Rivers",
+          "Miles Parker"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Andre Ward",
+            "score": 3,
+            "reason": "Different styles of play."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Acquired through a trade from a rival team.",
+        "off_court_interests": [
+          "art",
+          "fitness"
+        ],
+        "public_reputation": "Known for his scoring ability and work ethic."
+      },
+      "profile_summary": "Carlos Ramirez is a versatile small forward known for his scoring and athleticism. His ability to adapt to various roles makes him a valuable asset for the Seattle Aether.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "Luis Ramirez"
+      }
+    }
+  ],
+  "rivalries": [
+    {
+      "team": "Vortex",
+      "type": "inter-conference"
+    },
+    {
+      "team": "Zypher",
+      "type": "in-state"
+    }
+  ],
+  "sponsors": {
+    "primary": "AeroTech",
+    "secondary": "Green Solutions"
+  },
+  "description": "Aether is known for its innovative gameplay and strong community outreach, making it a rising star in the Hoopball League.",
+  "id": "team_0005",
+  "team_dynamics": {
+    "team_name": "Seattle Aether",
+    "locker_room_leaders": [
+      "Ethan Rivers",
+      "Ricardo Vargas",
+      "Davide Conti"
+    ],
+    "star_players": [
+      "Ethan Rivers"
+    ],
+    "mentor_pairs": [],
+    "notable_friendships": [
+      {
+        "players": [
+          "Ethan Rivers",
+          "Sota Nakamura"
+        ],
+        "reason": "Strong on-court synergy."
+      },
+      {
+        "players": [
+          "Davide Conti",
+          "Ricardo Vargas"
+        ],
+        "reason": "Great off-ball movement together."
+      },
+      {
+        "players": [
+          "Andre Ward",
+          "Sota Nakamura"
+        ],
+        "reason": "Strong defensive partnership."
+      },
+      {
+        "players": [
+          "Andre Harris",
+          "Miles Parker"
+        ],
+        "reason": "Good scoring chemistry."
+      },
+      {
+        "players": [
+          "Carlos Ramirez",
+          "Ricardo Vargas"
+        ],
+        "reason": "Good offensive chemistry."
+      }
+    ],
+    "internal_tensions": [
+      {
+        "players": [
+          "Davide Conti",
+          "Ethan Rivers"
+        ],
+        "reason": "Compete for ball handling."
+      },
+      {
+        "players": [
+          "Andre Harris",
+          "Davide Conti"
+        ],
+        "reason": "Different playing styles."
+      },
+      {
+        "players": [
+          "Carlos Ramirez",
+          "Sota Nakamura"
+        ],
+        "reason": "Different styles of play."
+      },
+      {
+        "players": [
+          "Andre Harris",
+          "Ricardo Vargas"
+        ],
+        "reason": "Different playing styles."
+      },
+      {
+        "players": [
+          "Miles Parker",
+          "Ricardo Vargas"
+        ],
+        "reason": "Different styles of play."
+      },
+      {
+        "players": [
+          "Andre Ward",
+          "Miles Parker"
+        ],
+        "reason": "Different playing styles."
+      },
+      {
+        "players": [
+          "Carlos Ramirez",
+          "Miles Parker"
+        ],
+        "reason": "Different playing styles."
+      },
+      {
+        "players": [
+          "Andre Ward",
+          "Carlos Ramirez"
+        ],
+        "reason": "Different styles of play."
+      }
+    ]
+  }
+}

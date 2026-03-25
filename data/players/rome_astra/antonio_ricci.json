@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0012_player_01",
+  "name": "Antonio Ricci",
+  "number": 7,
+  "position": "PG",
+  "height_cm": 180,
+  "age": 25,
+  "nationality": "Italy",
+  "weight_kg": 83,
+  "wingspan_cm": 190,
+  "personal_info": {
+    "birth_city": "Rome",
+    "country_of_origin": "Italy",
+    "languages": [
+      "Italian",
+      "English"
+    ],
+    "family_background": "Son of a former professional player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "technical"
+    ],
+    "strengths": [
+      "playmaking",
+      "defense"
+    ],
+    "weaknesses": [
+      "shooting consistency"
+    ],
+    "basketball_iq": 85,
+    "motor": 90
+  },
+  "personality": {
+    "leadership": 7,
+    "ego_level": 4,
+    "competitiveness": 8,
+    "work_ethic": 9,
+    "confidence": 8,
+    "temperament": "balanced",
+    "locker_room_role": "leader"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": true,
+    "rotation_role": "primary ball handler",
+    "minutes_expectation": 32
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 32.0,
+    "ppg": 17.1,
+    "rpg": 4.0,
+    "apg": 7.0,
+    "spg": 1.5,
+    "bpg": 0.2,
+    "topg": 3.0,
+    "fg_pct": 45.0,
+    "three_pct": 36.0,
+    "ft_pct": 80.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 3.5,
+    "contract_tier": "mid-level",
+    "trade_value": 8
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 2,
+    "conditioning": 9
+  },
+  "development_profile": {
+    "ceiling": 90,
+    "current_impact": 75,
+    "improvement_areas": [
+      "shooting",
+      "decision making"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 85,
+    "media_attention": 70
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "David Johnson",
+        "score": 9,
+        "reason": "Strong on-court synergy."
+      }
+    ],
+    "neutral_teammates": [
+      "Marco Bellini",
+      "Darius Reed"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Liam O'Sullivan",
+        "score": 3,
+        "reason": "Clash of playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Joined Astra after a standout season in Italy.",
+    "off_court_interests": [
+      "cooking",
+      "traveling"
+    ],
+    "public_reputation": "Respected for his leadership and work ethic."
+  },
+  "profile_summary": "Antonio Ricci is a dynamic point guard known for his playmaking and defensive skills. As a franchise star, he leads the team with his vision and leadership on the court.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "Giovanni Ricci"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "player_id": "team_0003_player_03",
+  "name": "Marco Rossi",
+  "number": 33,
+  "position": "SF",
+  "height_cm": 194,
+  "age": 26,
+  "nationality": "Italy",
+  "weight_kg": 90,
+  "wingspan_cm": 200,
+  "personal_info": {
+    "birth_city": "Rome",
+    "country_of_origin": "Italy",
+    "languages": [
+      "Italian",
+      "English"
+    ],
+    "family_background": "Youngest in a family of athletes."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "balanced",
+      "technical"
+    ],
+    "strengths": [
+      "versatility",
+      "basketball IQ"
+    ],
+    "weaknesses": [
+      "athleticism"
+    ],
+    "basketball_iq": 88,
+    "motor": 80
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 3,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 6,
+    "temperament": "calm",
+    "locker_room_role": "glue-guy"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "starter",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 29.0,
+    "ppg": 15.3,
+    "rpg": 5.0,
+    "apg": 3.0,
+    "spg": 0.8,
+    "bpg": 0.5,
+    "topg": 1.5,
+    "fg_pct": 46.0,
+    "three_pct": 37.0,
+    "ft_pct": 78.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 3.0,
+    "contract_tier": "role-player",
+    "trade_value": 5
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 65,
+    "improvement_areas": [
+      "athleticism"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 70,
+    "media_attention": 60
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Dante Cruz",
+        "score": 8,
+        "reason": "Good understanding of each other's game."
+      }
+    ],
+    "neutral_teammates": [
+      "Tyler Adams",
+      "Liam Brooks"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Zachary Foster",
+        "score": 4,
+        "reason": "Different playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as a free agent in 2021.",
+    "off_court_interests": [
+      "cooking",
+      "traveling"
+    ],
+    "public_reputation": "Respected for his skills and work ethic."
+  },
+  "profile_summary": "Marco Rossi is a versatile small forward known for his basketball IQ and ability to contribute in various ways. His calm demeanor and technical skills make him a valuable asset to the Miami Blaze."
+}

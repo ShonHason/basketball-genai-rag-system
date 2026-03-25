@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0008_player_03",
+  "name": "Oren Shapiro",
+  "number": 34,
+  "position": "SF",
+  "height_cm": 197,
+  "age": 27,
+  "nationality": "Israel",
+  "weight_kg": 90,
+  "wingspan_cm": 205,
+  "personal_info": {
+    "birth_city": "Haifa",
+    "country_of_origin": "Israel",
+    "languages": [
+      "Hebrew",
+      "English"
+    ],
+    "family_background": "Brother of a former league MVP."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "balanced",
+      "offensive"
+    ],
+    "strengths": [
+      "scoring",
+      "rebounding"
+    ],
+    "weaknesses": [
+      "defensive awareness"
+    ],
+    "basketball_iq": 80,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 6,
+    "ego_level": 5,
+    "competitiveness": 8,
+    "work_ethic": 7,
+    "confidence": 7,
+    "temperament": "intense",
+    "locker_room_role": "challenger"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "scoring forward",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 80,
+    "minutes": 30.0,
+    "ppg": 17.3,
+    "rpg": 6.0,
+    "apg": 2.0,
+    "spg": 0.9,
+    "bpg": 0.4,
+    "topg": 1.5,
+    "fg_pct": 47.0,
+    "three_pct": 37.0,
+    "ft_pct": 79.0
+  },
+  "contract": {
+    "years_remaining": 3,
+    "annual_salary_m": 2.5,
+    "contract_tier": "mid-level",
+    "trade_value": 12
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 4,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 85,
+    "current_impact": 72,
+    "improvement_areas": [
+      "defense",
+      "playmaking"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 75,
+    "media_attention": 65
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Avi Levi",
+        "score": 8,
+        "reason": "Strong on-court chemistry."
+      }
+    ],
+    "neutral_teammates": [
+      "Ethan Cohen",
+      "Liam Foster"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dante Walker",
+        "score": 3,
+        "reason": "Different styles clash."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted by Tel Aviv Nova after a successful youth career.",
+    "off_court_interests": [
+      "cooking",
+      "fitness"
+    ],
+    "public_reputation": "Known for his competitive spirit and dedication."
+  },
+  "profile_summary": "Oren Shapiro is a versatile small forward with a strong scoring ability and competitive nature. His intensity on the court makes him a key player for the Nova.",
+  "family_relation": {
+    "type": "brother",
+    "related_player": "Daniel Shapiro"
+  }
+}

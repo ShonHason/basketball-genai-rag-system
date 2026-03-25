@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0005_player_08",
+  "name": "Carlos Ramirez",
+  "number": 55,
+  "position": "SF",
+  "height_cm": 193,
+  "age": 27,
+  "nationality": "Mexico",
+  "weight_kg": 89,
+  "wingspan_cm": 205,
+  "personal_info": {
+    "birth_city": "Guadalajara",
+    "country_of_origin": "Mexico",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "family_background": "Cousin of a former professional player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "balanced"
+    ],
+    "strengths": [
+      "scoring",
+      "athleticism"
+    ],
+    "weaknesses": [
+      "defensive awareness"
+    ],
+    "basketball_iq": 75,
+    "motor": 80
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 5,
+    "competitiveness": 6,
+    "work_ethic": 6,
+    "confidence": 6,
+    "temperament": "intense",
+    "locker_room_role": "neutral"
+  },
+  "role_in_team": {
+    "status": "role_player",
+    "is_star": false,
+    "rotation_role": "scoring forward",
+    "minutes_expectation": 20
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 10,
+    "minutes": 20.0,
+    "ppg": 10.2,
+    "rpg": 4.0,
+    "apg": 2.0,
+    "spg": 0.5,
+    "bpg": 0.3,
+    "topg": 1.5,
+    "fg_pct": 43.0,
+    "three_pct": 35.0,
+    "ft_pct": 77.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 2.0,
+    "contract_tier": "bench_prospect",
+    "trade_value": 4
+  },
+  "health_profile": {
+    "durability": 6,
+    "injury_risk": 3,
+    "conditioning": 6
+  },
+  "development_profile": {
+    "ceiling": 75,
+    "current_impact": 60,
+    "improvement_areas": [
+      "defensive awareness"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 65,
+    "media_attention": 55
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Ricardo Vargas",
+        "score": 6,
+        "reason": "Good offensive chemistry."
+      }
+    ],
+    "neutral_teammates": [
+      "Ethan Rivers",
+      "Miles Parker"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Andre Ward",
+        "score": 3,
+        "reason": "Different styles of play."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Acquired through a trade from a rival team.",
+    "off_court_interests": [
+      "art",
+      "fitness"
+    ],
+    "public_reputation": "Known for his scoring ability and work ethic."
+  },
+  "profile_summary": "Carlos Ramirez is a versatile small forward known for his scoring and athleticism. His ability to adapt to various roles makes him a valuable asset for the Seattle Aether.",
+  "family_relation": {
+    "type": "cousin",
+    "related_player": "Luis Ramirez"
+  }
+}

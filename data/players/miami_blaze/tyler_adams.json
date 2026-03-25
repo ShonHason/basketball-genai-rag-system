@@ -1,0 +1,118 @@
+{
+  "player_id": "team_0003_player_01",
+  "name": "Tyler Adams",
+  "number": 10,
+  "position": "PG",
+  "height_cm": 184,
+  "age": 25,
+  "nationality": "USA",
+  "weight_kg": 82,
+  "wingspan_cm": 190,
+  "personal_info": {
+    "birth_city": "Miami",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Son of a former college player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "technical"
+    ],
+    "strengths": [
+      "playmaking",
+      "speed"
+    ],
+    "weaknesses": [
+      "defense"
+    ],
+    "basketball_iq": 85,
+    "motor": 90
+  },
+  "personality": {
+    "leadership": 8,
+    "ego_level": 4,
+    "competitiveness": 9,
+    "work_ethic": 8,
+    "confidence": 7,
+    "temperament": "balanced",
+    "locker_room_role": "leader"
+  },
+  "role_in_team": {
+    "status": "star",
+    "is_star": true,
+    "rotation_role": "starter",
+    "minutes_expectation": 32
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 30.0,
+    "ppg": 16.4,
+    "rpg": 4.0,
+    "apg": 7.0,
+    "spg": 1.5,
+    "bpg": 0.2,
+    "topg": 3.0,
+    "fg_pct": 45.0,
+    "three_pct": 38.0,
+    "ft_pct": 85.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 5.0,
+    "contract_tier": "mid-level",
+    "trade_value": 10
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 3,
+    "conditioning": 9
+  },
+  "development_profile": {
+    "ceiling": 90,
+    "current_impact": 75,
+    "improvement_areas": [
+      "defensive skills"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 85,
+    "media_attention": 70
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Liam Brooks",
+        "score": 9,
+        "reason": "Strong on-court synergy."
+      }
+    ],
+    "neutral_teammates": [
+      "Marco Rossi",
+      "Dante Cruz"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Hiroshi Yamamoto",
+        "score": 4,
+        "reason": "Different playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted by Miami Blaze in 2021.",
+    "off_court_interests": [
+      "gaming",
+      "community service"
+    ],
+    "public_reputation": "Respected for his leadership."
+  },
+  "profile_summary": "Tyler Adams is a dynamic point guard known for his exceptional playmaking and leadership skills. His speed and vision make him a vital part of the Miami Blaze's explosive offense.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "John Adams"
+  }
+}

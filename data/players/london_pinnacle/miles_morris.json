@@ -1,0 +1,118 @@
+{
+  "player_id": "team_0010_player_01",
+  "name": "Miles Morris",
+  "number": 12,
+  "position": "PG",
+  "height_cm": 185,
+  "age": 25,
+  "nationality": "USA",
+  "weight_kg": 80,
+  "wingspan_cm": 190,
+  "personal_info": {
+    "birth_city": "Los Angeles",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Son of a former college player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "technical"
+    ],
+    "strengths": [
+      "playmaking",
+      "defense"
+    ],
+    "weaknesses": [
+      "shooting consistency"
+    ],
+    "basketball_iq": 85,
+    "motor": 90
+  },
+  "personality": {
+    "leadership": 7,
+    "ego_level": 4,
+    "competitiveness": 8,
+    "work_ethic": 9,
+    "confidence": 8,
+    "temperament": "balanced",
+    "locker_room_role": "leader"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": true,
+    "rotation_role": "primary ball handler",
+    "minutes_expectation": 32
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 32.0,
+    "ppg": 16.4,
+    "rpg": 4.0,
+    "apg": 7.0,
+    "spg": 2.0,
+    "bpg": 0.0,
+    "topg": 3.0,
+    "fg_pct": 45.0,
+    "three_pct": 36.0,
+    "ft_pct": 80.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 5.0,
+    "contract_tier": "mid-level",
+    "trade_value": 10
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 2,
+    "conditioning": 9
+  },
+  "development_profile": {
+    "ceiling": 90,
+    "current_impact": 75,
+    "improvement_areas": [
+      "shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 85,
+    "media_attention": 80
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Liam O'Connor",
+        "score": 9,
+        "reason": "Strong on-court synergy."
+      }
+    ],
+    "neutral_teammates": [
+      "Francesco Bruno",
+      "Austin Powell"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Joao Oliveira",
+        "score": 3,
+        "reason": "Competes for minutes."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted by the London Pinnacle after a standout college career.",
+    "off_court_interests": [
+      "gaming",
+      "community service"
+    ],
+    "public_reputation": "Known for his leadership and charitable efforts."
+  },
+  "profile_summary": "Miles Morris is a dynamic point guard known for his playmaking and leadership. With a strong work ethic and a commitment to community service, he has quickly become a fan favorite.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "Michael Morris"
+  }
+}

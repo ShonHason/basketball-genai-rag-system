@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0007_player_04",
+  "name": "Liam Carter",
+  "number": 34,
+  "position": "PF",
+  "height_cm": 209,
+  "age": 28,
+  "nationality": "USA",
+  "weight_kg": 100,
+  "wingspan_cm": 215,
+  "personal_info": {
+    "birth_city": "Chicago",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Son of a former NBA player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "physical",
+      "defensive"
+    ],
+    "strengths": [
+      "rebounding",
+      "defense"
+    ],
+    "weaknesses": [
+      "shooting range"
+    ],
+    "basketball_iq": 82,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 6,
+    "ego_level": 5,
+    "competitiveness": 7,
+    "work_ethic": 9,
+    "confidence": 7,
+    "temperament": "calm",
+    "locker_room_role": "neutral"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "defensive forward",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 75,
+    "minutes": 30.0,
+    "ppg": 11.2,
+    "rpg": 8.0,
+    "apg": 2.0,
+    "spg": 0.5,
+    "bpg": 1.5,
+    "topg": 1.5,
+    "fg_pct": 50.0,
+    "three_pct": 30.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 3,
+    "annual_salary_m": 6.0,
+    "contract_tier": "mid-level",
+    "trade_value": 12
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 2,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 75,
+    "improvement_areas": [
+      "shooting",
+      "offensive skills"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 70,
+    "media_attention": 50
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Dmitri Ivanov",
+        "score": 8,
+        "reason": "Strong defensive pairing."
+      }
+    ],
+    "neutral_teammates": [
+      "Elias Vega",
+      "Javier Morales"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Martin Morales",
+        "score": 3,
+        "reason": "Different styles lead to misunderstandings."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Acquired via trade after a successful career in the league.",
+    "off_court_interests": [
+      "coaching youth basketball",
+      "fitness training"
+    ],
+    "public_reputation": "Respected for his defensive skills and mentorship."
+  },
+  "profile_summary": "Liam Carter is a strong power forward known for his rebounding and defensive prowess. His calm demeanor and experience make him a stabilizing force for the Madrid Quasar.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "James Carter"
+  }
+}

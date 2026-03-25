@@ -1,0 +1,115 @@
+{
+  "player_id": "team_0010_player_03",
+  "name": "Francesco Bruno",
+  "number": 34,
+  "position": "SF",
+  "height_cm": 202,
+  "age": 26,
+  "nationality": "Italy",
+  "weight_kg": 85,
+  "wingspan_cm": 211,
+  "personal_info": {
+    "birth_city": "Rome",
+    "country_of_origin": "Italy",
+    "languages": [
+      "Italian",
+      "English"
+    ],
+    "family_background": "No notable basketball family."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "balanced",
+      "technical"
+    ],
+    "strengths": [
+      "versatility",
+      "defense"
+    ],
+    "weaknesses": [
+      "shooting range"
+    ],
+    "basketball_iq": 82,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 6,
+    "ego_level": 3,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 7,
+    "temperament": "calm",
+    "locker_room_role": "glue-guy"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "two-way player",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 30.0,
+    "ppg": 15.3,
+    "rpg": 5.0,
+    "apg": 3.0,
+    "spg": 1.0,
+    "bpg": 0.0,
+    "topg": 2.0,
+    "fg_pct": 44.0,
+    "three_pct": 32.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 3.0,
+    "contract_tier": "role player",
+    "trade_value": 5
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 2,
+    "conditioning": 9
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 65,
+    "improvement_areas": [
+      "shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 70,
+    "media_attention": 60
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Austin Powell",
+        "score": 8,
+        "reason": "Strong defensive pairing."
+      }
+    ],
+    "neutral_teammates": [
+      "Miles Morris",
+      "Liam O'Connor"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Javier Castillo",
+        "score": 4,
+        "reason": "Different roles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as a free agent after a successful stint in Europe.",
+    "off_court_interests": [
+      "cooking",
+      "traveling"
+    ],
+    "public_reputation": "Respected for his work ethic and team-first mentality."
+  },
+  "profile_summary": "Francesco Bruno is a versatile small forward who excels in both offense and defense. His calm demeanor and strong work ethic make him a valuable asset to the London Pinnacle."
+}

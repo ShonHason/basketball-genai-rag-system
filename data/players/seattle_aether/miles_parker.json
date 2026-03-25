@@ -1,0 +1,114 @@
+{
+  "player_id": "team_0005_player_07",
+  "name": "Miles Parker",
+  "number": 44,
+  "position": "SG",
+  "height_cm": 192,
+  "age": 25,
+  "nationality": "USA",
+  "weight_kg": 85,
+  "wingspan_cm": 206,
+  "personal_info": {
+    "birth_city": "Chicago",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Comes from a family of basketball players."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "fast-paced"
+    ],
+    "strengths": [
+      "shooting",
+      "athleticism"
+    ],
+    "weaknesses": [
+      "defense"
+    ],
+    "basketball_iq": 76,
+    "motor": 84
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 4,
+    "competitiveness": 7,
+    "work_ethic": 7,
+    "confidence": 7,
+    "temperament": "balanced",
+    "locker_room_role": "glue-guy"
+  },
+  "role_in_team": {
+    "status": "sixth_man",
+    "is_star": false,
+    "rotation_role": "scoring spark off the bench",
+    "minutes_expectation": 25
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 5,
+    "minutes": 25.0,
+    "ppg": 14.3,
+    "rpg": 3.0,
+    "apg": 2.0,
+    "spg": 0.6,
+    "bpg": 0.2,
+    "topg": 1.5,
+    "fg_pct": 45.0,
+    "three_pct": 37.0,
+    "ft_pct": 78.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 3.5,
+    "contract_tier": "mid-level",
+    "trade_value": 6
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 65,
+    "improvement_areas": [
+      "defense"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 70,
+    "media_attention": 60
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Andre Harris",
+        "score": 7,
+        "reason": "Good scoring chemistry."
+      }
+    ],
+    "neutral_teammates": [
+      "Ethan Rivers",
+      "Ricardo Vargas"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Carlos Ramirez",
+        "score": 4,
+        "reason": "Different playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted by Seattle Aether after an impressive college career.",
+    "off_court_interests": [
+      "music",
+      "travel"
+    ],
+    "public_reputation": "Known for his scoring ability and charisma."
+  },
+  "profile_summary": "Miles Parker is an athletic shooting guard who brings scoring off the bench. His ability to shoot from deep and drive to the basket makes him a key player for the Seattle Aether."
+}

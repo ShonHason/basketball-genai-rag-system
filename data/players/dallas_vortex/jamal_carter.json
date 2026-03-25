@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0002_player_03",
+  "name": "Jamal Carter",
+  "number": 33,
+  "position": "SF",
+  "height_cm": 200,
+  "age": 27,
+  "nationality": "USA",
+  "weight_kg": 90,
+  "wingspan_cm": 208,
+  "personal_info": {
+    "birth_city": "Chicago",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Brother of a former college player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "balanced",
+      "technical"
+    ],
+    "strengths": [
+      "versatility",
+      "defense"
+    ],
+    "weaknesses": [
+      "inconsistent shooting"
+    ],
+    "basketball_iq": 7,
+    "motor": 8
+  },
+  "personality": {
+    "leadership": 6,
+    "ego_level": 4,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 6,
+    "temperament": "calm",
+    "locker_room_role": "quiet-worker"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "defensive specialist",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 70,
+    "minutes": 30.0,
+    "ppg": 13.7,
+    "rpg": 6.0,
+    "apg": 3.0,
+    "spg": 1.5,
+    "bpg": 0.5,
+    "topg": 1.8,
+    "fg_pct": 44.0,
+    "three_pct": 34.0,
+    "ft_pct": 78.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 3.0,
+    "contract_tier": "role player",
+    "trade_value": 8
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 7,
+    "current_impact": 5,
+    "improvement_areas": [
+      "shooting",
+      "offensive consistency"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 70,
+    "media_attention": 50
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Rafael Silva",
+        "score": 8,
+        "reason": "Strong defensive partnership."
+      }
+    ],
+    "neutral_teammates": [
+      "Tyler Grant",
+      "Dante Rivers"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Omar Al-Farsi",
+        "score": 5,
+        "reason": "Different playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Acquired via trade for a future draft pick.",
+    "off_court_interests": [
+      "travel",
+      "photography"
+    ],
+    "public_reputation": "Respected for his defensive skills and work ethic."
+  },
+  "profile_summary": "Jamal Carter is a versatile small forward known for his defensive prowess. His ability to adapt makes him a valuable asset for the Vortex.",
+  "family_relation": {
+    "type": "brother",
+    "related_player": "Former college player"
+  }
+}

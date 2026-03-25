@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0002_player_02",
+  "name": "Dante Rivers",
+  "number": 22,
+  "position": "SG",
+  "height_cm": 185,
+  "age": 24,
+  "nationality": "USA",
+  "weight_kg": 88,
+  "wingspan_cm": 193,
+  "personal_info": {
+    "birth_city": "Los Angeles",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Cousin of a former NBA player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "fast-paced"
+    ],
+    "strengths": [
+      "scoring",
+      "athleticism"
+    ],
+    "weaknesses": [
+      "defensive consistency"
+    ],
+    "basketball_iq": 7,
+    "motor": 8
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 6,
+    "competitiveness": 9,
+    "work_ethic": 8,
+    "confidence": 7,
+    "temperament": "intense",
+    "locker_room_role": "glue-guy"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "scoring guard",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 75,
+    "minutes": 30.0,
+    "ppg": 20.5,
+    "rpg": 3.0,
+    "apg": 4.0,
+    "spg": 1.2,
+    "bpg": 0.2,
+    "topg": 2.5,
+    "fg_pct": 46.0,
+    "three_pct": 38.0,
+    "ft_pct": 80.0
+  },
+  "contract": {
+    "years_remaining": 3,
+    "annual_salary_m": 4.0,
+    "contract_tier": "mid-level",
+    "trade_value": 12
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 8,
+    "current_impact": 6,
+    "improvement_areas": [
+      "defense",
+      "playmaking"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 80,
+    "media_attention": 70
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Tyler Grant",
+        "score": 9,
+        "reason": "Excellent chemistry on the court."
+      }
+    ],
+    "neutral_teammates": [
+      "Jamal Carter",
+      "Kaito Tanaka"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Ethan Park",
+        "score": 5,
+        "reason": "Competes for minutes."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as a free agent after a strong season with another team.",
+    "off_court_interests": [
+      "music",
+      "fitness"
+    ],
+    "public_reputation": "Known for his scoring ability and competitive spirit."
+  },
+  "profile_summary": "Dante Rivers is a talented shooting guard with a knack for scoring. His competitive nature and strong connection with Tyler Grant make him a key player for the Vortex.",
+  "family_relation": {
+    "type": "cousin",
+    "related_player": "Former NBA player"
+  }
+}

@@ -1,0 +1,1131 @@
+{
+  "city": "Lisbon",
+  "country": "Portugal",
+  "name": "Elysium",
+  "conference": "Western Conference",
+  "division": "North Division",
+  "arena": {
+    "name": "Elysium Arena",
+    "capacity": 21000
+  },
+  "ownership": {
+    "owner": "Miguel Santos",
+    "president": "Ana Oliveira",
+    "general_manager": "Rafael Costa"
+  },
+  "branding": {
+    "colors": [
+      "green",
+      "white",
+      "gold"
+    ],
+    "mascot": "Elysium the Lion"
+  },
+  "market": {
+    "market_size": "medium",
+    "city_population": 550000
+  },
+  "history": {
+    "conference_titles": 0,
+    "division_titles": 0,
+    "playoff_appearances": 1,
+    "championships": 0
+  },
+  "coaching_staff": {
+    "head_coach": "Carlos Mendes",
+    "assistant_coaches": [
+      "Sofia Pereira",
+      "Luis Almeida"
+    ],
+    "strength_coach": "Marco Silva"
+  },
+  "roster": [
+    {
+      "player_id": "team_0011_player_01",
+      "name": "Lucas Ferreira",
+      "number": 5,
+      "position": "PG",
+      "height_cm": 182,
+      "age": 24,
+      "nationality": "USA",
+      "weight_kg": 82,
+      "wingspan_cm": 190,
+      "personal_info": {
+        "birth_city": "Los Angeles",
+        "country_of_origin": "USA",
+        "languages": [
+          "English",
+          "Spanish"
+        ],
+        "family_background": "Son of a former college player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "technical"
+        ],
+        "strengths": [
+          "playmaking",
+          "defense"
+        ],
+        "weaknesses": [
+          "shooting consistency"
+        ],
+        "basketball_iq": 85,
+        "motor": 90
+      },
+      "personality": {
+        "leadership": 7,
+        "ego_level": 5,
+        "competitiveness": 8,
+        "work_ethic": 9,
+        "confidence": 8,
+        "temperament": "balanced",
+        "locker_room_role": "leader"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": true,
+        "rotation_role": "primary playmaker",
+        "minutes_expectation": 32
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 32.0,
+        "ppg": 15.9,
+        "rpg": 4.0,
+        "apg": 8.0,
+        "spg": 1.5,
+        "bpg": 0.3,
+        "topg": 3.0,
+        "fg_pct": 45.0,
+        "three_pct": 35.0,
+        "ft_pct": 80.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 3.5,
+        "contract_tier": "mid-level",
+        "trade_value": 10
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 9
+      },
+      "development_profile": {
+        "ceiling": 90,
+        "current_impact": 75,
+        "improvement_areas": [
+          "shooting",
+          "leadership"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 80,
+        "media_attention": 70
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Diego Martins",
+            "score": 9,
+            "reason": "Strong on-court synergy."
+          }
+        ],
+        "neutral_teammates": [
+          "Joaquim Ribeiro",
+          "Mateus Costa"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Ethan Brooks",
+            "score": 3,
+            "reason": "Competes for ball control."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by Lisbon Elysium after a standout college career.",
+        "off_court_interests": [
+          "music",
+          "community service"
+        ],
+        "public_reputation": "Known for his charitable work and community involvement."
+      },
+      "profile_summary": "Lucas Ferreira is a dynamic point guard known for his exceptional playmaking and leadership skills. With a strong community presence, he is a fan favorite and a key player for the Lisbon Elysium.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "Carlos Ferreira"
+      }
+    },
+    {
+      "player_id": "team_0011_player_04",
+      "name": "Diego Martins",
+      "number": 11,
+      "position": "PF",
+      "height_cm": 210,
+      "age": 28,
+      "nationality": "Portugal",
+      "weight_kg": 100,
+      "wingspan_cm": 220,
+      "personal_info": {
+        "birth_city": "Porto",
+        "country_of_origin": "Portugal",
+        "languages": [
+          "Portuguese",
+          "English"
+        ],
+        "family_background": "Brother of a former national team player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "gritty",
+          "physical"
+        ],
+        "strengths": [
+          "rebounding",
+          "post defense"
+        ],
+        "weaknesses": [
+          "perimeter shooting"
+        ],
+        "basketball_iq": 80,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 6,
+        "ego_level": 5,
+        "competitiveness": 9,
+        "work_ethic": 9,
+        "confidence": 7,
+        "temperament": "intense",
+        "locker_room_role": "mentor"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive anchor",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 75,
+        "minutes": 30.0,
+        "ppg": 12.7,
+        "rpg": 9.0,
+        "apg": 2.0,
+        "spg": 0.5,
+        "bpg": 1.5,
+        "topg": 1.2,
+        "fg_pct": 48.0,
+        "three_pct": 25.0,
+        "ft_pct": 70.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 2.2,
+        "contract_tier": "role_player",
+        "trade_value": 4
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 68,
+        "improvement_areas": [
+          "shooting",
+          "offensive versatility"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 65,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Ethan Brooks",
+            "score": 8,
+            "reason": "Strong inside presence together."
+          }
+        ],
+        "neutral_teammates": [
+          "Lucas Ferreira",
+          "Joaquim Ribeiro"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Hugo Almeida",
+            "score": 3,
+            "reason": "Different work ethics."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by the team, has grown into a key player.",
+        "off_court_interests": [
+          "fitness",
+          "coaching youth"
+        ],
+        "public_reputation": "Known for his toughness and leadership."
+      },
+      "profile_summary": "Diego Martins is a powerful power forward known for his rebounding and defensive skills. His leadership on and off the court makes him a cornerstone of the Lisbon Elysium.",
+      "family_relation": {
+        "type": "brother",
+        "related_player": "Pedro Martins"
+      }
+    },
+    {
+      "player_id": "team_0011_player_06",
+      "name": "Hugo Almeida",
+      "number": 12,
+      "position": "PG",
+      "height_cm": 181,
+      "age": 22,
+      "nationality": "Portugal",
+      "weight_kg": 78,
+      "wingspan_cm": 185,
+      "personal_info": {
+        "birth_city": "Lisbon",
+        "country_of_origin": "Portugal",
+        "languages": [
+          "Portuguese",
+          "English"
+        ],
+        "family_background": "Youngest brother of a former league MVP."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "youth-focused",
+          "fast-paced"
+        ],
+        "strengths": [
+          "speed",
+          "ball-handling"
+        ],
+        "weaknesses": [
+          "experience"
+        ],
+        "basketball_iq": 75,
+        "motor": 90
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 3,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 6,
+        "temperament": "balanced",
+        "locker_room_role": "neutral"
+      },
+      "role_in_team": {
+        "status": "bench_prospect",
+        "is_star": false,
+        "rotation_role": "backup point guard",
+        "minutes_expectation": 15
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 5,
+        "minutes": 15.0,
+        "ppg": 6.4,
+        "rpg": 2.0,
+        "apg": 3.0,
+        "spg": 0.8,
+        "bpg": 0.1,
+        "topg": 1.5,
+        "fg_pct": 42.0,
+        "three_pct": 30.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 3,
+        "annual_salary_m": 1.5,
+        "contract_tier": "rookie",
+        "trade_value": 2
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 2,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 60,
+        "improvement_areas": [
+          "decision-making",
+          "shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 65,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Lucas Ferreira",
+            "score": 7,
+            "reason": "Mentorship and guidance."
+          }
+        ],
+        "neutral_teammates": [
+          "Joaquim Ribeiro",
+          "Mateus Costa"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Ethan Brooks",
+            "score": 3,
+            "reason": "Struggles to fit in with the veterans."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted as a promising talent, looking to prove himself.",
+        "off_court_interests": [
+          "music",
+          "video games"
+        ],
+        "public_reputation": "Known for his potential and youthful energy."
+      },
+      "profile_summary": "Hugo Almeida is an energetic point guard with a bright future ahead. His speed and ball-handling skills make him an exciting player to watch for the Lisbon Elysium.",
+      "family_relation": {
+        "type": "brother",
+        "related_player": "André Almeida"
+      }
+    },
+    {
+      "player_id": "team_0011_player_08",
+      "name": "Rafael Santos",
+      "number": 21,
+      "position": "PF",
+      "height_cm": 203,
+      "age": 23,
+      "nationality": "Brazil",
+      "weight_kg": 95,
+      "wingspan_cm": 210,
+      "personal_info": {
+        "birth_city": "Rio de Janeiro",
+        "country_of_origin": "Brazil",
+        "languages": [
+          "Portuguese",
+          "English"
+        ],
+        "family_background": "Son of a former professional player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "gritty",
+          "defensive"
+        ],
+        "strengths": [
+          "rebounding",
+          "defensive presence"
+        ],
+        "weaknesses": [
+          "offensive consistency"
+        ],
+        "basketball_iq": 76,
+        "motor": 84
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 5,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "role_player",
+        "is_star": false,
+        "rotation_role": "defensive specialist",
+        "minutes_expectation": 20
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 10,
+        "minutes": 20.0,
+        "ppg": 8.5,
+        "rpg": 6.0,
+        "apg": 1.0,
+        "spg": 0.5,
+        "bpg": 0.8,
+        "topg": 1.0,
+        "fg_pct": 45.0,
+        "three_pct": 30.0,
+        "ft_pct": 72.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 1.8,
+        "contract_tier": "rookie",
+        "trade_value": 3
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 2,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 65,
+        "improvement_areas": [
+          "offensive game",
+          "shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 68,
+        "media_attention": 52
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Diego Martins",
+            "score": 7,
+            "reason": "Strong inside presence."
+          }
+        ],
+        "neutral_teammates": [
+          "Lucas Ferreira",
+          "Mateus Costa"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Hugo Almeida",
+            "score": 3,
+            "reason": "Different work ethics."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted as a promising talent, looking to establish himself.",
+        "off_court_interests": [
+          "fitness",
+          "music"
+        ],
+        "public_reputation": "Known for his potential and work ethic."
+      },
+      "profile_summary": "Rafael Santos is a promising power forward with a strong defensive presence. His rebounding skills and potential make him a valuable asset for the Lisbon Elysium.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "Fernando Santos"
+      }
+    },
+    {
+      "player_id": "team_0011_player_02",
+      "name": "Joaquim Ribeiro",
+      "number": 23,
+      "position": "SG",
+      "height_cm": 193,
+      "age": 26,
+      "nationality": "Portugal",
+      "weight_kg": 85,
+      "wingspan_cm": 202,
+      "personal_info": {
+        "birth_city": "Lisbon",
+        "country_of_origin": "Portugal",
+        "languages": [
+          "Portuguese",
+          "English"
+        ],
+        "family_background": "Cousin of a former national team player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "fast-paced"
+        ],
+        "strengths": [
+          "scoring",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defensive consistency"
+        ],
+        "basketball_iq": 80,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 6,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "scoring option",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 75,
+        "minutes": 30.0,
+        "ppg": 19.1,
+        "rpg": 3.0,
+        "apg": 4.0,
+        "spg": 1.0,
+        "bpg": 0.2,
+        "topg": 2.5,
+        "fg_pct": 46.0,
+        "three_pct": 37.0,
+        "ft_pct": 78.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 2.5,
+        "contract_tier": "role_player",
+        "trade_value": 5
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 70,
+        "improvement_areas": [
+          "defense",
+          "playmaking"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 75,
+        "media_attention": 60
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Hugo Almeida",
+            "score": 8,
+            "reason": "Good off-ball movement together."
+          }
+        ],
+        "neutral_teammates": [
+          "Lucas Ferreira",
+          "Mateus Costa"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Ethan Brooks",
+            "score": 4,
+            "reason": "Clashes over shot selection."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Joined the team as a local talent, quickly becoming a fan favorite.",
+        "off_court_interests": [
+          "fashion",
+          "travel"
+        ],
+        "public_reputation": "Known for his style and charisma."
+      },
+      "profile_summary": "Joaquim Ribeiro is a talented shooting guard with a flair for scoring and a vibrant personality. His local roots make him a beloved figure in Lisbon Elysium's community.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "Miguel Ribeiro"
+      }
+    },
+    {
+      "player_id": "team_0011_player_07",
+      "name": "Noah Johnson",
+      "number": 30,
+      "position": "SF",
+      "height_cm": 195,
+      "age": 25,
+      "nationality": "USA",
+      "weight_kg": 88,
+      "wingspan_cm": 205,
+      "personal_info": {
+        "birth_city": "Miami",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Cousin of a former college star."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "balanced",
+          "offensive"
+        ],
+        "strengths": [
+          "scoring",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defense"
+        ],
+        "basketball_iq": 79,
+        "motor": 82
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 6,
+        "competitiveness": 7,
+        "work_ethic": 7,
+        "confidence": 7,
+        "temperament": "calm",
+        "locker_room_role": "neutral"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "scoring wing",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 75,
+        "minutes": 30.0,
+        "ppg": 17.0,
+        "rpg": 5.0,
+        "apg": 2.0,
+        "spg": 0.7,
+        "bpg": 0.3,
+        "topg": 1.5,
+        "fg_pct": 47.0,
+        "three_pct": 36.0,
+        "ft_pct": 78.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 2.0,
+        "contract_tier": "role_player",
+        "trade_value": 5
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 84,
+        "current_impact": 69,
+        "improvement_areas": [
+          "defense",
+          "playmaking"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 72,
+        "media_attention": 58
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Mateus Costa",
+            "score": 8,
+            "reason": "Good scoring partnership."
+          }
+        ],
+        "neutral_teammates": [
+          "Lucas Ferreira",
+          "Joaquim Ribeiro"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Ethan Brooks",
+            "score": 4,
+            "reason": "Different styles of play."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Acquired through a trade, quickly adapted to the team's system.",
+        "off_court_interests": [
+          "fitness",
+          "music"
+        ],
+        "public_reputation": "Known for his scoring ability and work ethic."
+      },
+      "profile_summary": "Noah Johnson is a versatile small forward with a knack for scoring. His athleticism and ability to create shots make him a key player for the Lisbon Elysium.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "Michael Johnson"
+      }
+    },
+    {
+      "player_id": "team_0011_player_03",
+      "name": "Mateus Costa",
+      "number": 34,
+      "position": "SF",
+      "height_cm": 200,
+      "age": 27,
+      "nationality": "Brazil",
+      "weight_kg": 90,
+      "wingspan_cm": 207,
+      "personal_info": {
+        "birth_city": "São Paulo",
+        "country_of_origin": "Brazil",
+        "languages": [
+          "Portuguese",
+          "English"
+        ],
+        "family_background": "Son of a former professional player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "balanced",
+          "technical"
+        ],
+        "strengths": [
+          "versatility",
+          "defense"
+        ],
+        "weaknesses": [
+          "shooting range"
+        ],
+        "basketball_iq": 82,
+        "motor": 88
+      },
+      "personality": {
+        "leadership": 6,
+        "ego_level": 4,
+        "competitiveness": 6,
+        "work_ethic": 9,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "glue-guy"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "two-way player",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 70,
+        "minutes": 30.0,
+        "ppg": 14.8,
+        "rpg": 6.0,
+        "apg": 3.0,
+        "spg": 1.0,
+        "bpg": 0.5,
+        "topg": 1.8,
+        "fg_pct": 44.0,
+        "three_pct": 34.0,
+        "ft_pct": 79.0
+      },
+      "contract": {
+        "years_remaining": 3,
+        "annual_salary_m": 2.8,
+        "contract_tier": "mid-level",
+        "trade_value": 7
+      },
+      "health_profile": {
+        "durability": 9,
+        "injury_risk": 2,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 88,
+        "current_impact": 72,
+        "improvement_areas": [
+          "shooting consistency",
+          "playmaking"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 70,
+        "media_attention": 55
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Noah Johnson",
+            "score": 8,
+            "reason": "Great defensive chemistry."
+          }
+        ],
+        "neutral_teammates": [
+          "Lucas Ferreira",
+          "Joaquim Ribeiro"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Ethan Brooks",
+            "score": 4,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Acquired through a trade, quickly adapted to the team's style.",
+        "off_court_interests": [
+          "cooking",
+          "fitness"
+        ],
+        "public_reputation": "Respected for his work ethic and dedication."
+      },
+      "profile_summary": "Mateus Costa is a versatile small forward known for his defensive prowess and ability to contribute on both ends of the floor. His dedication and work ethic make him a valuable asset to the Lisbon Elysium.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "Ricardo Costa"
+      }
+    },
+    {
+      "player_id": "team_0011_player_05",
+      "name": "Ethan Brooks",
+      "number": 44,
+      "position": "C",
+      "height_cm": 215,
+      "age": 29,
+      "nationality": "USA",
+      "weight_kg": 110,
+      "wingspan_cm": 220,
+      "personal_info": {
+        "birth_city": "Chicago",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Son of a former NBA player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "defensive",
+          "physical"
+        ],
+        "strengths": [
+          "shot-blocking",
+          "rebounding"
+        ],
+        "weaknesses": [
+          "offensive versatility"
+        ],
+        "basketball_iq": 78,
+        "motor": 80
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 7,
+        "competitiveness": 8,
+        "work_ethic": 7,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive specialist",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 10.6,
+        "rpg": 10.0,
+        "apg": 1.0,
+        "spg": 0.5,
+        "bpg": 2.0,
+        "topg": 1.5,
+        "fg_pct": 50.0,
+        "three_pct": 20.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 4.0,
+        "contract_tier": "mid-level",
+        "trade_value": 9
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 6
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 70,
+        "improvement_areas": [
+          "offensive game",
+          "passing"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 60,
+        "media_attention": 55
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Diego Martins",
+            "score": 8,
+            "reason": "Strong defensive pairing."
+          }
+        ],
+        "neutral_teammates": [
+          "Lucas Ferreira",
+          "Mateus Costa"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Joaquim Ribeiro",
+            "score": 4,
+            "reason": "Different offensive styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed as a free agent, quickly became a defensive anchor.",
+        "off_court_interests": [
+          "gaming",
+          "fitness"
+        ],
+        "public_reputation": "Known for his quiet demeanor and work ethic."
+      },
+      "profile_summary": "Ethan Brooks is a dominant center recognized for his shot-blocking and rebounding abilities. His defensive presence is vital for the Lisbon Elysium's success.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "Mark Brooks"
+      }
+    }
+  ],
+  "rivalries": [
+    {
+      "team": "Aether",
+      "type": "inter-conference"
+    },
+    {
+      "team": "Nova",
+      "type": "inter-conference"
+    }
+  ],
+  "sponsors": {
+    "primary": "Tech Innovations",
+    "secondary": "Green Solutions"
+  },
+  "description": "Elysium is known for its vibrant gameplay and strong community ties, making it an exciting team in the Hoopball League.",
+  "id": "team_0011",
+  "team_dynamics": {
+    "team_name": "Lisbon Elysium",
+    "locker_room_leaders": [
+      "Lucas Ferreira",
+      "Diego Martins",
+      "Mateus Costa"
+    ],
+    "star_players": [
+      "Lucas Ferreira"
+    ],
+    "mentor_pairs": [
+      {
+        "mentor": "Diego Martins",
+        "teammate": "Ethan Brooks",
+        "reason": "Strong inside presence together."
+      }
+    ],
+    "notable_friendships": [
+      {
+        "players": [
+          "Diego Martins",
+          "Lucas Ferreira"
+        ],
+        "reason": "Strong on-court synergy."
+      },
+      {
+        "players": [
+          "Diego Martins",
+          "Ethan Brooks"
+        ],
+        "reason": "Strong inside presence together."
+      },
+      {
+        "players": [
+          "Hugo Almeida",
+          "Lucas Ferreira"
+        ],
+        "reason": "Mentorship and guidance."
+      },
+      {
+        "players": [
+          "Diego Martins",
+          "Rafael Santos"
+        ],
+        "reason": "Strong inside presence."
+      },
+      {
+        "players": [
+          "Hugo Almeida",
+          "Joaquim Ribeiro"
+        ],
+        "reason": "Good off-ball movement together."
+      },
+      {
+        "players": [
+          "Mateus Costa",
+          "Noah Johnson"
+        ],
+        "reason": "Good scoring partnership."
+      }
+    ],
+    "internal_tensions": [
+      {
+        "players": [
+          "Ethan Brooks",
+          "Lucas Ferreira"
+        ],
+        "reason": "Competes for ball control."
+      },
+      {
+        "players": [
+          "Diego Martins",
+          "Hugo Almeida"
+        ],
+        "reason": "Different work ethics."
+      },
+      {
+        "players": [
+          "Ethan Brooks",
+          "Hugo Almeida"
+        ],
+        "reason": "Struggles to fit in with the veterans."
+      },
+      {
+        "players": [
+          "Hugo Almeida",
+          "Rafael Santos"
+        ],
+        "reason": "Different work ethics."
+      },
+      {
+        "players": [
+          "Ethan Brooks",
+          "Joaquim Ribeiro"
+        ],
+        "reason": "Clashes over shot selection."
+      },
+      {
+        "players": [
+          "Ethan Brooks",
+          "Noah Johnson"
+        ],
+        "reason": "Different styles of play."
+      },
+      {
+        "players": [
+          "Ethan Brooks",
+          "Mateus Costa"
+        ],
+        "reason": "Different playing styles."
+      }
+    ]
+  }
+}

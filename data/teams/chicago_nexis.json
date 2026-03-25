@@ -1,0 +1,1104 @@
+{
+  "city": "Chicago",
+  "country": "USA",
+  "name": "Nexis",
+  "conference": "Eastern Conference",
+  "division": "North Division",
+  "arena": {
+    "name": "Nexis Arena",
+    "capacity": 21000
+  },
+  "ownership": {
+    "owner": "Evelyn Carter",
+    "president": "Marcus Lee",
+    "general_manager": "Sofia Patel"
+  },
+  "branding": {
+    "colors": [
+      "green",
+      "white",
+      "gold"
+    ],
+    "mascot": "Nexis the Panther"
+  },
+  "market": {
+    "market_size": "large",
+    "city_population": 2700000
+  },
+  "history": {
+    "conference_titles": 1,
+    "division_titles": 1,
+    "playoff_appearances": 4,
+    "championships": 0
+  },
+  "coaching_staff": {
+    "head_coach": "Oliver Grant",
+    "assistant_coaches": [
+      "Chloe Nguyen",
+      "Isaac Brooks"
+    ],
+    "strength_coach": "Maya Chen"
+  },
+  "roster": [
+    {
+      "player_id": "team_0004_player_06",
+      "name": "Ethan Carter",
+      "number": 5,
+      "position": "PG",
+      "height_cm": 181,
+      "age": 23,
+      "nationality": "USA",
+      "weight_kg": 80,
+      "wingspan_cm": 185,
+      "personal_info": {
+        "birth_city": "Miami",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "No notable basketball lineage."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "technical"
+        ],
+        "strengths": [
+          "speed",
+          "playmaking"
+        ],
+        "weaknesses": [
+          "defensive awareness"
+        ],
+        "basketball_iq": 75,
+        "motor": 84
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 5,
+        "competitiveness": 7,
+        "work_ethic": 7,
+        "confidence": 6,
+        "temperament": "balanced",
+        "locker_room_role": "neutral"
+      },
+      "role_in_team": {
+        "status": "bench_prospect",
+        "is_star": false,
+        "rotation_role": "backup point guard",
+        "minutes_expectation": 15
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 10,
+        "minutes": 15.0,
+        "ppg": 8.5,
+        "rpg": 2.0,
+        "apg": 3.0,
+        "spg": 0.8,
+        "bpg": 0.1,
+        "topg": 1.5,
+        "fg_pct": 42.0,
+        "three_pct": 34.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 2.0,
+        "contract_tier": "role player",
+        "trade_value": 3
+      },
+      "health_profile": {
+        "durability": 6,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 75,
+        "current_impact": 50,
+        "improvement_areas": [
+          "defense",
+          "decision-making"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 55,
+        "media_attention": 45
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Yuki Sato",
+            "score": 7,
+            "reason": "Good understanding in transition."
+          }
+        ],
+        "neutral_teammates": [
+          "Derek Lawson",
+          "Jaxon Reed"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Riku Nakamura",
+            "score": 3,
+            "reason": "Different playing styles create tension."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed as a free agent after a standout college career.",
+        "off_court_interests": [
+          "music",
+          "fitness"
+        ],
+        "public_reputation": "Known for his speed and playmaking ability."
+      },
+      "profile_summary": "Ethan Carter is a promising young point guard with exceptional speed and playmaking skills. He is seen as a future contributor for the Chicago Nexis."
+    },
+    {
+      "player_id": "team_0004_player_01",
+      "name": "Derek Lawson",
+      "number": 12,
+      "position": "PG",
+      "height_cm": 178,
+      "age": 26,
+      "nationality": "USA",
+      "weight_kg": 82,
+      "wingspan_cm": 190,
+      "personal_info": {
+        "birth_city": "Chicago",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Son of a former college player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "technical"
+        ],
+        "strengths": [
+          "playmaking",
+          "defense"
+        ],
+        "weaknesses": [
+          "shooting consistency"
+        ],
+        "basketball_iq": 85,
+        "motor": 90
+      },
+      "personality": {
+        "leadership": 8,
+        "ego_level": 4,
+        "competitiveness": 9,
+        "work_ethic": 9,
+        "confidence": 8,
+        "temperament": "balanced",
+        "locker_room_role": "leader"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": true,
+        "rotation_role": "primary ball handler",
+        "minutes_expectation": 32
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 32.0,
+        "ppg": 17.0,
+        "rpg": 4.0,
+        "apg": 7.0,
+        "spg": 1.5,
+        "bpg": 0.3,
+        "topg": 2.5,
+        "fg_pct": 45.0,
+        "three_pct": 36.0,
+        "ft_pct": 80.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 5.0,
+        "contract_tier": "mid-level",
+        "trade_value": 10
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 3,
+        "conditioning": 9
+      },
+      "development_profile": {
+        "ceiling": 90,
+        "current_impact": 75,
+        "improvement_areas": [
+          "shooting",
+          "leadership"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 80,
+        "media_attention": 70
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Jaxon Reed",
+            "score": 9,
+            "reason": "Strong on-court synergy and friendship."
+          }
+        ],
+        "neutral_teammates": [
+          "Felix Moreno",
+          "Luca Ferraro"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Riku Nakamura",
+            "score": 3,
+            "reason": "Clash in playing style."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by Chicago Nexis after a standout college career.",
+        "off_court_interests": [
+          "community service",
+          "gaming"
+        ],
+        "public_reputation": "Respected for his leadership and community involvement."
+      },
+      "profile_summary": "Derek Lawson is a dynamic point guard known for his exceptional playmaking and leadership skills. A fan favorite, he combines speed and intelligence on the court, making him a key player for the Chicago Nexis.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "Mark Lawson"
+      }
+    },
+    {
+      "player_id": "team_0004_player_08",
+      "name": "Yuki Sato",
+      "number": 15,
+      "position": "PF",
+      "height_cm": 209,
+      "age": 22,
+      "nationality": "Japan",
+      "weight_kg": 95,
+      "wingspan_cm": 218,
+      "personal_info": {
+        "birth_city": "Osaka",
+        "country_of_origin": "Japan",
+        "languages": [
+          "Japanese",
+          "English"
+        ],
+        "family_background": "No notable basketball lineage."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "youth-focused",
+          "fast-paced"
+        ],
+        "strengths": [
+          "athleticism",
+          "versatility"
+        ],
+        "weaknesses": [
+          "experience"
+        ],
+        "basketball_iq": 75,
+        "motor": 80
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 3,
+        "competitiveness": 6,
+        "work_ethic": 8,
+        "confidence": 5,
+        "temperament": "calm",
+        "locker_room_role": "neutral"
+      },
+      "role_in_team": {
+        "status": "bench_prospect",
+        "is_star": false,
+        "rotation_role": "versatile forward",
+        "minutes_expectation": 12
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 5,
+        "minutes": 12.0,
+        "ppg": 6.4,
+        "rpg": 3.0,
+        "apg": 1.0,
+        "spg": 0.5,
+        "bpg": 0.3,
+        "topg": 1.0,
+        "fg_pct": 40.0,
+        "three_pct": 30.0,
+        "ft_pct": 70.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 1.0,
+        "contract_tier": "rookie",
+        "trade_value": 2
+      },
+      "health_profile": {
+        "durability": 6,
+        "injury_risk": 2,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 75,
+        "current_impact": 50,
+        "improvement_areas": [
+          "experience",
+          "shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 50,
+        "media_attention": 40
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Ethan Carter",
+            "score": 7,
+            "reason": "Good understanding in transition."
+          }
+        ],
+        "neutral_teammates": [
+          "Derek Lawson",
+          "Jaxon Reed"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Riku Nakamura",
+            "score": 3,
+            "reason": "Different playing styles create tension."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by the Nexis after a standout performance in Japan.",
+        "off_court_interests": [
+          "gaming",
+          "anime"
+        ],
+        "public_reputation": "Known for his athleticism and potential."
+      },
+      "profile_summary": "Yuki Sato is a promising young power forward with great athleticism and versatility. His potential makes him an exciting prospect for the Chicago Nexis."
+    },
+    {
+      "player_id": "team_0004_player_07",
+      "name": "Aiden O'Connor",
+      "number": 24,
+      "position": "SF",
+      "height_cm": 197,
+      "age": 25,
+      "nationality": "Ireland",
+      "weight_kg": 90,
+      "wingspan_cm": 205,
+      "personal_info": {
+        "birth_city": "Dublin",
+        "country_of_origin": "Ireland",
+        "languages": [
+          "English"
+        ],
+        "family_background": "No notable basketball lineage."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "balanced",
+          "technical"
+        ],
+        "strengths": [
+          "athleticism",
+          "defense"
+        ],
+        "weaknesses": [
+          "shooting consistency"
+        ],
+        "basketball_iq": 78,
+        "motor": 82
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 4,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "mentor"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive wing",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 14.8,
+        "rpg": 5.0,
+        "apg": 2.0,
+        "spg": 1.0,
+        "bpg": 0.4,
+        "topg": 1.5,
+        "fg_pct": 47.0,
+        "three_pct": 33.0,
+        "ft_pct": 76.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 3.0,
+        "contract_tier": "mid-level",
+        "trade_value": 6
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 65,
+        "improvement_areas": [
+          "shooting",
+          "playmaking"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 70,
+        "media_attention": 55
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Felix Moreno",
+            "score": 8,
+            "reason": "Great understanding on both ends of the court."
+          }
+        ],
+        "neutral_teammates": [
+          "Derek Lawson",
+          "Jaxon Reed"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Riku Nakamura",
+            "score": 4,
+            "reason": "Different playing styles create tension."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by the Nexis after a successful college career in Ireland.",
+        "off_court_interests": [
+          "music",
+          "traveling"
+        ],
+        "public_reputation": "Respected for his defensive skills and work ethic."
+      },
+      "profile_summary": "Aiden O'Connor is a versatile small forward known for his athleticism and defensive skills. His ability to contribute on both ends of the court makes him a valuable player for the Chicago Nexis."
+    },
+    {
+      "player_id": "team_0004_player_02",
+      "name": "Jaxon Reed",
+      "number": 25,
+      "position": "SG",
+      "height_cm": 187,
+      "age": 24,
+      "nationality": "USA",
+      "weight_kg": 88,
+      "wingspan_cm": 195,
+      "personal_info": {
+        "birth_city": "Los Angeles",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Cousin of a former NBA player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "fast-paced"
+        ],
+        "strengths": [
+          "scoring",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defensive consistency"
+        ],
+        "basketball_iq": 80,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 6,
+        "ego_level": 5,
+        "competitiveness": 8,
+        "work_ethic": 7,
+        "confidence": 7,
+        "temperament": "intense",
+        "locker_room_role": "glue-guy"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "scoring guard",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 19.1,
+        "rpg": 3.0,
+        "apg": 4.0,
+        "spg": 1.2,
+        "bpg": 0.2,
+        "topg": 2.2,
+        "fg_pct": 46.0,
+        "three_pct": 37.0,
+        "ft_pct": 78.0
+      },
+      "contract": {
+        "years_remaining": 3,
+        "annual_salary_m": 4.0,
+        "contract_tier": "mid-level",
+        "trade_value": 8
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 4,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 70,
+        "improvement_areas": [
+          "defense",
+          "playmaking"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 75,
+        "media_attention": 65
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Derek Lawson",
+            "score": 9,
+            "reason": "Strong on-court synergy and friendship."
+          }
+        ],
+        "neutral_teammates": [
+          "Felix Moreno",
+          "Luca Ferraro"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Yuki Sato",
+            "score": 4,
+            "reason": "Different playing styles create tension."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Acquired through a trade after a promising rookie season.",
+        "off_court_interests": [
+          "music",
+          "fitness"
+        ],
+        "public_reputation": "Known for his scoring ability and work ethic."
+      },
+      "profile_summary": "Jaxon Reed is an explosive shooting guard who excels in scoring and athleticism. His ability to create his own shot makes him a vital asset for the Chicago Nexis.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "Ryan Reed"
+      }
+    },
+    {
+      "player_id": "team_0004_player_05",
+      "name": "Riku Nakamura",
+      "number": 33,
+      "position": "C",
+      "height_cm": 218,
+      "age": 29,
+      "nationality": "Japan",
+      "weight_kg": 110,
+      "wingspan_cm": 230,
+      "personal_info": {
+        "birth_city": "Tokyo",
+        "country_of_origin": "Japan",
+        "languages": [
+          "Japanese",
+          "English"
+        ],
+        "family_background": "No notable basketball lineage."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "defensive",
+          "physical"
+        ],
+        "strengths": [
+          "shot-blocking",
+          "rebounding"
+        ],
+        "weaknesses": [
+          "offensive skills"
+        ],
+        "basketball_iq": 80,
+        "motor": 87
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 4,
+        "competitiveness": 8,
+        "work_ethic": 9,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive anchor",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 10.6,
+        "rpg": 9.0,
+        "apg": 1.0,
+        "spg": 0.5,
+        "bpg": 2.5,
+        "topg": 1.0,
+        "fg_pct": 52.0,
+        "three_pct": 0.0,
+        "ft_pct": 70.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 3.0,
+        "contract_tier": "role player",
+        "trade_value": 6
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 65,
+        "improvement_areas": [
+          "offensive skills",
+          "free throw shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 60,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Luca Ferraro",
+            "score": 8,
+            "reason": "Strong connection in the paint."
+          }
+        ],
+        "neutral_teammates": [
+          "Felix Moreno",
+          "Ethan Carter"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Aiden O'Connor",
+            "score": 4,
+            "reason": "Different playing styles create tension."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by the Nexis after a successful college career in Japan.",
+        "off_court_interests": [
+          "martial arts",
+          "cooking"
+        ],
+        "public_reputation": "Known for his shot-blocking ability and work ethic."
+      },
+      "profile_summary": "Riku Nakamura is a formidable center known for his defensive skills and shot-blocking ability. His presence in the paint is vital for the Chicago Nexis' defensive strategy.",
+      "family_relation": {
+        "type": "son_of_former_player",
+        "related_player": "Retired Nakamura"
+      }
+    },
+    {
+      "player_id": "team_0004_player_03",
+      "name": "Felix Moreno",
+      "number": 34,
+      "position": "SF",
+      "height_cm": 197,
+      "age": 27,
+      "nationality": "Mexico",
+      "weight_kg": 85,
+      "wingspan_cm": 205,
+      "personal_info": {
+        "birth_city": "Monterrey",
+        "country_of_origin": "Mexico",
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "family_background": "No notable basketball lineage."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "balanced",
+          "technical"
+        ],
+        "strengths": [
+          "versatility",
+          "defense"
+        ],
+        "weaknesses": [
+          "shooting range"
+        ],
+        "basketball_iq": 82,
+        "motor": 88
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 3,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive wing",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 12.7,
+        "rpg": 6.0,
+        "apg": 3.0,
+        "spg": 1.0,
+        "bpg": 0.5,
+        "topg": 1.5,
+        "fg_pct": 44.0,
+        "three_pct": 32.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 3.0,
+        "contract_tier": "role player",
+        "trade_value": 5
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 65,
+        "improvement_areas": [
+          "shooting",
+          "offensive consistency"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 70,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Aiden O'Connor",
+            "score": 8,
+            "reason": "Great understanding on the court."
+          }
+        ],
+        "neutral_teammates": [
+          "Derek Lawson",
+          "Jaxon Reed"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Ethan Carter",
+            "score": 4,
+            "reason": "Different work ethics."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed as a free agent after a successful stint in a foreign league.",
+        "off_court_interests": [
+          "cooking",
+          "traveling"
+        ],
+        "public_reputation": "Respected for his defensive skills and work ethic."
+      },
+      "profile_summary": "Felix Moreno is a versatile small forward known for his defensive prowess and ability to adapt to various roles on the court. His commitment to the team makes him a valuable player for the Chicago Nexis."
+    },
+    {
+      "player_id": "team_0004_player_04",
+      "name": "Luca Ferraro",
+      "number": 41,
+      "position": "PF",
+      "height_cm": 210,
+      "age": 28,
+      "nationality": "Italy",
+      "weight_kg": 100,
+      "wingspan_cm": 215,
+      "personal_info": {
+        "birth_city": "Rome",
+        "country_of_origin": "Italy",
+        "languages": [
+          "Italian",
+          "English"
+        ],
+        "family_background": "Brother of a former European league player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "physical",
+          "technical"
+        ],
+        "strengths": [
+          "rebounding",
+          "post moves"
+        ],
+        "weaknesses": [
+          "perimeter shooting"
+        ],
+        "basketball_iq": 78,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 6,
+        "ego_level": 5,
+        "competitiveness": 8,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "intense",
+        "locker_room_role": "mentor"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "post scorer",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 15.9,
+        "rpg": 8.0,
+        "apg": 2.0,
+        "spg": 0.5,
+        "bpg": 1.0,
+        "topg": 1.8,
+        "fg_pct": 50.0,
+        "three_pct": 30.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 4.0,
+        "contract_tier": "mid-level",
+        "trade_value": 7
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 70,
+        "improvement_areas": [
+          "shooting",
+          "defensive consistency"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 65,
+        "media_attention": 55
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Riku Nakamura",
+            "score": 8,
+            "reason": "Great understanding in the post."
+          }
+        ],
+        "neutral_teammates": [
+          "Felix Moreno",
+          "Ethan Carter"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Yuki Sato",
+            "score": 4,
+            "reason": "Different styles lead to miscommunication."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Acquired through a trade after a successful overseas career.",
+        "off_court_interests": [
+          "art",
+          "cooking"
+        ],
+        "public_reputation": "Known for his skill in the post and mentorship of younger players."
+      },
+      "profile_summary": "Luca Ferraro is a skilled power forward with a strong presence in the paint. His rebounding and post moves make him a crucial part of the Chicago Nexis' frontcourt.",
+      "family_relation": {
+        "type": "brother",
+        "related_player": "Marco Ferraro"
+      }
+    }
+  ],
+  "rivalries": [
+    {
+      "team": "Blaze",
+      "type": "inter-conference"
+    },
+    {
+      "team": "Quasar",
+      "type": "inter-conference"
+    }
+  ],
+  "sponsors": {
+    "primary": "TechWave",
+    "secondary": "Green Energy Corp"
+  },
+  "description": "Nexis is recognized for its strategic gameplay and strong community involvement, making it a competitive force in the Hoopball League.",
+  "id": "team_0004",
+  "team_dynamics": {
+    "team_name": "Chicago Nexis",
+    "locker_room_leaders": [
+      "Derek Lawson",
+      "Luca Ferraro",
+      "Jaxon Reed"
+    ],
+    "star_players": [
+      "Derek Lawson"
+    ],
+    "mentor_pairs": [
+      {
+        "mentor": "Aiden O'Connor",
+        "teammate": "Felix Moreno",
+        "reason": "Great understanding on both ends of the court."
+      },
+      {
+        "mentor": "Luca Ferraro",
+        "teammate": "Riku Nakamura",
+        "reason": "Great understanding in the post."
+      }
+    ],
+    "notable_friendships": [
+      {
+        "players": [
+          "Ethan Carter",
+          "Yuki Sato"
+        ],
+        "reason": "Good understanding in transition."
+      },
+      {
+        "players": [
+          "Derek Lawson",
+          "Jaxon Reed"
+        ],
+        "reason": "Strong on-court synergy and friendship."
+      },
+      {
+        "players": [
+          "Aiden O'Connor",
+          "Felix Moreno"
+        ],
+        "reason": "Great understanding on both ends of the court."
+      },
+      {
+        "players": [
+          "Luca Ferraro",
+          "Riku Nakamura"
+        ],
+        "reason": "Strong connection in the paint."
+      }
+    ],
+    "internal_tensions": [
+      {
+        "players": [
+          "Ethan Carter",
+          "Riku Nakamura"
+        ],
+        "reason": "Different playing styles create tension."
+      },
+      {
+        "players": [
+          "Derek Lawson",
+          "Riku Nakamura"
+        ],
+        "reason": "Clash in playing style."
+      },
+      {
+        "players": [
+          "Riku Nakamura",
+          "Yuki Sato"
+        ],
+        "reason": "Different playing styles create tension."
+      },
+      {
+        "players": [
+          "Aiden O'Connor",
+          "Riku Nakamura"
+        ],
+        "reason": "Different playing styles create tension."
+      },
+      {
+        "players": [
+          "Jaxon Reed",
+          "Yuki Sato"
+        ],
+        "reason": "Different playing styles create tension."
+      },
+      {
+        "players": [
+          "Ethan Carter",
+          "Felix Moreno"
+        ],
+        "reason": "Different work ethics."
+      },
+      {
+        "players": [
+          "Luca Ferraro",
+          "Yuki Sato"
+        ],
+        "reason": "Different styles lead to miscommunication."
+      }
+    ]
+  }
+}

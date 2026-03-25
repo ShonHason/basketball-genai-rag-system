@@ -1,0 +1,116 @@
+{
+  "player_id": "team_0001_player_08",
+  "name": "Ethan Zhang",
+  "number": 12,
+  "position": "PF",
+  "height_cm": 207,
+  "age": 23,
+  "nationality": "China",
+  "weight_kg": 95,
+  "wingspan_cm": 219,
+  "personal_info": {
+    "birth_city": "Beijing",
+    "country_of_origin": "China",
+    "languages": [
+      "Mandarin",
+      "English"
+    ],
+    "family_background": "Comes from a family of basketball players."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "technical",
+      "fast-paced"
+    ],
+    "strengths": [
+      "shooting",
+      "versatility"
+    ],
+    "weaknesses": [
+      "defensive rebounding"
+    ],
+    "basketball_iq": 80,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 3,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 6,
+    "temperament": "calm",
+    "locker_room_role": "quiet-worker"
+  },
+  "role_in_team": {
+    "status": "bench_prospect",
+    "is_star": false,
+    "rotation_role": "bench",
+    "minutes_expectation": 12
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 0,
+    "minutes": 12.0,
+    "ppg": 6.4,
+    "rpg": 3.0,
+    "apg": 1.0,
+    "spg": 0.5,
+    "bpg": 0.3,
+    "topg": 1.0,
+    "fg_pct": 40.0,
+    "three_pct": 30.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 1.5,
+    "contract_tier": "rookie",
+    "trade_value": 3
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 2,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 75,
+    "current_impact": 50,
+    "improvement_areas": [
+      "defensive skills",
+      "rebounding"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 60,
+    "media_attention": 55
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Hiroshi Tanaka",
+        "score": 7,
+        "reason": "Good rapport on the court."
+      }
+    ],
+    "neutral_teammates": [
+      "Marcus Flynn",
+      "Jalen Brooks"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dmitri Volkov",
+        "score": 3,
+        "reason": "Struggles against his physicality."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted after a standout college career in China.",
+    "off_court_interests": [
+      "technology",
+      "gaming"
+    ],
+    "public_reputation": "Emerging talent with great potential."
+  },
+  "profile_summary": "Ethan Zhang is a versatile power forward with a strong shooting touch. He is seen as a promising prospect for the future of the Zypher."
+}

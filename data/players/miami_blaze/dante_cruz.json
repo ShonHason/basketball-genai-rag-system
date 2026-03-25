@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0003_player_04",
+  "name": "Dante Cruz",
+  "number": 42,
+  "position": "PF",
+  "height_cm": 202,
+  "age": 28,
+  "nationality": "USA",
+  "weight_kg": 100,
+  "wingspan_cm": 213,
+  "personal_info": {
+    "birth_city": "Los Angeles",
+    "country_of_origin": "USA",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "family_background": "Brother of a former college player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "gritty",
+      "physical"
+    ],
+    "strengths": [
+      "rebounding",
+      "defense"
+    ],
+    "weaknesses": [
+      "shooting"
+    ],
+    "basketball_iq": 80,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 6,
+    "ego_level": 4,
+    "competitiveness": 9,
+    "work_ethic": 9,
+    "confidence": 7,
+    "temperament": "intense",
+    "locker_room_role": "mentor"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "starter",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 30.0,
+    "ppg": 13.1,
+    "rpg": 9.0,
+    "apg": 2.0,
+    "spg": 0.5,
+    "bpg": 1.5,
+    "topg": 1.2,
+    "fg_pct": 44.0,
+    "three_pct": 30.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 3.5,
+    "contract_tier": "role-player",
+    "trade_value": 6
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 4,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 65,
+    "improvement_areas": [
+      "shooting consistency"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 65,
+    "media_attention": 55
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Marco Rossi",
+        "score": 8,
+        "reason": "Complement each other's skills."
+      }
+    ],
+    "neutral_teammates": [
+      "Tyler Adams",
+      "Liam Brooks"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Hiroshi Yamamoto",
+        "score": 4,
+        "reason": "Different playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted by the team in 2019.",
+    "off_court_interests": [
+      "fitness",
+      "coaching youth basketball"
+    ],
+    "public_reputation": "Known for his toughness and rebounding."
+  },
+  "profile_summary": "Dante Cruz is a powerful forward known for his rebounding and defensive prowess. His gritty play style and leadership make him a cornerstone of the Miami Blaze's frontcourt.",
+  "family_relation": {
+    "type": "brother",
+    "related_player": "Carlos Cruz"
+  }
+}

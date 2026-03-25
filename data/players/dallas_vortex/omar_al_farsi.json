@@ -1,0 +1,116 @@
+{
+  "player_id": "team_0002_player_05",
+  "name": "Omar Al-Farsi",
+  "number": 44,
+  "position": "C",
+  "height_cm": 209,
+  "age": 29,
+  "nationality": "UAE",
+  "weight_kg": 110,
+  "wingspan_cm": 220,
+  "personal_info": {
+    "birth_city": "Dubai",
+    "country_of_origin": "UAE",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "family_background": "No notable basketball connections."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "defensive",
+      "physical"
+    ],
+    "strengths": [
+      "shot-blocking",
+      "rebounding"
+    ],
+    "weaknesses": [
+      "offensive skills"
+    ],
+    "basketball_iq": 6,
+    "motor": 7
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 6,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 5,
+    "temperament": "intense",
+    "locker_room_role": "challenger"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "defensive anchor",
+    "minutes_expectation": 28
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 28.0,
+    "ppg": 9.1,
+    "rpg": 10.0,
+    "apg": 1.0,
+    "spg": 0.5,
+    "bpg": 2.5,
+    "topg": 1.2,
+    "fg_pct": 52.0,
+    "three_pct": 0.0,
+    "ft_pct": 70.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 3.0,
+    "contract_tier": "role player",
+    "trade_value": 7
+  },
+  "health_profile": {
+    "durability": 6,
+    "injury_risk": 4,
+    "conditioning": 6
+  },
+  "development_profile": {
+    "ceiling": 7,
+    "current_impact": 5,
+    "improvement_areas": [
+      "offensive skills",
+      "passing"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 65,
+    "media_attention": 50
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Rafael Silva",
+        "score": 7,
+        "reason": "Good defensive partnership."
+      }
+    ],
+    "neutral_teammates": [
+      "Jamal Carter",
+      "Kaito Tanaka"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Tyler Grant",
+        "score": 4,
+        "reason": "Different offensive styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as a free agent after a successful international career.",
+    "off_court_interests": [
+      "fitness",
+      "travel"
+    ],
+    "public_reputation": "Known for his shot-blocking and rebounding."
+  },
+  "profile_summary": "Omar Al-Farsi is a towering center known for his shot-blocking and rebounding. His physical presence makes him a key defensive anchor for the Vortex."
+}

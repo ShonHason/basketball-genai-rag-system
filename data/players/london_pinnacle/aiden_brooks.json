@@ -1,0 +1,118 @@
+{
+  "player_id": "team_0010_player_07",
+  "name": "Aiden Brooks",
+  "number": 21,
+  "position": "SF",
+  "height_cm": 196,
+  "age": 24,
+  "nationality": "USA",
+  "weight_kg": 85,
+  "wingspan_cm": 200,
+  "personal_info": {
+    "birth_city": "Miami",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Son of a former NBA player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "fast-paced"
+    ],
+    "strengths": [
+      "scoring",
+      "athleticism"
+    ],
+    "weaknesses": [
+      "defense"
+    ],
+    "basketball_iq": 78,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 5,
+    "competitiveness": 8,
+    "work_ethic": 7,
+    "confidence": 7,
+    "temperament": "intense",
+    "locker_room_role": "challenger"
+  },
+  "role_in_team": {
+    "status": "role_player",
+    "is_star": false,
+    "rotation_role": "scoring forward",
+    "minutes_expectation": 20
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 0,
+    "minutes": 20.0,
+    "ppg": 13.1,
+    "rpg": 4.0,
+    "apg": 2.0,
+    "spg": 1.0,
+    "bpg": 0.0,
+    "topg": 1.0,
+    "fg_pct": 45.0,
+    "three_pct": 34.0,
+    "ft_pct": 76.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 2.0,
+    "contract_tier": "rookie",
+    "trade_value": 3
+  },
+  "health_profile": {
+    "durability": 6,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 75,
+    "current_impact": 55,
+    "improvement_areas": [
+      "defense"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 65,
+    "media_attention": 50
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Javier Castillo",
+        "score": 7,
+        "reason": "Good on fast breaks."
+      }
+    ],
+    "neutral_teammates": [
+      "Miles Morris",
+      "Liam O'Connor"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Takumi Ito",
+        "score": 4,
+        "reason": "Different playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted after a successful college career.",
+    "off_court_interests": [
+      "music",
+      "sports"
+    ],
+    "public_reputation": "Known for his scoring ability and athleticism."
+  },
+  "profile_summary": "Aiden Brooks is an athletic small forward with a scoring touch. His competitive spirit and fast-paced play make him a valuable contributor to the London Pinnacle.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "James Brooks"
+  }
+}

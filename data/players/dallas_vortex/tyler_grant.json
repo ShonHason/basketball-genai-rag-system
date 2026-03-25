@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0002_player_01",
+  "name": "Tyler Grant",
+  "number": 5,
+  "position": "PG",
+  "height_cm": 187,
+  "age": 26,
+  "nationality": "USA",
+  "weight_kg": 82,
+  "wingspan_cm": 198,
+  "personal_info": {
+    "birth_city": "Dallas",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Son of a former college basketball player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "technical"
+    ],
+    "strengths": [
+      "playmaking",
+      "defense"
+    ],
+    "weaknesses": [
+      "shooting consistency"
+    ],
+    "basketball_iq": 8,
+    "motor": 9
+  },
+  "personality": {
+    "leadership": 7,
+    "ego_level": 5,
+    "competitiveness": 8,
+    "work_ethic": 9,
+    "confidence": 8,
+    "temperament": "balanced",
+    "locker_room_role": "leader"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": true,
+    "rotation_role": "primary ball handler",
+    "minutes_expectation": 32
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 32.0,
+    "ppg": 18.3,
+    "rpg": 4.0,
+    "apg": 7.0,
+    "spg": 1.5,
+    "bpg": 0.3,
+    "topg": 3.2,
+    "fg_pct": 45.0,
+    "three_pct": 36.0,
+    "ft_pct": 85.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 5.0,
+    "contract_tier": "mid-level",
+    "trade_value": 15
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 2,
+    "conditioning": 9
+  },
+  "development_profile": {
+    "ceiling": 9,
+    "current_impact": 7,
+    "improvement_areas": [
+      "shooting consistency",
+      "leadership"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 85,
+    "media_attention": 75
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Dante Rivers",
+        "score": 9,
+        "reason": "Strong on-court synergy and friendship."
+      }
+    ],
+    "neutral_teammates": [
+      "Jamal Carter",
+      "Rafael Silva"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Omar Al-Farsi",
+        "score": 4,
+        "reason": "Clash in playing style."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted by the Vortex after a standout college career.",
+    "off_court_interests": [
+      "gaming",
+      "community service"
+    ],
+    "public_reputation": "Respected for his work ethic and leadership."
+  },
+  "profile_summary": "Tyler Grant is a dynamic point guard known for his playmaking and leadership skills. As a franchise star, he plays a crucial role in the Vortex's offensive strategy.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "Former player"
+  }
+}

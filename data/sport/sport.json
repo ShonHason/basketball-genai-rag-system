@@ -1,0 +1,38 @@
+{
+  "name": "Hoopball",
+  "description": "A fast-paced team sport combining elements of basketball and handball, played on a rectangular court with a focus on scoring through hoops.",
+  "team_structure": {
+    "players_on_court": 5,
+    "max_roster_size": 12
+  },
+  "game_structure": {
+    "period_type": "quarters",
+    "periods": 4,
+    "minutes_per_period": 10,
+    "overtime_minutes": 5
+  },
+  "timing_rules": {
+    "shot_clock_seconds": 24,
+    "backcourt_seconds": 8
+  },
+  "scoring_rules": {
+    "free_throw": 1,
+    "field_goal": 2,
+    "long_range_shot": 3
+  },
+  "foul_rules": {
+    "max_personal_fouls": 5,
+    "team_foul_bonus_after": 4
+  },
+  "court": {
+    "length_meters": 28,
+    "width_meters": 15,
+    "rim_height_meters": 3.05
+  },
+  "recommended_league_structure": {
+    "min_teams": 10,
+    "max_teams": 20,
+    "recommended_roster_size": 12
+  },
+  "id": "sport_0001"
+}

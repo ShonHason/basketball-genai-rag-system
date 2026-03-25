@@ -1,0 +1,116 @@
+{
+  "player_id": "team_0002_player_06",
+  "name": "Kaito Tanaka",
+  "number": 14,
+  "position": "PG",
+  "height_cm": 178,
+  "age": 23,
+  "nationality": "Japan",
+  "weight_kg": 80,
+  "wingspan_cm": 185,
+  "personal_info": {
+    "birth_city": "Tokyo",
+    "country_of_origin": "Japan",
+    "languages": [
+      "Japanese",
+      "English"
+    ],
+    "family_background": "No notable basketball connections."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "technical",
+      "fast-paced"
+    ],
+    "strengths": [
+      "ball handling",
+      "quickness"
+    ],
+    "weaknesses": [
+      "defensive strength"
+    ],
+    "basketball_iq": 7,
+    "motor": 8
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 3,
+    "competitiveness": 6,
+    "work_ethic": 8,
+    "confidence": 6,
+    "temperament": "calm",
+    "locker_room_role": "quiet-worker"
+  },
+  "role_in_team": {
+    "status": "bench_prospect",
+    "is_star": false,
+    "rotation_role": "backup point guard",
+    "minutes_expectation": 15
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 5,
+    "minutes": 15.0,
+    "ppg": 6.8,
+    "rpg": 2.0,
+    "apg": 3.0,
+    "spg": 0.8,
+    "bpg": 0.1,
+    "topg": 1.5,
+    "fg_pct": 42.0,
+    "three_pct": 35.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 2.0,
+    "contract_tier": "rookie",
+    "trade_value": 5
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 8,
+    "current_impact": 4,
+    "improvement_areas": [
+      "defensive skills",
+      "shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 60,
+    "media_attention": 40
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Tyler Grant",
+        "score": 7,
+        "reason": "Good synergy in practice."
+      }
+    ],
+    "neutral_teammates": [
+      "Dante Rivers",
+      "Jamal Carter"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Omar Al-Farsi",
+        "score": 5,
+        "reason": "Different playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted in the second round after a strong college career in Japan.",
+    "off_court_interests": [
+      "anime",
+      "technology"
+    ],
+    "public_reputation": "Emerging talent with potential."
+  },
+  "profile_summary": "Kaito Tanaka is a promising young point guard with excellent ball-handling skills. His quickness and potential make him a valuable asset for the Vortex."
+}

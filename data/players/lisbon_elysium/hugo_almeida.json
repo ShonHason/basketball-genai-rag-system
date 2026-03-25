@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0011_player_06",
+  "name": "Hugo Almeida",
+  "number": 12,
+  "position": "PG",
+  "height_cm": 181,
+  "age": 22,
+  "nationality": "Portugal",
+  "weight_kg": 78,
+  "wingspan_cm": 185,
+  "personal_info": {
+    "birth_city": "Lisbon",
+    "country_of_origin": "Portugal",
+    "languages": [
+      "Portuguese",
+      "English"
+    ],
+    "family_background": "Youngest brother of a former league MVP."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "youth-focused",
+      "fast-paced"
+    ],
+    "strengths": [
+      "speed",
+      "ball-handling"
+    ],
+    "weaknesses": [
+      "experience"
+    ],
+    "basketball_iq": 75,
+    "motor": 90
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 3,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 6,
+    "temperament": "balanced",
+    "locker_room_role": "neutral"
+  },
+  "role_in_team": {
+    "status": "bench_prospect",
+    "is_star": false,
+    "rotation_role": "backup point guard",
+    "minutes_expectation": 15
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 5,
+    "minutes": 15.0,
+    "ppg": 6.4,
+    "rpg": 2.0,
+    "apg": 3.0,
+    "spg": 0.8,
+    "bpg": 0.1,
+    "topg": 1.5,
+    "fg_pct": 42.0,
+    "three_pct": 30.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 3,
+    "annual_salary_m": 1.5,
+    "contract_tier": "rookie",
+    "trade_value": 2
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 2,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 60,
+    "improvement_areas": [
+      "decision-making",
+      "shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 65,
+    "media_attention": 50
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Lucas Ferreira",
+        "score": 7,
+        "reason": "Mentorship and guidance."
+      }
+    ],
+    "neutral_teammates": [
+      "Joaquim Ribeiro",
+      "Mateus Costa"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Ethan Brooks",
+        "score": 3,
+        "reason": "Struggles to fit in with the veterans."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted as a promising talent, looking to prove himself.",
+    "off_court_interests": [
+      "music",
+      "video games"
+    ],
+    "public_reputation": "Known for his potential and youthful energy."
+  },
+  "profile_summary": "Hugo Almeida is an energetic point guard with a bright future ahead. His speed and ball-handling skills make him an exciting player to watch for the Lisbon Elysium.",
+  "family_relation": {
+    "type": "brother",
+    "related_player": "André Almeida"
+  }
+}

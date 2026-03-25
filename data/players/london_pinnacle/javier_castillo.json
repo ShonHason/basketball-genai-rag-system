@@ -1,0 +1,115 @@
+{
+  "player_id": "team_0010_player_06",
+  "name": "Javier Castillo",
+  "number": 30,
+  "position": "PG",
+  "height_cm": 179,
+  "age": 22,
+  "nationality": "Mexico",
+  "weight_kg": 78,
+  "wingspan_cm": 185,
+  "personal_info": {
+    "birth_city": "Guadalajara",
+    "country_of_origin": "Mexico",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "family_background": "No notable basketball family."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "offensive"
+    ],
+    "strengths": [
+      "speed",
+      "scoring"
+    ],
+    "weaknesses": [
+      "defense"
+    ],
+    "basketball_iq": 75,
+    "motor": 88
+  },
+  "personality": {
+    "leadership": 3,
+    "ego_level": 5,
+    "competitiveness": 8,
+    "work_ethic": 7,
+    "confidence": 6,
+    "temperament": "intense",
+    "locker_room_role": "challenger"
+  },
+  "role_in_team": {
+    "status": "bench_prospect",
+    "is_star": false,
+    "rotation_role": "scoring guard",
+    "minutes_expectation": 15
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 0,
+    "minutes": 15.0,
+    "ppg": 10.9,
+    "rpg": 2.0,
+    "apg": 3.0,
+    "spg": 1.0,
+    "bpg": 0.0,
+    "topg": 2.0,
+    "fg_pct": 42.0,
+    "three_pct": 35.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 2.0,
+    "contract_tier": "rookie",
+    "trade_value": 3
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 50,
+    "improvement_areas": [
+      "defense"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 60,
+    "media_attention": 55
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Aiden Brooks",
+        "score": 7,
+        "reason": "Good synergy on fast breaks."
+      }
+    ],
+    "neutral_teammates": [
+      "Miles Morris",
+      "Liam O'Connor"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Joao Oliveira",
+        "score": 4,
+        "reason": "Different playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted after a standout college career.",
+    "off_court_interests": [
+      "music",
+      "video games"
+    ],
+    "public_reputation": "Known for his speed and scoring ability."
+  },
+  "profile_summary": "Javier Castillo is a young and speedy point guard with a knack for scoring. His competitive nature and work ethic make him a promising prospect for the London Pinnacle."
+}

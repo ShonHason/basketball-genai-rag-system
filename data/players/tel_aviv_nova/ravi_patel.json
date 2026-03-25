@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0008_player_07",
+  "name": "Ravi Patel",
+  "number": 21,
+  "position": "SF",
+  "height_cm": 193,
+  "age": 25,
+  "nationality": "India",
+  "weight_kg": 88,
+  "wingspan_cm": 210,
+  "personal_info": {
+    "birth_city": "Mumbai",
+    "country_of_origin": "India",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "family_background": "Son of a former national player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "youth-focused"
+    ],
+    "strengths": [
+      "athleticism",
+      "scoring"
+    ],
+    "weaknesses": [
+      "defensive consistency"
+    ],
+    "basketball_iq": 77,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 5,
+    "competitiveness": 8,
+    "work_ethic": 7,
+    "confidence": 6,
+    "temperament": "intense",
+    "locker_room_role": "challenger"
+  },
+  "role_in_team": {
+    "status": "role_player",
+    "is_star": false,
+    "rotation_role": "scoring forward",
+    "minutes_expectation": 20
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 20,
+    "minutes": 20.0,
+    "ppg": 11.5,
+    "rpg": 4.0,
+    "apg": 1.0,
+    "spg": 0.6,
+    "bpg": 0.3,
+    "topg": 1.2,
+    "fg_pct": 45.0,
+    "three_pct": 35.0,
+    "ft_pct": 72.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 2.0,
+    "contract_tier": "mid-level",
+    "trade_value": 8
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 78,
+    "current_impact": 65,
+    "improvement_areas": [
+      "defense",
+      "basketball IQ"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 60,
+    "media_attention": 50
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Oren Shapiro",
+        "score": 7,
+        "reason": "Good on-court connection."
+      }
+    ],
+    "neutral_teammates": [
+      "Ethan Cohen",
+      "Avi Levi"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dante Walker",
+        "score": 4,
+        "reason": "Different priorities."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed after a successful international career.",
+    "off_court_interests": [
+      "fitness",
+      "cooking"
+    ],
+    "public_reputation": "Known for his scoring ability and athleticism."
+  },
+  "profile_summary": "Ravi Patel is an athletic small forward with a strong scoring ability. His competitive nature and work ethic make him a valuable role player for the Nova.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "Raj Patel"
+  }
+}

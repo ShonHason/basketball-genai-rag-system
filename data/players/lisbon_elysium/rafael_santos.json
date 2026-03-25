@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0011_player_08",
+  "name": "Rafael Santos",
+  "number": 21,
+  "position": "PF",
+  "height_cm": 203,
+  "age": 23,
+  "nationality": "Brazil",
+  "weight_kg": 95,
+  "wingspan_cm": 210,
+  "personal_info": {
+    "birth_city": "Rio de Janeiro",
+    "country_of_origin": "Brazil",
+    "languages": [
+      "Portuguese",
+      "English"
+    ],
+    "family_background": "Son of a former professional player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "gritty",
+      "defensive"
+    ],
+    "strengths": [
+      "rebounding",
+      "defensive presence"
+    ],
+    "weaknesses": [
+      "offensive consistency"
+    ],
+    "basketball_iq": 76,
+    "motor": 84
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 5,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 6,
+    "temperament": "calm",
+    "locker_room_role": "quiet-worker"
+  },
+  "role_in_team": {
+    "status": "role_player",
+    "is_star": false,
+    "rotation_role": "defensive specialist",
+    "minutes_expectation": 20
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 10,
+    "minutes": 20.0,
+    "ppg": 8.5,
+    "rpg": 6.0,
+    "apg": 1.0,
+    "spg": 0.5,
+    "bpg": 0.8,
+    "topg": 1.0,
+    "fg_pct": 45.0,
+    "three_pct": 30.0,
+    "ft_pct": 72.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 1.8,
+    "contract_tier": "rookie",
+    "trade_value": 3
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 2,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 65,
+    "improvement_areas": [
+      "offensive game",
+      "shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 68,
+    "media_attention": 52
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Diego Martins",
+        "score": 7,
+        "reason": "Strong inside presence."
+      }
+    ],
+    "neutral_teammates": [
+      "Lucas Ferreira",
+      "Mateus Costa"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Hugo Almeida",
+        "score": 3,
+        "reason": "Different work ethics."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted as a promising talent, looking to establish himself.",
+    "off_court_interests": [
+      "fitness",
+      "music"
+    ],
+    "public_reputation": "Known for his potential and work ethic."
+  },
+  "profile_summary": "Rafael Santos is a promising power forward with a strong defensive presence. His rebounding skills and potential make him a valuable asset for the Lisbon Elysium.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "Fernando Santos"
+  }
+}

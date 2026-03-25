@@ -1,0 +1,1107 @@
+{
+  "city": "Madrid",
+  "country": "Spain",
+  "name": "Quasar",
+  "conference": "Eastern Conference",
+  "division": "South Division",
+  "arena": {
+    "name": "Quasar Arena",
+    "capacity": 18500
+  },
+  "ownership": {
+    "owner": "Isabella Torres",
+    "president": "Diego Morales",
+    "general_manager": "Sofia Ruiz"
+  },
+  "branding": {
+    "colors": [
+      "purple",
+      "orange",
+      "black"
+    ],
+    "mascot": "Quasar the Star"
+  },
+  "market": {
+    "market_size": "medium",
+    "city_population": 3200000
+  },
+  "history": {
+    "conference_titles": 0,
+    "division_titles": 0,
+    "playoff_appearances": 1,
+    "championships": 0
+  },
+  "coaching_staff": {
+    "head_coach": "Antonio Garcia",
+    "assistant_coaches": [
+      "Lucia Martinez",
+      "Pablo Sanchez"
+    ],
+    "strength_coach": "Marco Lopez"
+  },
+  "roster": [
+    {
+      "player_id": "team_0007_player_01",
+      "name": "Elias Vega",
+      "number": 5,
+      "position": "PG",
+      "height_cm": 187,
+      "age": 24,
+      "nationality": "USA",
+      "weight_kg": 82,
+      "wingspan_cm": 194,
+      "personal_info": {
+        "birth_city": "Los Angeles",
+        "country_of_origin": "USA",
+        "languages": [
+          "English",
+          "Spanish"
+        ],
+        "family_background": "Son of a former college player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "technical"
+        ],
+        "strengths": [
+          "playmaking",
+          "speed"
+        ],
+        "weaknesses": [
+          "defense"
+        ],
+        "basketball_iq": 85,
+        "motor": 90
+      },
+      "personality": {
+        "leadership": 7,
+        "ego_level": 5,
+        "competitiveness": 8,
+        "work_ethic": 9,
+        "confidence": 8,
+        "temperament": "balanced",
+        "locker_room_role": "leader"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": true,
+        "rotation_role": "primary ball handler",
+        "minutes_expectation": 32
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 32.0,
+        "ppg": 20.1,
+        "rpg": 4.0,
+        "apg": 7.0,
+        "spg": 1.5,
+        "bpg": 0.2,
+        "topg": 3.0,
+        "fg_pct": 46.0,
+        "three_pct": 38.0,
+        "ft_pct": 85.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 5.0,
+        "contract_tier": "mid-level",
+        "trade_value": 15
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 9
+      },
+      "development_profile": {
+        "ceiling": 90,
+        "current_impact": 80,
+        "improvement_areas": [
+          "defensive consistency",
+          "shot selection"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 85,
+        "media_attention": 75
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Daichi Nakamura",
+            "score": 9,
+            "reason": "Great on-court synergy and communication."
+          }
+        ],
+        "neutral_teammates": [
+          "Liam Carter",
+          "Dmitri Ivanov"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Martin Morales",
+            "score": 3,
+            "reason": "Competes for ball dominance."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by the Quasar after a standout college career.",
+        "off_court_interests": [
+          "music production",
+          "community service"
+        ],
+        "public_reputation": "Respected for his leadership and community involvement."
+      },
+      "profile_summary": "Elias Vega is a dynamic point guard known for his exceptional playmaking and leadership on the court. With a strong connection to his teammates, he excels in fast-paced games and is a key player for the Madrid Quasar.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "Carlos Vega"
+      }
+    },
+    {
+      "player_id": "team_0007_player_03",
+      "name": "Javier Morales",
+      "number": 11,
+      "position": "SF",
+      "height_cm": 198,
+      "age": 27,
+      "nationality": "Spain",
+      "weight_kg": 90,
+      "wingspan_cm": 212,
+      "personal_info": {
+        "birth_city": "Barcelona",
+        "country_of_origin": "Spain",
+        "languages": [
+          "Spanish",
+          "Catalan"
+        ],
+        "family_background": "Brother of a former professional player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "balanced",
+          "offensive"
+        ],
+        "strengths": [
+          "scoring",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defense"
+        ],
+        "basketball_iq": 84,
+        "motor": 88
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 6,
+        "competitiveness": 9,
+        "work_ethic": 8,
+        "confidence": 9,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "scoring forward",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 80,
+        "minutes": 30.0,
+        "ppg": 19.0,
+        "rpg": 5.0,
+        "apg": 3.0,
+        "spg": 0.8,
+        "bpg": 0.5,
+        "topg": 2.5,
+        "fg_pct": 47.0,
+        "three_pct": 36.0,
+        "ft_pct": 79.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 4.0,
+        "contract_tier": "role_player",
+        "trade_value": 10
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 78,
+        "improvement_areas": [
+          "defensive consistency",
+          "team play"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 80,
+        "media_attention": 70
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Mateo Cruz",
+            "score": 8,
+            "reason": "Excellent chemistry on the court."
+          }
+        ],
+        "neutral_teammates": [
+          "Elias Vega",
+          "Liam Carter"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dmitri Ivanov",
+            "score": 4,
+            "reason": "Different styles lead to clashes."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by the Quasar after a successful stint in the Spanish league.",
+        "off_court_interests": [
+          "photography",
+          "fitness"
+        ],
+        "public_reputation": "Known for his competitive spirit and work ethic."
+      },
+      "profile_summary": "Javier Morales is an athletic small forward with a strong scoring ability and competitive nature. His intense personality drives his performance, making him a key player for the Madrid Quasar.",
+      "family_relation": {
+        "type": "brother",
+        "related_player": "Carlos Morales"
+      }
+    },
+    {
+      "player_id": "team_0007_player_08",
+      "name": "Alessandro Mancini",
+      "number": 12,
+      "position": "PF",
+      "height_cm": 202,
+      "age": 23,
+      "nationality": "Italy",
+      "weight_kg": 95,
+      "wingspan_cm": 210,
+      "personal_info": {
+        "birth_city": "Rome",
+        "country_of_origin": "Italy",
+        "languages": [
+          "Italian",
+          "English"
+        ],
+        "family_background": "Comes from a family of athletes."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "technical",
+          "balanced"
+        ],
+        "strengths": [
+          "shooting",
+          "passing"
+        ],
+        "weaknesses": [
+          "defense"
+        ],
+        "basketball_iq": 79,
+        "motor": 80
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 4,
+        "competitiveness": 6,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "balanced",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "bench_prospect",
+        "is_star": false,
+        "rotation_role": "backup power forward",
+        "minutes_expectation": 15
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 5,
+        "minutes": 15.0,
+        "ppg": 8.9,
+        "rpg": 4.0,
+        "apg": 2.0,
+        "spg": 0.3,
+        "bpg": 0.5,
+        "topg": 1.0,
+        "fg_pct": 47.0,
+        "three_pct": 34.0,
+        "ft_pct": 76.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 1.8,
+        "contract_tier": "rookie_contract",
+        "trade_value": 4
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 2,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 65,
+        "improvement_areas": [
+          "defensive skills",
+          "physicality"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 55,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Dmitri Ivanov",
+            "score": 7,
+            "reason": "Strong inside presence."
+          }
+        ],
+        "neutral_teammates": [
+          "Elias Vega",
+          "Liam Carter"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Martin Morales",
+            "score": 4,
+            "reason": "Different styles lead to clashes."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted after a successful career in Italy.",
+        "off_court_interests": [
+          "art",
+          "cooking"
+        ],
+        "public_reputation": "Emerging talent with great potential."
+      },
+      "profile_summary": "Alessandro Mancini is a skilled power forward with a strong shooting touch and playmaking ability. As a young player, he is developing into a key contributor for the Madrid Quasar."
+    },
+    {
+      "player_id": "team_0007_player_06",
+      "name": "Daichi Nakamura",
+      "number": 15,
+      "position": "PG",
+      "height_cm": 178,
+      "age": 22,
+      "nationality": "Japan",
+      "weight_kg": 78,
+      "wingspan_cm": 183,
+      "personal_info": {
+        "birth_city": "Tokyo",
+        "country_of_origin": "Japan",
+        "languages": [
+          "Japanese",
+          "English"
+        ],
+        "family_background": "Youngest in a family of athletes."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "technical"
+        ],
+        "strengths": [
+          "speed",
+          "passing"
+        ],
+        "weaknesses": [
+          "experience"
+        ],
+        "basketball_iq": 78,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 3,
+        "competitiveness": 7,
+        "work_ethic": 9,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "neutral"
+      },
+      "role_in_team": {
+        "status": "bench_prospect",
+        "is_star": false,
+        "rotation_role": "backup point guard",
+        "minutes_expectation": 15
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 5,
+        "minutes": 15.0,
+        "ppg": 6.7,
+        "rpg": 2.0,
+        "apg": 3.0,
+        "spg": 1.0,
+        "bpg": 0.0,
+        "topg": 1.5,
+        "fg_pct": 42.0,
+        "three_pct": 35.0,
+        "ft_pct": 80.0
+      },
+      "contract": {
+        "years_remaining": 3,
+        "annual_salary_m": 1.5,
+        "contract_tier": "rookie_contract",
+        "trade_value": 5
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 2,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 60,
+        "improvement_areas": [
+          "decision making",
+          "defensive skills"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 60,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Elias Vega",
+            "score": 8,
+            "reason": "Learns a lot from him."
+          }
+        ],
+        "neutral_teammates": [
+          "Liam Carter",
+          "Dmitri Ivanov"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Martin Morales",
+            "score": 4,
+            "reason": "Different styles lead to misunderstandings."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted after an impressive college career in Japan.",
+        "off_court_interests": [
+          "video games",
+          "anime"
+        ],
+        "public_reputation": "Emerging talent with a bright future."
+      },
+      "profile_summary": "Daichi Nakamura is a promising young point guard known for his speed and passing ability. As a rookie, he is eager to learn and grow within the Madrid Quasar organization."
+    },
+    {
+      "player_id": "team_0007_player_02",
+      "name": "Mateo Cruz",
+      "number": 23,
+      "position": "SG",
+      "height_cm": 187,
+      "age": 26,
+      "nationality": "Spain",
+      "weight_kg": 88,
+      "wingspan_cm": 195,
+      "personal_info": {
+        "birth_city": "Madrid",
+        "country_of_origin": "Spain",
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "family_background": "Cousin of a former national team player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "technical"
+        ],
+        "strengths": [
+          "shooting",
+          "basketball IQ"
+        ],
+        "weaknesses": [
+          "athleticism"
+        ],
+        "basketball_iq": 86,
+        "motor": 80
+      },
+      "personality": {
+        "leadership": 6,
+        "ego_level": 4,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "calm",
+        "locker_room_role": "glue-guy"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "scoring guard",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 75,
+        "minutes": 30.0,
+        "ppg": 16.8,
+        "rpg": 3.0,
+        "apg": 4.0,
+        "spg": 1.0,
+        "bpg": 0.3,
+        "topg": 2.0,
+        "fg_pct": 45.0,
+        "three_pct": 40.0,
+        "ft_pct": 82.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 3.0,
+        "contract_tier": "role_player",
+        "trade_value": 8
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 75,
+        "improvement_areas": [
+          "defensive skills",
+          "playmaking"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 75,
+        "media_attention": 60
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Javier Morales",
+            "score": 8,
+            "reason": "Strong connection on the perimeter."
+          }
+        ],
+        "neutral_teammates": [
+          "Elias Vega",
+          "Liam Carter"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dmitri Ivanov",
+            "score": 4,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Joined the Quasar after a successful youth career in Spain.",
+        "off_court_interests": [
+          "cooking",
+          "traveling"
+        ],
+        "public_reputation": "Known for his friendly demeanor and community involvement."
+      },
+      "profile_summary": "Mateo Cruz is a skilled shooting guard with a knack for scoring and a strong understanding of the game. His calm demeanor and ability to connect with teammates make him a valuable asset for the Madrid Quasar.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "Luis Cruz"
+      }
+    },
+    {
+      "player_id": "team_0007_player_07",
+      "name": "Martin Morales",
+      "number": 30,
+      "position": "SF",
+      "height_cm": 198,
+      "age": 29,
+      "nationality": "Mexico",
+      "weight_kg": 85,
+      "wingspan_cm": 210,
+      "personal_info": {
+        "birth_city": "Guadalajara",
+        "country_of_origin": "Mexico",
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "family_background": "Cousin of a former NBA player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "technical"
+        ],
+        "strengths": [
+          "shooting",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defense"
+        ],
+        "basketball_iq": 80,
+        "motor": 82
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 6,
+        "competitiveness": 8,
+        "work_ethic": 7,
+        "confidence": 7,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "role_player",
+        "is_star": false,
+        "rotation_role": "scoring forward",
+        "minutes_expectation": 20
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 10,
+        "minutes": 20.0,
+        "ppg": 13.4,
+        "rpg": 4.0,
+        "apg": 2.0,
+        "spg": 0.5,
+        "bpg": 0.3,
+        "topg": 1.5,
+        "fg_pct": 44.0,
+        "three_pct": 36.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 2.0,
+        "contract_tier": "role_player",
+        "trade_value": 6
+      },
+      "health_profile": {
+        "durability": 6,
+        "injury_risk": 4,
+        "conditioning": 6
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 70,
+        "improvement_areas": [
+          "defensive skills",
+          "team play"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 65,
+        "media_attention": 55
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Javier Morales",
+            "score": 7,
+            "reason": "Good offensive synergy."
+          }
+        ],
+        "neutral_teammates": [
+          "Elias Vega",
+          "Liam Carter"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dmitri Ivanov",
+            "score": 3,
+            "reason": "Different styles lead to clashes."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Joined the Quasar after a successful career in the Mexican league.",
+        "off_court_interests": [
+          "music",
+          "fitness"
+        ],
+        "public_reputation": "Known for his scoring ability and work ethic."
+      },
+      "profile_summary": "Martin Morales is a versatile small forward with a strong scoring touch and competitive spirit. His offensive skills make him a valuable contributor to the Madrid Quasar.",
+      "family_relation": {
+        "type": "brother",
+        "related_player": "Javier Morales"
+      }
+    },
+    {
+      "player_id": "team_0007_player_04",
+      "name": "Liam Carter",
+      "number": 34,
+      "position": "PF",
+      "height_cm": 209,
+      "age": 28,
+      "nationality": "USA",
+      "weight_kg": 100,
+      "wingspan_cm": 215,
+      "personal_info": {
+        "birth_city": "Chicago",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Son of a former NBA player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "physical",
+          "defensive"
+        ],
+        "strengths": [
+          "rebounding",
+          "defense"
+        ],
+        "weaknesses": [
+          "shooting range"
+        ],
+        "basketball_iq": 82,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 6,
+        "ego_level": 5,
+        "competitiveness": 7,
+        "work_ethic": 9,
+        "confidence": 7,
+        "temperament": "calm",
+        "locker_room_role": "neutral"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive forward",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 75,
+        "minutes": 30.0,
+        "ppg": 11.2,
+        "rpg": 8.0,
+        "apg": 2.0,
+        "spg": 0.5,
+        "bpg": 1.5,
+        "topg": 1.5,
+        "fg_pct": 50.0,
+        "three_pct": 30.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 3,
+        "annual_salary_m": 6.0,
+        "contract_tier": "mid-level",
+        "trade_value": 12
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 75,
+        "improvement_areas": [
+          "shooting",
+          "offensive skills"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 70,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Dmitri Ivanov",
+            "score": 8,
+            "reason": "Strong defensive pairing."
+          }
+        ],
+        "neutral_teammates": [
+          "Elias Vega",
+          "Javier Morales"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Martin Morales",
+            "score": 3,
+            "reason": "Different styles lead to misunderstandings."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Acquired via trade after a successful career in the league.",
+        "off_court_interests": [
+          "coaching youth basketball",
+          "fitness training"
+        ],
+        "public_reputation": "Respected for his defensive skills and mentorship."
+      },
+      "profile_summary": "Liam Carter is a strong power forward known for his rebounding and defensive prowess. His calm demeanor and experience make him a stabilizing force for the Madrid Quasar.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "James Carter"
+      }
+    },
+    {
+      "player_id": "team_0007_player_05",
+      "name": "Dmitri Ivanov",
+      "number": 44,
+      "position": "C",
+      "height_cm": 217,
+      "age": 29,
+      "nationality": "Russia",
+      "weight_kg": 110,
+      "wingspan_cm": 223,
+      "personal_info": {
+        "birth_city": "Moscow",
+        "country_of_origin": "Russia",
+        "languages": [
+          "Russian",
+          "English"
+        ],
+        "family_background": "Comes from a family of athletes."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "defensive",
+          "physical"
+        ],
+        "strengths": [
+          "shot-blocking",
+          "rebounding"
+        ],
+        "weaknesses": [
+          "offensive skills"
+        ],
+        "basketball_iq": 80,
+        "motor": 82
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 4,
+        "competitiveness": 6,
+        "work_ethic": 8,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive anchor",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 8.9,
+        "rpg": 10.0,
+        "apg": 1.0,
+        "spg": 0.5,
+        "bpg": 2.0,
+        "topg": 1.0,
+        "fg_pct": 52.0,
+        "three_pct": 25.0,
+        "ft_pct": 70.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 7.0,
+        "contract_tier": "mid-level",
+        "trade_value": 14
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 78,
+        "improvement_areas": [
+          "offensive skills",
+          "passing"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 65,
+        "media_attention": 55
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Liam Carter",
+            "score": 9,
+            "reason": "Excellent defensive synergy."
+          }
+        ],
+        "neutral_teammates": [
+          "Elias Vega",
+          "Javier Morales"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Martin Morales",
+            "score": 3,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed as a free agent after a successful international career.",
+        "off_court_interests": [
+          "reading",
+          "cooking"
+        ],
+        "public_reputation": "Known for his defensive impact and work ethic."
+      },
+      "profile_summary": "Dmitri Ivanov is a formidable center known for his shot-blocking and rebounding abilities. His calm presence and defensive skills make him a cornerstone of the Madrid Quasar's defense."
+    }
+  ],
+  "rivalries": [
+    {
+      "team": "Blaze",
+      "type": "inter-conference"
+    },
+    {
+      "team": "Nexis",
+      "type": "inter-conference"
+    }
+  ],
+  "sponsors": {
+    "primary": "Tech Innovations",
+    "secondary": "Energy Solutions"
+  },
+  "description": "Quasar is known for its electrifying performances and strong community ties, making it an exciting team in the Hoopball League.",
+  "id": "team_0007",
+  "team_dynamics": {
+    "team_name": "Madrid Quasar",
+    "locker_room_leaders": [
+      "Elias Vega",
+      "Liam Carter",
+      "Mateo Cruz"
+    ],
+    "star_players": [
+      "Elias Vega"
+    ],
+    "mentor_pairs": [],
+    "notable_friendships": [
+      {
+        "players": [
+          "Daichi Nakamura",
+          "Elias Vega"
+        ],
+        "reason": "Great on-court synergy and communication."
+      },
+      {
+        "players": [
+          "Javier Morales",
+          "Mateo Cruz"
+        ],
+        "reason": "Excellent chemistry on the court."
+      },
+      {
+        "players": [
+          "Alessandro Mancini",
+          "Dmitri Ivanov"
+        ],
+        "reason": "Strong inside presence."
+      },
+      {
+        "players": [
+          "Javier Morales",
+          "Martin Morales"
+        ],
+        "reason": "Good offensive synergy."
+      },
+      {
+        "players": [
+          "Dmitri Ivanov",
+          "Liam Carter"
+        ],
+        "reason": "Strong defensive pairing."
+      }
+    ],
+    "internal_tensions": [
+      {
+        "players": [
+          "Elias Vega",
+          "Martin Morales"
+        ],
+        "reason": "Competes for ball dominance."
+      },
+      {
+        "players": [
+          "Dmitri Ivanov",
+          "Javier Morales"
+        ],
+        "reason": "Different styles lead to clashes."
+      },
+      {
+        "players": [
+          "Alessandro Mancini",
+          "Martin Morales"
+        ],
+        "reason": "Different styles lead to clashes."
+      },
+      {
+        "players": [
+          "Daichi Nakamura",
+          "Martin Morales"
+        ],
+        "reason": "Different styles lead to misunderstandings."
+      },
+      {
+        "players": [
+          "Dmitri Ivanov",
+          "Mateo Cruz"
+        ],
+        "reason": "Different playing styles."
+      },
+      {
+        "players": [
+          "Dmitri Ivanov",
+          "Martin Morales"
+        ],
+        "reason": "Different styles lead to clashes."
+      },
+      {
+        "players": [
+          "Liam Carter",
+          "Martin Morales"
+        ],
+        "reason": "Different styles lead to misunderstandings."
+      }
+    ]
+  }
+}

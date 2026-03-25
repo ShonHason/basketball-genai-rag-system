@@ -1,0 +1,116 @@
+{
+  "player_id": "team_0007_player_08",
+  "name": "Alessandro Mancini",
+  "number": 12,
+  "position": "PF",
+  "height_cm": 202,
+  "age": 23,
+  "nationality": "Italy",
+  "weight_kg": 95,
+  "wingspan_cm": 210,
+  "personal_info": {
+    "birth_city": "Rome",
+    "country_of_origin": "Italy",
+    "languages": [
+      "Italian",
+      "English"
+    ],
+    "family_background": "Comes from a family of athletes."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "technical",
+      "balanced"
+    ],
+    "strengths": [
+      "shooting",
+      "passing"
+    ],
+    "weaknesses": [
+      "defense"
+    ],
+    "basketball_iq": 79,
+    "motor": 80
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 4,
+    "competitiveness": 6,
+    "work_ethic": 8,
+    "confidence": 7,
+    "temperament": "balanced",
+    "locker_room_role": "quiet-worker"
+  },
+  "role_in_team": {
+    "status": "bench_prospect",
+    "is_star": false,
+    "rotation_role": "backup power forward",
+    "minutes_expectation": 15
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 5,
+    "minutes": 15.0,
+    "ppg": 8.9,
+    "rpg": 4.0,
+    "apg": 2.0,
+    "spg": 0.3,
+    "bpg": 0.5,
+    "topg": 1.0,
+    "fg_pct": 47.0,
+    "three_pct": 34.0,
+    "ft_pct": 76.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 1.8,
+    "contract_tier": "rookie_contract",
+    "trade_value": 4
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 2,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 85,
+    "current_impact": 65,
+    "improvement_areas": [
+      "defensive skills",
+      "physicality"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 55,
+    "media_attention": 50
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Dmitri Ivanov",
+        "score": 7,
+        "reason": "Strong inside presence."
+      }
+    ],
+    "neutral_teammates": [
+      "Elias Vega",
+      "Liam Carter"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Martin Morales",
+        "score": 4,
+        "reason": "Different styles lead to clashes."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted after a successful career in Italy.",
+    "off_court_interests": [
+      "art",
+      "cooking"
+    ],
+    "public_reputation": "Emerging talent with great potential."
+  },
+  "profile_summary": "Alessandro Mancini is a skilled power forward with a strong shooting touch and playmaking ability. As a young player, he is developing into a key contributor for the Madrid Quasar."
+}

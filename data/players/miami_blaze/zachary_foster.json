@@ -1,0 +1,115 @@
+{
+  "player_id": "team_0003_player_07",
+  "name": "Zachary Foster",
+  "number": 11,
+  "position": "SF",
+  "height_cm": 198,
+  "age": 24,
+  "nationality": "UAE",
+  "weight_kg": 85,
+  "wingspan_cm": 211,
+  "personal_info": {
+    "birth_city": "Dubai",
+    "country_of_origin": "UAE",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "family_background": "Son of a local sports icon."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "youth-focused"
+    ],
+    "strengths": [
+      "scoring",
+      "athleticism"
+    ],
+    "weaknesses": [
+      "defense"
+    ],
+    "basketball_iq": 78,
+    "motor": 80
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 6,
+    "competitiveness": 8,
+    "work_ethic": 7,
+    "confidence": 7,
+    "temperament": "intense",
+    "locker_room_role": "challenger"
+  },
+  "role_in_team": {
+    "status": "role_player",
+    "is_star": false,
+    "rotation_role": "bench",
+    "minutes_expectation": 20
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 0,
+    "minutes": 20.0,
+    "ppg": 10.9,
+    "rpg": 3.0,
+    "apg": 2.0,
+    "spg": 0.5,
+    "bpg": 0.2,
+    "topg": 1.5,
+    "fg_pct": 43.0,
+    "three_pct": 36.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 2.0,
+    "contract_tier": "role-player",
+    "trade_value": 3
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 6
+  },
+  "development_profile": {
+    "ceiling": 75,
+    "current_impact": 55,
+    "improvement_areas": [
+      "defensive skills"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 65,
+    "media_attention": 50
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Brandon Griffin",
+        "score": 7,
+        "reason": "Good scoring chemistry."
+      }
+    ],
+    "neutral_teammates": [
+      "Tyler Adams",
+      "Liam Brooks"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dante Cruz",
+        "score": 4,
+        "reason": "Different styles of play."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as a free agent in 2021.",
+    "off_court_interests": [
+      "fashion",
+      "fitness"
+    ],
+    "public_reputation": "Known for his scoring ability."
+  },
+  "profile_summary": "Zachary Foster is an athletic small forward with a flair for scoring. His ability to create shots makes him a valuable asset off the bench for the Miami Blaze."
+}

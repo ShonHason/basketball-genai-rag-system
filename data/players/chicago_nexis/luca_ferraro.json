@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0004_player_04",
+  "name": "Luca Ferraro",
+  "number": 41,
+  "position": "PF",
+  "height_cm": 210,
+  "age": 28,
+  "nationality": "Italy",
+  "weight_kg": 100,
+  "wingspan_cm": 215,
+  "personal_info": {
+    "birth_city": "Rome",
+    "country_of_origin": "Italy",
+    "languages": [
+      "Italian",
+      "English"
+    ],
+    "family_background": "Brother of a former European league player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "physical",
+      "technical"
+    ],
+    "strengths": [
+      "rebounding",
+      "post moves"
+    ],
+    "weaknesses": [
+      "perimeter shooting"
+    ],
+    "basketball_iq": 78,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 6,
+    "ego_level": 5,
+    "competitiveness": 8,
+    "work_ethic": 8,
+    "confidence": 7,
+    "temperament": "intense",
+    "locker_room_role": "mentor"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "post scorer",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 30.0,
+    "ppg": 15.9,
+    "rpg": 8.0,
+    "apg": 2.0,
+    "spg": 0.5,
+    "bpg": 1.0,
+    "topg": 1.8,
+    "fg_pct": 50.0,
+    "three_pct": 30.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 4.0,
+    "contract_tier": "mid-level",
+    "trade_value": 7
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 85,
+    "current_impact": 70,
+    "improvement_areas": [
+      "shooting",
+      "defensive consistency"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 65,
+    "media_attention": 55
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Riku Nakamura",
+        "score": 8,
+        "reason": "Great understanding in the post."
+      }
+    ],
+    "neutral_teammates": [
+      "Felix Moreno",
+      "Ethan Carter"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Yuki Sato",
+        "score": 4,
+        "reason": "Different styles lead to miscommunication."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Acquired through a trade after a successful overseas career.",
+    "off_court_interests": [
+      "art",
+      "cooking"
+    ],
+    "public_reputation": "Known for his skill in the post and mentorship of younger players."
+  },
+  "profile_summary": "Luca Ferraro is a skilled power forward with a strong presence in the paint. His rebounding and post moves make him a crucial part of the Chicago Nexis' frontcourt.",
+  "family_relation": {
+    "type": "brother",
+    "related_player": "Marco Ferraro"
+  }
+}

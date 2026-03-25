@@ -1,0 +1,114 @@
+{
+  "player_id": "team_0005_player_06",
+  "name": "Andre Harris",
+  "number": 22,
+  "position": "PG",
+  "height_cm": 180,
+  "age": 27,
+  "nationality": "USA",
+  "weight_kg": 80,
+  "wingspan_cm": 185,
+  "personal_info": {
+    "birth_city": "Los Angeles",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Cousin of a former NBA player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "offensive"
+    ],
+    "strengths": [
+      "scoring",
+      "quickness"
+    ],
+    "weaknesses": [
+      "defense"
+    ],
+    "basketball_iq": 78,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 5,
+    "competitiveness": 7,
+    "work_ethic": 6,
+    "confidence": 7,
+    "temperament": "intense",
+    "locker_room_role": "challenger"
+  },
+  "role_in_team": {
+    "status": "role_player",
+    "is_star": false,
+    "rotation_role": "scoring guard off the bench",
+    "minutes_expectation": 20
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 10,
+    "minutes": 20.0,
+    "ppg": 10.2,
+    "rpg": 2.0,
+    "apg": 3.0,
+    "spg": 0.5,
+    "bpg": 0.1,
+    "topg": 2.0,
+    "fg_pct": 42.0,
+    "three_pct": 33.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 2.0,
+    "contract_tier": "bench_prospect",
+    "trade_value": 4
+  },
+  "health_profile": {
+    "durability": 6,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 75,
+    "current_impact": 60,
+    "improvement_areas": [
+      "defense"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 55,
+    "media_attention": 50
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Miles Parker",
+        "score": 7,
+        "reason": "Good scoring chemistry."
+      }
+    ],
+    "neutral_teammates": [
+      "Ethan Rivers",
+      "Sota Nakamura"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Ricardo Vargas",
+        "score": 4,
+        "reason": "Different playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as a free agent after a successful college career.",
+    "off_court_interests": [
+      "music",
+      "fitness"
+    ],
+    "public_reputation": "Known for his scoring ability."
+  },
+  "profile_summary": "Andre Harris is a quick and agile point guard who can score in bunches. His offensive skills make him a valuable contributor off the bench for the Seattle Aether."
+}

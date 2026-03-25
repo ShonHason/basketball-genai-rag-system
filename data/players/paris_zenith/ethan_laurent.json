@@ -1,0 +1,118 @@
+{
+  "player_id": "team_0009_player_01",
+  "name": "Ethan Laurent",
+  "number": 10,
+  "position": "PG",
+  "height_cm": 182,
+  "age": 25,
+  "nationality": "USA",
+  "weight_kg": 82,
+  "wingspan_cm": 190,
+  "personal_info": {
+    "birth_city": "Chicago",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Son of a former college player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "technical"
+    ],
+    "strengths": [
+      "playmaking",
+      "defense"
+    ],
+    "weaknesses": [
+      "shooting consistency"
+    ],
+    "basketball_iq": 8,
+    "motor": 9
+  },
+  "personality": {
+    "leadership": 7,
+    "ego_level": 5,
+    "competitiveness": 8,
+    "work_ethic": 9,
+    "confidence": 8,
+    "temperament": "balanced",
+    "locker_room_role": "leader"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": true,
+    "rotation_role": "primary ball handler",
+    "minutes_expectation": 32
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 32.0,
+    "ppg": 15.9,
+    "rpg": 4.0,
+    "apg": 7.0,
+    "spg": 1.5,
+    "bpg": 0.3,
+    "topg": 2.5,
+    "fg_pct": 45.0,
+    "three_pct": 36.0,
+    "ft_pct": 80.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 3.5,
+    "contract_tier": "mid-level",
+    "trade_value": 8
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 2,
+    "conditioning": 9
+  },
+  "development_profile": {
+    "ceiling": 9,
+    "current_impact": 8,
+    "improvement_areas": [
+      "shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 7,
+    "media_attention": 6
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Yuki Yoshida",
+        "score": 9,
+        "reason": "Strong connection on and off the court."
+      }
+    ],
+    "neutral_teammates": [
+      "Lucas Morel",
+      "Dylan Carter"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Roberto Ramirez",
+        "score": 3,
+        "reason": "Competes for minutes."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted by Paris Zenith after a standout college career.",
+    "off_court_interests": [
+      "music",
+      "community service"
+    ],
+    "public_reputation": "Respected for his leadership and work ethic."
+  },
+  "profile_summary": "Ethan Laurent is a dynamic point guard known for his playmaking and leadership. He has quickly become a fan favorite in Paris, showcasing his skills and determination on the court.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "James Laurent"
+  }
+}

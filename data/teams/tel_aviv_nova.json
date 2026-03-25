@@ -1,0 +1,1125 @@
+{
+  "city": "Tel Aviv",
+  "country": "Israel",
+  "name": "Nova",
+  "conference": "Eastern Conference",
+  "division": "South Division",
+  "arena": {
+    "name": "Nova Arena",
+    "capacity": 21000
+  },
+  "ownership": {
+    "owner": "David Cohen",
+    "president": "Rachel Levy",
+    "general_manager": "Eli Schwartz"
+  },
+  "branding": {
+    "colors": [
+      "navy",
+      "gold",
+      "white"
+    ],
+    "mascot": "Nova the Star"
+  },
+  "market": {
+    "market_size": "medium",
+    "city_population": 450000
+  },
+  "history": {
+    "conference_titles": 0,
+    "division_titles": 0,
+    "playoff_appearances": 1,
+    "championships": 0
+  },
+  "coaching_staff": {
+    "head_coach": "Michael Green",
+    "assistant_coaches": [
+      "Sarah Klein",
+      "Daniel Katz"
+    ],
+    "strength_coach": "Noah Adler"
+  },
+  "roster": [
+    {
+      "player_id": "team_0008_player_08",
+      "name": "Eduardo Morales",
+      "number": 3,
+      "position": "PF",
+      "height_cm": 207,
+      "age": 24,
+      "nationality": "Mexico",
+      "weight_kg": 95,
+      "wingspan_cm": 217,
+      "personal_info": {
+        "birth_city": "Mexico City",
+        "country_of_origin": "Mexico",
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "family_background": "Son of a former league player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "balanced",
+          "technical"
+        ],
+        "strengths": [
+          "scoring",
+          "rebounding"
+        ],
+        "weaknesses": [
+          "defensive positioning"
+        ],
+        "basketball_iq": 79,
+        "motor": 82
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 5,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "calm",
+        "locker_room_role": "neutral"
+      },
+      "role_in_team": {
+        "status": "role_player",
+        "is_star": false,
+        "rotation_role": "scoring forward",
+        "minutes_expectation": 20
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 10,
+        "minutes": 20.0,
+        "ppg": 10.4,
+        "rpg": 5.0,
+        "apg": 1.0,
+        "spg": 0.4,
+        "bpg": 0.2,
+        "topg": 1.0,
+        "fg_pct": 48.0,
+        "three_pct": 34.0,
+        "ft_pct": 76.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 1.8,
+        "contract_tier": "mid-level",
+        "trade_value": 7
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 3,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 68,
+        "improvement_areas": [
+          "defense",
+          "basketball IQ"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 55,
+        "media_attention": 45
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Liam Foster",
+            "score": 7,
+            "reason": "Strong connection in the paint."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Cohen",
+          "Avi Levi"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dante Walker",
+            "score": 3,
+            "reason": "Different styles clash."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted after a standout college career.",
+        "off_court_interests": [
+          "art",
+          "music"
+        ],
+        "public_reputation": "Known for his scoring and rebounding ability."
+      },
+      "profile_summary": "Eduardo Morales is a skilled power forward with a balanced game. His scoring and rebounding make him a valuable contributor to the Nova's success.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "Fernando Morales"
+      }
+    },
+    {
+      "player_id": "team_0008_player_05",
+      "name": "Dante Walker",
+      "number": 11,
+      "position": "C",
+      "height_cm": 211,
+      "age": 29,
+      "nationality": "Russia",
+      "weight_kg": 110,
+      "wingspan_cm": 220,
+      "personal_info": {
+        "birth_city": "Moscow",
+        "country_of_origin": "Russia",
+        "languages": [
+          "Russian",
+          "English"
+        ],
+        "family_background": "Cousin of a former European league star."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "defensive",
+          "physical"
+        ],
+        "strengths": [
+          "shot-blocking",
+          "rebounding"
+        ],
+        "weaknesses": [
+          "offensive skills"
+        ],
+        "basketball_iq": 76,
+        "motor": 80
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 6,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 6,
+        "temperament": "intense",
+        "locker_room_role": "neutral"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive anchor",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 10.4,
+        "rpg": 10.0,
+        "apg": 1.0,
+        "spg": 0.4,
+        "bpg": 2.0,
+        "topg": 1.2,
+        "fg_pct": 52.0,
+        "three_pct": 25.0,
+        "ft_pct": 70.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 4.0,
+        "contract_tier": "mid-level",
+        "trade_value": 14
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 5,
+        "conditioning": 6
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 75,
+        "improvement_areas": [
+          "offensive skills",
+          "free throw shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 60,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Liam Foster",
+            "score": 8,
+            "reason": "Strong defensive partnership."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Cohen",
+          "Avi Levi"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Luis Castillo",
+            "score": 3,
+            "reason": "Different styles clash."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed as a free agent after a successful overseas career.",
+        "off_court_interests": [
+          "gaming",
+          "fitness"
+        ],
+        "public_reputation": "Known for his shot-blocking ability and work ethic."
+      },
+      "profile_summary": "Dante Walker is a formidable center known for his shot-blocking and rebounding skills. His defensive presence is crucial for the Nova's success.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "Alexei Walker"
+      }
+    },
+    {
+      "player_id": "team_0008_player_01",
+      "name": "Ethan Cohen",
+      "number": 12,
+      "position": "PG",
+      "height_cm": 188,
+      "age": 24,
+      "nationality": "USA",
+      "weight_kg": 80,
+      "wingspan_cm": 201,
+      "personal_info": {
+        "birth_city": "Los Angeles",
+        "country_of_origin": "USA",
+        "languages": [
+          "English",
+          "Hebrew"
+        ],
+        "family_background": "Son of a former college player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "technical"
+        ],
+        "strengths": [
+          "playmaking",
+          "defense"
+        ],
+        "weaknesses": [
+          "shooting consistency"
+        ],
+        "basketball_iq": 85,
+        "motor": 90
+      },
+      "personality": {
+        "leadership": 7,
+        "ego_level": 5,
+        "competitiveness": 8,
+        "work_ethic": 9,
+        "confidence": 8,
+        "temperament": "balanced",
+        "locker_room_role": "leader"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": true,
+        "rotation_role": "primary ball handler",
+        "minutes_expectation": 32
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 32.0,
+        "ppg": 18.5,
+        "rpg": 4.0,
+        "apg": 7.0,
+        "spg": 1.5,
+        "bpg": 0.3,
+        "topg": 2.5,
+        "fg_pct": 45.0,
+        "three_pct": 36.0,
+        "ft_pct": 80.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 3.5,
+        "contract_tier": "mid-level",
+        "trade_value": 15
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 3,
+        "conditioning": 9
+      },
+      "development_profile": {
+        "ceiling": 90,
+        "current_impact": 75,
+        "improvement_areas": [
+          "shooting",
+          "leadership"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 80,
+        "media_attention": 75
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Luis Castillo",
+            "score": 9,
+            "reason": "Strong synergy in the backcourt."
+          }
+        ],
+        "neutral_teammates": [
+          "Avi Levi",
+          "Oren Shapiro"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dante Walker",
+            "score": 4,
+            "reason": "Clashing play styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by Tel Aviv Nova after a standout college career.",
+        "off_court_interests": [
+          "music",
+          "community service"
+        ],
+        "public_reputation": "Known for his charitable work and leadership."
+      },
+      "profile_summary": "Ethan Cohen is a dynamic point guard known for his playmaking and leadership skills. With a strong work ethic and community ties, he has quickly become a fan favorite.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "David Cohen"
+      }
+    },
+    {
+      "player_id": "team_0008_player_07",
+      "name": "Ravi Patel",
+      "number": 21,
+      "position": "SF",
+      "height_cm": 193,
+      "age": 25,
+      "nationality": "India",
+      "weight_kg": 88,
+      "wingspan_cm": 210,
+      "personal_info": {
+        "birth_city": "Mumbai",
+        "country_of_origin": "India",
+        "languages": [
+          "Hindi",
+          "English"
+        ],
+        "family_background": "Son of a former national player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "youth-focused"
+        ],
+        "strengths": [
+          "athleticism",
+          "scoring"
+        ],
+        "weaknesses": [
+          "defensive consistency"
+        ],
+        "basketball_iq": 77,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 5,
+        "competitiveness": 8,
+        "work_ethic": 7,
+        "confidence": 6,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "role_player",
+        "is_star": false,
+        "rotation_role": "scoring forward",
+        "minutes_expectation": 20
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 20,
+        "minutes": 20.0,
+        "ppg": 11.5,
+        "rpg": 4.0,
+        "apg": 1.0,
+        "spg": 0.6,
+        "bpg": 0.3,
+        "topg": 1.2,
+        "fg_pct": 45.0,
+        "three_pct": 35.0,
+        "ft_pct": 72.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 2.0,
+        "contract_tier": "mid-level",
+        "trade_value": 8
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 78,
+        "current_impact": 65,
+        "improvement_areas": [
+          "defense",
+          "basketball IQ"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 60,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Oren Shapiro",
+            "score": 7,
+            "reason": "Good on-court connection."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Cohen",
+          "Avi Levi"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dante Walker",
+            "score": 4,
+            "reason": "Different priorities."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed after a successful international career.",
+        "off_court_interests": [
+          "fitness",
+          "cooking"
+        ],
+        "public_reputation": "Known for his scoring ability and athleticism."
+      },
+      "profile_summary": "Ravi Patel is an athletic small forward with a strong scoring ability. His competitive nature and work ethic make him a valuable role player for the Nova.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "Raj Patel"
+      }
+    },
+    {
+      "player_id": "team_0008_player_02",
+      "name": "Avi Levi",
+      "number": 23,
+      "position": "SG",
+      "height_cm": 193,
+      "age": 26,
+      "nationality": "Israel",
+      "weight_kg": 85,
+      "wingspan_cm": 207,
+      "personal_info": {
+        "birth_city": "Tel Aviv",
+        "country_of_origin": "Israel",
+        "languages": [
+          "Hebrew",
+          "English"
+        ],
+        "family_background": "Cousin of a former national team player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "technical"
+        ],
+        "strengths": [
+          "shooting",
+          "off-ball movement"
+        ],
+        "weaknesses": [
+          "defensive consistency"
+        ],
+        "basketball_iq": 82,
+        "motor": 88
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 6,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "calm",
+        "locker_room_role": "glue-guy"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "scoring guard",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 75,
+        "minutes": 30.0,
+        "ppg": 16.2,
+        "rpg": 3.0,
+        "apg": 3.0,
+        "spg": 0.8,
+        "bpg": 0.2,
+        "topg": 1.8,
+        "fg_pct": 46.0,
+        "three_pct": 39.0,
+        "ft_pct": 78.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 2.8,
+        "contract_tier": "role_player",
+        "trade_value": 10
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 4,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 70,
+        "improvement_areas": [
+          "defense",
+          "playmaking"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 70,
+        "media_attention": 60
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Oren Shapiro",
+            "score": 8,
+            "reason": "Great connection on the court."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Cohen",
+          "Liam Foster"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dante Walker",
+            "score": 3,
+            "reason": "Different priorities."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Joined Tel Aviv Nova after a successful stint in the Israeli league.",
+        "off_court_interests": [
+          "photography",
+          "travel"
+        ],
+        "public_reputation": "Respected for his professionalism and work ethic."
+      },
+      "profile_summary": "Avi Levi is a skilled shooting guard with a knack for scoring and a strong work ethic. His ability to connect with teammates makes him a valuable asset on and off the court.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "Yossi Levi"
+      }
+    },
+    {
+      "player_id": "team_0008_player_06",
+      "name": "Luis Castillo",
+      "number": 30,
+      "position": "PG",
+      "height_cm": 181,
+      "age": 22,
+      "nationality": "Mexico",
+      "weight_kg": 78,
+      "wingspan_cm": 185,
+      "personal_info": {
+        "birth_city": "Guadalajara",
+        "country_of_origin": "Mexico",
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "family_background": "Youngest brother of a former league player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "youth-focused"
+        ],
+        "strengths": [
+          "speed",
+          "playmaking"
+        ],
+        "weaknesses": [
+          "defensive skills"
+        ],
+        "basketball_iq": 75,
+        "motor": 90
+      },
+      "personality": {
+        "leadership": 3,
+        "ego_level": 4,
+        "competitiveness": 6,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "calm",
+        "locker_room_role": "mentor"
+      },
+      "role_in_team": {
+        "status": "bench_prospect",
+        "is_star": false,
+        "rotation_role": "backup point guard",
+        "minutes_expectation": 15
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 5,
+        "minutes": 15.0,
+        "ppg": 9.2,
+        "rpg": 2.0,
+        "apg": 3.0,
+        "spg": 0.5,
+        "bpg": 0.1,
+        "topg": 1.5,
+        "fg_pct": 42.0,
+        "three_pct": 34.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 3,
+        "annual_salary_m": 1.5,
+        "contract_tier": "rookie",
+        "trade_value": 5
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 9
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 60,
+        "improvement_areas": [
+          "defense",
+          "shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 55,
+        "media_attention": 45
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Ethan Cohen",
+            "score": 7,
+            "reason": "Learning a lot from him."
+          }
+        ],
+        "neutral_teammates": [
+          "Avi Levi",
+          "Oren Shapiro"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dante Walker",
+            "score": 3,
+            "reason": "Different styles clash."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted after a standout college career in Mexico.",
+        "off_court_interests": [
+          "music",
+          "travel"
+        ],
+        "public_reputation": "Known for his speed and potential."
+      },
+      "profile_summary": "Luis Castillo is a promising young point guard with exceptional speed and playmaking ability. His potential makes him an exciting prospect for the Nova.",
+      "family_relation": {
+        "type": "brother",
+        "related_player": "Carlos Castillo"
+      }
+    },
+    {
+      "player_id": "team_0008_player_03",
+      "name": "Oren Shapiro",
+      "number": 34,
+      "position": "SF",
+      "height_cm": 197,
+      "age": 27,
+      "nationality": "Israel",
+      "weight_kg": 90,
+      "wingspan_cm": 205,
+      "personal_info": {
+        "birth_city": "Haifa",
+        "country_of_origin": "Israel",
+        "languages": [
+          "Hebrew",
+          "English"
+        ],
+        "family_background": "Brother of a former league MVP."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "balanced",
+          "offensive"
+        ],
+        "strengths": [
+          "scoring",
+          "rebounding"
+        ],
+        "weaknesses": [
+          "defensive awareness"
+        ],
+        "basketball_iq": 80,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 6,
+        "ego_level": 5,
+        "competitiveness": 8,
+        "work_ethic": 7,
+        "confidence": 7,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "scoring forward",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 80,
+        "minutes": 30.0,
+        "ppg": 17.3,
+        "rpg": 6.0,
+        "apg": 2.0,
+        "spg": 0.9,
+        "bpg": 0.4,
+        "topg": 1.5,
+        "fg_pct": 47.0,
+        "three_pct": 37.0,
+        "ft_pct": 79.0
+      },
+      "contract": {
+        "years_remaining": 3,
+        "annual_salary_m": 2.5,
+        "contract_tier": "mid-level",
+        "trade_value": 12
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 4,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 72,
+        "improvement_areas": [
+          "defense",
+          "playmaking"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 75,
+        "media_attention": 65
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Avi Levi",
+            "score": 8,
+            "reason": "Strong on-court chemistry."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Cohen",
+          "Liam Foster"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dante Walker",
+            "score": 3,
+            "reason": "Different styles clash."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by Tel Aviv Nova after a successful youth career.",
+        "off_court_interests": [
+          "cooking",
+          "fitness"
+        ],
+        "public_reputation": "Known for his competitive spirit and dedication."
+      },
+      "profile_summary": "Oren Shapiro is a versatile small forward with a strong scoring ability and competitive nature. His intensity on the court makes him a key player for the Nova.",
+      "family_relation": {
+        "type": "brother",
+        "related_player": "Daniel Shapiro"
+      }
+    },
+    {
+      "player_id": "team_0008_player_04",
+      "name": "Liam Foster",
+      "number": 45,
+      "position": "PF",
+      "height_cm": 207,
+      "age": 28,
+      "nationality": "USA",
+      "weight_kg": 100,
+      "wingspan_cm": 221,
+      "personal_info": {
+        "birth_city": "Chicago",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Son of a former NBA player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "physical",
+          "defensive"
+        ],
+        "strengths": [
+          "rebounding",
+          "defense"
+        ],
+        "weaknesses": [
+          "shooting range"
+        ],
+        "basketball_iq": 78,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 4,
+        "competitiveness": 7,
+        "work_ethic": 9,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive anchor",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 80,
+        "minutes": 30.0,
+        "ppg": 11.5,
+        "rpg": 9.0,
+        "apg": 2.0,
+        "spg": 0.5,
+        "bpg": 1.2,
+        "topg": 1.0,
+        "fg_pct": 50.0,
+        "three_pct": 30.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 3.0,
+        "contract_tier": "mid-level",
+        "trade_value": 11
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 70,
+        "improvement_areas": [
+          "shooting",
+          "offensive skills"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 65,
+        "media_attention": 55
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Dante Walker",
+            "score": 7,
+            "reason": "Strong defensive partnership."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Cohen",
+          "Luis Castillo"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Ravi Patel",
+            "score": 4,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Acquired through trade after a successful college career.",
+        "off_court_interests": [
+          "fitness",
+          "mentoring youth"
+        ],
+        "public_reputation": "Respected for his work ethic and defensive skills."
+      },
+      "profile_summary": "Liam Foster is a powerful power forward known for his rebounding and defensive prowess. His physical playstyle makes him a cornerstone of the Nova's frontcourt.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "Mark Foster"
+      }
+    }
+  ],
+  "rivalries": [
+    {
+      "team": "Blaze",
+      "type": "inter-conference"
+    },
+    {
+      "team": "Nexis",
+      "type": "inter-conference"
+    }
+  ],
+  "sponsors": {
+    "primary": "Tech Innovations",
+    "secondary": "Global Energy"
+  },
+  "description": "Nova is known for its innovative strategies and strong community ties, making it an exciting team in the Hoopball League.",
+  "id": "team_0008",
+  "team_dynamics": {
+    "team_name": "Tel Aviv Nova",
+    "locker_room_leaders": [
+      "Ethan Cohen",
+      "Oren Shapiro",
+      "Liam Foster"
+    ],
+    "star_players": [
+      "Ethan Cohen"
+    ],
+    "mentor_pairs": [
+      {
+        "mentor": "Luis Castillo",
+        "teammate": "Ethan Cohen",
+        "reason": "Learning a lot from him."
+      }
+    ],
+    "notable_friendships": [
+      {
+        "players": [
+          "Eduardo Morales",
+          "Liam Foster"
+        ],
+        "reason": "Strong connection in the paint."
+      },
+      {
+        "players": [
+          "Dante Walker",
+          "Liam Foster"
+        ],
+        "reason": "Strong defensive partnership."
+      },
+      {
+        "players": [
+          "Ethan Cohen",
+          "Luis Castillo"
+        ],
+        "reason": "Strong synergy in the backcourt."
+      },
+      {
+        "players": [
+          "Oren Shapiro",
+          "Ravi Patel"
+        ],
+        "reason": "Good on-court connection."
+      },
+      {
+        "players": [
+          "Avi Levi",
+          "Oren Shapiro"
+        ],
+        "reason": "Great connection on the court."
+      }
+    ],
+    "internal_tensions": [
+      {
+        "players": [
+          "Dante Walker",
+          "Eduardo Morales"
+        ],
+        "reason": "Different styles clash."
+      },
+      {
+        "players": [
+          "Dante Walker",
+          "Luis Castillo"
+        ],
+        "reason": "Different styles clash."
+      },
+      {
+        "players": [
+          "Dante Walker",
+          "Ethan Cohen"
+        ],
+        "reason": "Clashing play styles."
+      },
+      {
+        "players": [
+          "Dante Walker",
+          "Ravi Patel"
+        ],
+        "reason": "Different priorities."
+      },
+      {
+        "players": [
+          "Avi Levi",
+          "Dante Walker"
+        ],
+        "reason": "Different priorities."
+      },
+      {
+        "players": [
+          "Dante Walker",
+          "Oren Shapiro"
+        ],
+        "reason": "Different styles clash."
+      },
+      {
+        "players": [
+          "Liam Foster",
+          "Ravi Patel"
+        ],
+        "reason": "Different playing styles."
+      }
+    ]
+  }
+}

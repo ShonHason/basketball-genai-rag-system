@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0003_player_05",
+  "name": "Hiroshi Yamamoto",
+  "number": 7,
+  "position": "C",
+  "height_cm": 217,
+  "age": 29,
+  "nationality": "Japan",
+  "weight_kg": 110,
+  "wingspan_cm": 226,
+  "personal_info": {
+    "birth_city": "Tokyo",
+    "country_of_origin": "Japan",
+    "languages": [
+      "Japanese",
+      "English"
+    ],
+    "family_background": "Son of a former professional player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "defensive",
+      "technical"
+    ],
+    "strengths": [
+      "shot-blocking",
+      "rebounding"
+    ],
+    "weaknesses": [
+      "offensive skills"
+    ],
+    "basketball_iq": 82,
+    "motor": 75
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 3,
+    "competitiveness": 6,
+    "work_ethic": 8,
+    "confidence": 6,
+    "temperament": "calm",
+    "locker_room_role": "quiet-worker"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "starter",
+    "minutes_expectation": 28
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 28.0,
+    "ppg": 10.9,
+    "rpg": 8.0,
+    "apg": 1.0,
+    "spg": 0.3,
+    "bpg": 2.0,
+    "topg": 1.5,
+    "fg_pct": 50.0,
+    "three_pct": 25.0,
+    "ft_pct": 70.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 4.5,
+    "contract_tier": "mid-level",
+    "trade_value": 7
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 75,
+    "current_impact": 60,
+    "improvement_areas": [
+      "offensive skills"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 60,
+    "media_attention": 50
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Dante Cruz",
+        "score": 7,
+        "reason": "Good defensive chemistry."
+      }
+    ],
+    "neutral_teammates": [
+      "Tyler Adams",
+      "Liam Brooks"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Brandon Griffin",
+        "score": 4,
+        "reason": "Different styles of play."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as a free agent in 2020.",
+    "off_court_interests": [
+      "martial arts",
+      "cooking"
+    ],
+    "public_reputation": "Respected for his defensive skills."
+  },
+  "profile_summary": "Hiroshi Yamamoto is a towering center known for his shot-blocking and rebounding abilities. His defensive presence is crucial for the Miami Blaze's success.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "Ken Yamamoto"
+  }
+}

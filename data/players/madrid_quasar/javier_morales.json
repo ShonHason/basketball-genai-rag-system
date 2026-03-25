@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0007_player_03",
+  "name": "Javier Morales",
+  "number": 11,
+  "position": "SF",
+  "height_cm": 198,
+  "age": 27,
+  "nationality": "Spain",
+  "weight_kg": 90,
+  "wingspan_cm": 212,
+  "personal_info": {
+    "birth_city": "Barcelona",
+    "country_of_origin": "Spain",
+    "languages": [
+      "Spanish",
+      "Catalan"
+    ],
+    "family_background": "Brother of a former professional player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "balanced",
+      "offensive"
+    ],
+    "strengths": [
+      "scoring",
+      "athleticism"
+    ],
+    "weaknesses": [
+      "defense"
+    ],
+    "basketball_iq": 84,
+    "motor": 88
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 6,
+    "competitiveness": 9,
+    "work_ethic": 8,
+    "confidence": 9,
+    "temperament": "intense",
+    "locker_room_role": "challenger"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "scoring forward",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 80,
+    "minutes": 30.0,
+    "ppg": 19.0,
+    "rpg": 5.0,
+    "apg": 3.0,
+    "spg": 0.8,
+    "bpg": 0.5,
+    "topg": 2.5,
+    "fg_pct": 47.0,
+    "three_pct": 36.0,
+    "ft_pct": 79.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 4.0,
+    "contract_tier": "role_player",
+    "trade_value": 10
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 85,
+    "current_impact": 78,
+    "improvement_areas": [
+      "defensive consistency",
+      "team play"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 80,
+    "media_attention": 70
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Mateo Cruz",
+        "score": 8,
+        "reason": "Excellent chemistry on the court."
+      }
+    ],
+    "neutral_teammates": [
+      "Elias Vega",
+      "Liam Carter"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dmitri Ivanov",
+        "score": 4,
+        "reason": "Different styles lead to clashes."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted by the Quasar after a successful stint in the Spanish league.",
+    "off_court_interests": [
+      "photography",
+      "fitness"
+    ],
+    "public_reputation": "Known for his competitive spirit and work ethic."
+  },
+  "profile_summary": "Javier Morales is an athletic small forward with a strong scoring ability and competitive nature. His intense personality drives his performance, making him a key player for the Madrid Quasar.",
+  "family_relation": {
+    "type": "brother",
+    "related_player": "Carlos Morales"
+  }
+}

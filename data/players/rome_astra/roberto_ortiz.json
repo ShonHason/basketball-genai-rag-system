@@ -1,0 +1,116 @@
+{
+  "player_id": "team_0012_player_06",
+  "name": "Roberto Ortiz",
+  "number": 11,
+  "position": "PG",
+  "height_cm": 184,
+  "age": 24,
+  "nationality": "Mexico",
+  "weight_kg": 80,
+  "wingspan_cm": 198,
+  "personal_info": {
+    "birth_city": "Guadalajara",
+    "country_of_origin": "Mexico",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "family_background": "No notable family connections."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "offensive"
+    ],
+    "strengths": [
+      "speed",
+      "ball handling"
+    ],
+    "weaknesses": [
+      "defensive awareness"
+    ],
+    "basketball_iq": 75,
+    "motor": 88
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 5,
+    "competitiveness": 7,
+    "work_ethic": 6,
+    "confidence": 7,
+    "temperament": "intense",
+    "locker_room_role": "challenger"
+  },
+  "role_in_team": {
+    "status": "bench_prospect",
+    "is_star": false,
+    "rotation_role": "backup point guard",
+    "minutes_expectation": 18
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 10,
+    "minutes": 18.0,
+    "ppg": 9.1,
+    "rpg": 2.0,
+    "apg": 4.0,
+    "spg": 1.0,
+    "bpg": 0.1,
+    "topg": 2.0,
+    "fg_pct": 42.0,
+    "three_pct": 34.0,
+    "ft_pct": 76.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 1.5,
+    "contract_tier": "bench_prospect",
+    "trade_value": 2
+  },
+  "health_profile": {
+    "durability": 6,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 70,
+    "current_impact": 55,
+    "improvement_areas": [
+      "defense",
+      "decision making"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 50,
+    "media_attention": 30
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Yuki Tanaka",
+        "score": 7,
+        "reason": "Good chemistry in fast breaks."
+      }
+    ],
+    "neutral_teammates": [
+      "Antonio Ricci",
+      "David Johnson"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Darius Reed",
+        "score": 3,
+        "reason": "Different playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as an undrafted free agent after college.",
+    "off_court_interests": [
+      "music",
+      "traveling"
+    ],
+    "public_reputation": "Known for his speed and playmaking ability."
+  },
+  "profile_summary": "Roberto Ortiz is an agile point guard with exceptional speed and ball-handling skills. He provides a spark off the bench for Astra and is developing into a reliable playmaker."
+}

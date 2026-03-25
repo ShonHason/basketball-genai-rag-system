@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0007_player_02",
+  "name": "Mateo Cruz",
+  "number": 23,
+  "position": "SG",
+  "height_cm": 187,
+  "age": 26,
+  "nationality": "Spain",
+  "weight_kg": 88,
+  "wingspan_cm": 195,
+  "personal_info": {
+    "birth_city": "Madrid",
+    "country_of_origin": "Spain",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "family_background": "Cousin of a former national team player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "technical"
+    ],
+    "strengths": [
+      "shooting",
+      "basketball IQ"
+    ],
+    "weaknesses": [
+      "athleticism"
+    ],
+    "basketball_iq": 86,
+    "motor": 80
+  },
+  "personality": {
+    "leadership": 6,
+    "ego_level": 4,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 7,
+    "temperament": "calm",
+    "locker_room_role": "glue-guy"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "scoring guard",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 75,
+    "minutes": 30.0,
+    "ppg": 16.8,
+    "rpg": 3.0,
+    "apg": 4.0,
+    "spg": 1.0,
+    "bpg": 0.3,
+    "topg": 2.0,
+    "fg_pct": 45.0,
+    "three_pct": 40.0,
+    "ft_pct": 82.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 3.0,
+    "contract_tier": "role_player",
+    "trade_value": 8
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 85,
+    "current_impact": 75,
+    "improvement_areas": [
+      "defensive skills",
+      "playmaking"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 75,
+    "media_attention": 60
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Javier Morales",
+        "score": 8,
+        "reason": "Strong connection on the perimeter."
+      }
+    ],
+    "neutral_teammates": [
+      "Elias Vega",
+      "Liam Carter"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dmitri Ivanov",
+        "score": 4,
+        "reason": "Different playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Joined the Quasar after a successful youth career in Spain.",
+    "off_court_interests": [
+      "cooking",
+      "traveling"
+    ],
+    "public_reputation": "Known for his friendly demeanor and community involvement."
+  },
+  "profile_summary": "Mateo Cruz is a skilled shooting guard with a knack for scoring and a strong understanding of the game. His calm demeanor and ability to connect with teammates make him a valuable asset for the Madrid Quasar.",
+  "family_relation": {
+    "type": "cousin",
+    "related_player": "Luis Cruz"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "player_id": "team_0004_player_08",
+  "name": "Yuki Sato",
+  "number": 15,
+  "position": "PF",
+  "height_cm": 209,
+  "age": 22,
+  "nationality": "Japan",
+  "weight_kg": 95,
+  "wingspan_cm": 218,
+  "personal_info": {
+    "birth_city": "Osaka",
+    "country_of_origin": "Japan",
+    "languages": [
+      "Japanese",
+      "English"
+    ],
+    "family_background": "No notable basketball lineage."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "youth-focused",
+      "fast-paced"
+    ],
+    "strengths": [
+      "athleticism",
+      "versatility"
+    ],
+    "weaknesses": [
+      "experience"
+    ],
+    "basketball_iq": 75,
+    "motor": 80
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 3,
+    "competitiveness": 6,
+    "work_ethic": 8,
+    "confidence": 5,
+    "temperament": "calm",
+    "locker_room_role": "neutral"
+  },
+  "role_in_team": {
+    "status": "bench_prospect",
+    "is_star": false,
+    "rotation_role": "versatile forward",
+    "minutes_expectation": 12
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 5,
+    "minutes": 12.0,
+    "ppg": 6.4,
+    "rpg": 3.0,
+    "apg": 1.0,
+    "spg": 0.5,
+    "bpg": 0.3,
+    "topg": 1.0,
+    "fg_pct": 40.0,
+    "three_pct": 30.0,
+    "ft_pct": 70.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 1.0,
+    "contract_tier": "rookie",
+    "trade_value": 2
+  },
+  "health_profile": {
+    "durability": 6,
+    "injury_risk": 2,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 75,
+    "current_impact": 50,
+    "improvement_areas": [
+      "experience",
+      "shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 50,
+    "media_attention": 40
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Ethan Carter",
+        "score": 7,
+        "reason": "Good understanding in transition."
+      }
+    ],
+    "neutral_teammates": [
+      "Derek Lawson",
+      "Jaxon Reed"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Riku Nakamura",
+        "score": 3,
+        "reason": "Different playing styles create tension."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted by the Nexis after a standout performance in Japan.",
+    "off_court_interests": [
+      "gaming",
+      "anime"
+    ],
+    "public_reputation": "Known for his athleticism and potential."
+  },
+  "profile_summary": "Yuki Sato is a promising young power forward with great athleticism and versatility. His potential makes him an exciting prospect for the Chicago Nexis."
+}

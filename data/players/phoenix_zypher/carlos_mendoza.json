@@ -1,0 +1,116 @@
+{
+  "player_id": "team_0001_player_07",
+  "name": "Carlos Mendoza",
+  "number": 30,
+  "position": "SF",
+  "height_cm": 200,
+  "age": 29,
+  "nationality": "Mexico",
+  "weight_kg": 90,
+  "wingspan_cm": 205,
+  "personal_info": {
+    "birth_city": "Guadalajara",
+    "country_of_origin": "Mexico",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "family_background": "Comes from a family of basketball enthusiasts."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "fast-paced"
+    ],
+    "strengths": [
+      "shooting",
+      "athleticism"
+    ],
+    "weaknesses": [
+      "defensive positioning"
+    ],
+    "basketball_iq": 82,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 6,
+    "competitiveness": 8,
+    "work_ethic": 7,
+    "confidence": 7,
+    "temperament": "intense",
+    "locker_room_role": "neutral"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "starter",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 75,
+    "minutes": 30.0,
+    "ppg": 14.8,
+    "rpg": 5.0,
+    "apg": 3.0,
+    "spg": 1.0,
+    "bpg": 0.5,
+    "topg": 2.0,
+    "fg_pct": 46.0,
+    "three_pct": 38.0,
+    "ft_pct": 77.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 3.0,
+    "contract_tier": "mid-level",
+    "trade_value": 9
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 65,
+    "improvement_areas": [
+      "defensive skills",
+      "basketball IQ"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 70,
+    "media_attention": 65
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Jalen Brooks",
+        "score": 8,
+        "reason": "Great offensive chemistry."
+      }
+    ],
+    "neutral_teammates": [
+      "Khalid Rahman",
+      "Luca Moretti"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dmitri Volkov",
+        "score": 4,
+        "reason": "Different styles lead to some tension."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed after a successful career in the Mexican league.",
+    "off_court_interests": [
+      "music",
+      "community service"
+    ],
+    "public_reputation": "Known for his scoring ability and community involvement."
+  },
+  "profile_summary": "Carlos Mendoza is an athletic small forward known for his scoring and shooting ability. He plays a key role in the Zypher's offensive strategy."
+}

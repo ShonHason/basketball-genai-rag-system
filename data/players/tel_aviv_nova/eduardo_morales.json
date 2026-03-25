@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0008_player_08",
+  "name": "Eduardo Morales",
+  "number": 3,
+  "position": "PF",
+  "height_cm": 207,
+  "age": 24,
+  "nationality": "Mexico",
+  "weight_kg": 95,
+  "wingspan_cm": 217,
+  "personal_info": {
+    "birth_city": "Mexico City",
+    "country_of_origin": "Mexico",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "family_background": "Son of a former league player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "balanced",
+      "technical"
+    ],
+    "strengths": [
+      "scoring",
+      "rebounding"
+    ],
+    "weaknesses": [
+      "defensive positioning"
+    ],
+    "basketball_iq": 79,
+    "motor": 82
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 5,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 7,
+    "temperament": "calm",
+    "locker_room_role": "neutral"
+  },
+  "role_in_team": {
+    "status": "role_player",
+    "is_star": false,
+    "rotation_role": "scoring forward",
+    "minutes_expectation": 20
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 10,
+    "minutes": 20.0,
+    "ppg": 10.4,
+    "rpg": 5.0,
+    "apg": 1.0,
+    "spg": 0.4,
+    "bpg": 0.2,
+    "topg": 1.0,
+    "fg_pct": 48.0,
+    "three_pct": 34.0,
+    "ft_pct": 76.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 1.8,
+    "contract_tier": "mid-level",
+    "trade_value": 7
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 3,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 68,
+    "improvement_areas": [
+      "defense",
+      "basketball IQ"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 55,
+    "media_attention": 45
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Liam Foster",
+        "score": 7,
+        "reason": "Strong connection in the paint."
+      }
+    ],
+    "neutral_teammates": [
+      "Ethan Cohen",
+      "Avi Levi"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dante Walker",
+        "score": 3,
+        "reason": "Different styles clash."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted after a standout college career.",
+    "off_court_interests": [
+      "art",
+      "music"
+    ],
+    "public_reputation": "Known for his scoring and rebounding ability."
+  },
+  "profile_summary": "Eduardo Morales is a skilled power forward with a balanced game. His scoring and rebounding make him a valuable contributor to the Nova's success.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "Fernando Morales"
+  }
+}

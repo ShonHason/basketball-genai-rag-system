@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0008_player_05",
+  "name": "Dante Walker",
+  "number": 11,
+  "position": "C",
+  "height_cm": 211,
+  "age": 29,
+  "nationality": "Russia",
+  "weight_kg": 110,
+  "wingspan_cm": 220,
+  "personal_info": {
+    "birth_city": "Moscow",
+    "country_of_origin": "Russia",
+    "languages": [
+      "Russian",
+      "English"
+    ],
+    "family_background": "Cousin of a former European league star."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "defensive",
+      "physical"
+    ],
+    "strengths": [
+      "shot-blocking",
+      "rebounding"
+    ],
+    "weaknesses": [
+      "offensive skills"
+    ],
+    "basketball_iq": 76,
+    "motor": 80
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 6,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 6,
+    "temperament": "intense",
+    "locker_room_role": "neutral"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "defensive anchor",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 30.0,
+    "ppg": 10.4,
+    "rpg": 10.0,
+    "apg": 1.0,
+    "spg": 0.4,
+    "bpg": 2.0,
+    "topg": 1.2,
+    "fg_pct": 52.0,
+    "three_pct": 25.0,
+    "ft_pct": 70.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 4.0,
+    "contract_tier": "mid-level",
+    "trade_value": 14
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 5,
+    "conditioning": 6
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 75,
+    "improvement_areas": [
+      "offensive skills",
+      "free throw shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 60,
+    "media_attention": 50
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Liam Foster",
+        "score": 8,
+        "reason": "Strong defensive partnership."
+      }
+    ],
+    "neutral_teammates": [
+      "Ethan Cohen",
+      "Avi Levi"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Luis Castillo",
+        "score": 3,
+        "reason": "Different styles clash."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as a free agent after a successful overseas career.",
+    "off_court_interests": [
+      "gaming",
+      "fitness"
+    ],
+    "public_reputation": "Known for his shot-blocking ability and work ethic."
+  },
+  "profile_summary": "Dante Walker is a formidable center known for his shot-blocking and rebounding skills. His defensive presence is crucial for the Nova's success.",
+  "family_relation": {
+    "type": "cousin",
+    "related_player": "Alexei Walker"
+  }
+}

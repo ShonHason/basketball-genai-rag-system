@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0008_player_02",
+  "name": "Avi Levi",
+  "number": 23,
+  "position": "SG",
+  "height_cm": 193,
+  "age": 26,
+  "nationality": "Israel",
+  "weight_kg": 85,
+  "wingspan_cm": 207,
+  "personal_info": {
+    "birth_city": "Tel Aviv",
+    "country_of_origin": "Israel",
+    "languages": [
+      "Hebrew",
+      "English"
+    ],
+    "family_background": "Cousin of a former national team player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "technical"
+    ],
+    "strengths": [
+      "shooting",
+      "off-ball movement"
+    ],
+    "weaknesses": [
+      "defensive consistency"
+    ],
+    "basketball_iq": 82,
+    "motor": 88
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 6,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 7,
+    "temperament": "calm",
+    "locker_room_role": "glue-guy"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "scoring guard",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 75,
+    "minutes": 30.0,
+    "ppg": 16.2,
+    "rpg": 3.0,
+    "apg": 3.0,
+    "spg": 0.8,
+    "bpg": 0.2,
+    "topg": 1.8,
+    "fg_pct": 46.0,
+    "three_pct": 39.0,
+    "ft_pct": 78.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 2.8,
+    "contract_tier": "role_player",
+    "trade_value": 10
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 4,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 85,
+    "current_impact": 70,
+    "improvement_areas": [
+      "defense",
+      "playmaking"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 70,
+    "media_attention": 60
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Oren Shapiro",
+        "score": 8,
+        "reason": "Great connection on the court."
+      }
+    ],
+    "neutral_teammates": [
+      "Ethan Cohen",
+      "Liam Foster"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dante Walker",
+        "score": 3,
+        "reason": "Different priorities."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Joined Tel Aviv Nova after a successful stint in the Israeli league.",
+    "off_court_interests": [
+      "photography",
+      "travel"
+    ],
+    "public_reputation": "Respected for his professionalism and work ethic."
+  },
+  "profile_summary": "Avi Levi is a skilled shooting guard with a knack for scoring and a strong work ethic. His ability to connect with teammates makes him a valuable asset on and off the court.",
+  "family_relation": {
+    "type": "cousin",
+    "related_player": "Yossi Levi"
+  }
+}

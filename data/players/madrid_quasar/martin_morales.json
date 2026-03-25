@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0007_player_07",
+  "name": "Martin Morales",
+  "number": 30,
+  "position": "SF",
+  "height_cm": 198,
+  "age": 29,
+  "nationality": "Mexico",
+  "weight_kg": 85,
+  "wingspan_cm": 210,
+  "personal_info": {
+    "birth_city": "Guadalajara",
+    "country_of_origin": "Mexico",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "family_background": "Cousin of a former NBA player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "technical"
+    ],
+    "strengths": [
+      "shooting",
+      "athleticism"
+    ],
+    "weaknesses": [
+      "defense"
+    ],
+    "basketball_iq": 80,
+    "motor": 82
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 6,
+    "competitiveness": 8,
+    "work_ethic": 7,
+    "confidence": 7,
+    "temperament": "intense",
+    "locker_room_role": "challenger"
+  },
+  "role_in_team": {
+    "status": "role_player",
+    "is_star": false,
+    "rotation_role": "scoring forward",
+    "minutes_expectation": 20
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 10,
+    "minutes": 20.0,
+    "ppg": 13.4,
+    "rpg": 4.0,
+    "apg": 2.0,
+    "spg": 0.5,
+    "bpg": 0.3,
+    "topg": 1.5,
+    "fg_pct": 44.0,
+    "three_pct": 36.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 2.0,
+    "contract_tier": "role_player",
+    "trade_value": 6
+  },
+  "health_profile": {
+    "durability": 6,
+    "injury_risk": 4,
+    "conditioning": 6
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 70,
+    "improvement_areas": [
+      "defensive skills",
+      "team play"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 65,
+    "media_attention": 55
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Javier Morales",
+        "score": 7,
+        "reason": "Good offensive synergy."
+      }
+    ],
+    "neutral_teammates": [
+      "Elias Vega",
+      "Liam Carter"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dmitri Ivanov",
+        "score": 3,
+        "reason": "Different styles lead to clashes."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Joined the Quasar after a successful career in the Mexican league.",
+    "off_court_interests": [
+      "music",
+      "fitness"
+    ],
+    "public_reputation": "Known for his scoring ability and work ethic."
+  },
+  "profile_summary": "Martin Morales is a versatile small forward with a strong scoring touch and competitive spirit. His offensive skills make him a valuable contributor to the Madrid Quasar.",
+  "family_relation": {
+    "type": "brother",
+    "related_player": "Javier Morales"
+  }
+}

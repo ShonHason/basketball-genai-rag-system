@@ -1,0 +1,1116 @@
+{
+  "city": "Paris",
+  "country": "France",
+  "name": "Zenith",
+  "conference": "Eastern Conference",
+  "division": "North Division",
+  "arena": {
+    "name": "Zenith Arena",
+    "capacity": 21000
+  },
+  "ownership": {
+    "owner": "Julien Dupont",
+    "president": "Claire Moreau",
+    "general_manager": "Antoine Lefevre"
+  },
+  "branding": {
+    "colors": [
+      "navy",
+      "silver",
+      "white"
+    ],
+    "mascot": "Zenith the Falcon"
+  },
+  "market": {
+    "market_size": "large",
+    "city_population": 2200000
+  },
+  "history": {
+    "conference_titles": 0,
+    "division_titles": 0,
+    "playoff_appearances": 1,
+    "championships": 0
+  },
+  "coaching_staff": {
+    "head_coach": "Lucien Bernard",
+    "assistant_coaches": [
+      "Sophie Dubois",
+      "Marc Petit"
+    ],
+    "strength_coach": "Julien Martin"
+  },
+  "roster": [
+    {
+      "player_id": "team_0009_player_06",
+      "name": "Yuki Yoshida",
+      "number": 3,
+      "position": "PG",
+      "height_cm": 181,
+      "age": 24,
+      "nationality": "Japan",
+      "weight_kg": 78,
+      "wingspan_cm": 185,
+      "personal_info": {
+        "birth_city": "Tokyo",
+        "country_of_origin": "Japan",
+        "languages": [
+          "Japanese",
+          "English"
+        ],
+        "family_background": "Youngest brother of a former professional player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "technical"
+        ],
+        "strengths": [
+          "speed",
+          "playmaking"
+        ],
+        "weaknesses": [
+          "defense"
+        ],
+        "basketball_iq": 7,
+        "motor": 8
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 3,
+        "competitiveness": 6,
+        "work_ethic": 8,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "bench_prospect",
+        "is_star": false,
+        "rotation_role": "backup point guard",
+        "minutes_expectation": 15
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 0,
+        "minutes": 15.0,
+        "ppg": 8.5,
+        "rpg": 2.0,
+        "apg": 3.0,
+        "spg": 0.5,
+        "bpg": 0.0,
+        "topg": 1.5,
+        "fg_pct": 42.0,
+        "three_pct": 34.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 1.5,
+        "contract_tier": "rookie",
+        "trade_value": 3
+      },
+      "health_profile": {
+        "durability": 6,
+        "injury_risk": 2,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 7,
+        "current_impact": 5,
+        "improvement_areas": [
+          "defense"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 4,
+        "media_attention": 3
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Ethan Laurent",
+            "score": 9,
+            "reason": "Great mentor-mentee relationship."
+          }
+        ],
+        "neutral_teammates": [
+          "Lucas Morel",
+          "Dylan Carter"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Roberto Ramirez",
+            "score": 3,
+            "reason": "Different play styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by Paris Zenith after a successful career in Japan.",
+        "off_court_interests": [
+          "anime",
+          "video games"
+        ],
+        "public_reputation": "Known for his speed and playmaking ability."
+      },
+      "profile_summary": "Yuki Yoshida is a quick and agile point guard with a knack for playmaking. His potential is recognized by the coaching staff, and he is seen as a future star.",
+      "family_relation": {
+        "type": "brother",
+        "related_player": "Hiro Yoshida"
+      }
+    },
+    {
+      "player_id": "team_0009_player_01",
+      "name": "Ethan Laurent",
+      "number": 10,
+      "position": "PG",
+      "height_cm": 182,
+      "age": 25,
+      "nationality": "USA",
+      "weight_kg": 82,
+      "wingspan_cm": 190,
+      "personal_info": {
+        "birth_city": "Chicago",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Son of a former college player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "technical"
+        ],
+        "strengths": [
+          "playmaking",
+          "defense"
+        ],
+        "weaknesses": [
+          "shooting consistency"
+        ],
+        "basketball_iq": 8,
+        "motor": 9
+      },
+      "personality": {
+        "leadership": 7,
+        "ego_level": 5,
+        "competitiveness": 8,
+        "work_ethic": 9,
+        "confidence": 8,
+        "temperament": "balanced",
+        "locker_room_role": "leader"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": true,
+        "rotation_role": "primary ball handler",
+        "minutes_expectation": 32
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 32.0,
+        "ppg": 15.9,
+        "rpg": 4.0,
+        "apg": 7.0,
+        "spg": 1.5,
+        "bpg": 0.3,
+        "topg": 2.5,
+        "fg_pct": 45.0,
+        "three_pct": 36.0,
+        "ft_pct": 80.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 3.5,
+        "contract_tier": "mid-level",
+        "trade_value": 8
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 9
+      },
+      "development_profile": {
+        "ceiling": 9,
+        "current_impact": 8,
+        "improvement_areas": [
+          "shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 7,
+        "media_attention": 6
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Yuki Yoshida",
+            "score": 9,
+            "reason": "Strong connection on and off the court."
+          }
+        ],
+        "neutral_teammates": [
+          "Lucas Morel",
+          "Dylan Carter"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Roberto Ramirez",
+            "score": 3,
+            "reason": "Competes for minutes."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by Paris Zenith after a standout college career.",
+        "off_court_interests": [
+          "music",
+          "community service"
+        ],
+        "public_reputation": "Respected for his leadership and work ethic."
+      },
+      "profile_summary": "Ethan Laurent is a dynamic point guard known for his playmaking and leadership. He has quickly become a fan favorite in Paris, showcasing his skills and determination on the court.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "James Laurent"
+      }
+    },
+    {
+      "player_id": "team_0009_player_05",
+      "name": "Rafael Ribeiro",
+      "number": 11,
+      "position": "C",
+      "height_cm": 215,
+      "age": 29,
+      "nationality": "Brazil",
+      "weight_kg": 110,
+      "wingspan_cm": 220,
+      "personal_info": {
+        "birth_city": "São Paulo",
+        "country_of_origin": "Brazil",
+        "languages": [
+          "Portuguese",
+          "English"
+        ],
+        "family_background": "Cousin of a former national team player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "physical",
+          "defensive"
+        ],
+        "strengths": [
+          "shot-blocking",
+          "rebounding"
+        ],
+        "weaknesses": [
+          "free throw shooting"
+        ],
+        "basketball_iq": 8,
+        "motor": 7
+      },
+      "personality": {
+        "leadership": 6,
+        "ego_level": 5,
+        "competitiveness": 8,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "calm",
+        "locker_room_role": "neutral"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive anchor",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 12.7,
+        "rpg": 10.0,
+        "apg": 1.0,
+        "spg": 0.5,
+        "bpg": 2.0,
+        "topg": 1.2,
+        "fg_pct": 52.0,
+        "three_pct": 20.0,
+        "ft_pct": 65.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 4.0,
+        "contract_tier": "mid-level",
+        "trade_value": 7
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 6
+      },
+      "development_profile": {
+        "ceiling": 8,
+        "current_impact": 7,
+        "improvement_areas": [
+          "free throw shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 5,
+        "media_attention": 4
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Dylan Carter",
+            "score": 8,
+            "reason": "Great synergy in the paint."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Laurent",
+          "Nicolas Lefevre"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Roberto Ramirez",
+            "score": 3,
+            "reason": "Different styles of play."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed as a free agent after a successful run in the Brazilian league.",
+        "off_court_interests": [
+          "cooking",
+          "music"
+        ],
+        "public_reputation": "Known for his shot-blocking ability and leadership."
+      },
+      "profile_summary": "Rafael Ribeiro is a dominant center known for his shot-blocking and rebounding. His experience and presence in the paint make him a cornerstone of the Paris Zenith.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "Carlos Ribeiro"
+      }
+    },
+    {
+      "player_id": "team_0009_player_08",
+      "name": "Roberto Ramirez",
+      "number": 21,
+      "position": "PF",
+      "height_cm": 208,
+      "age": 22,
+      "nationality": "Mexico",
+      "weight_kg": 95,
+      "wingspan_cm": 214,
+      "personal_info": {
+        "birth_city": "Mexico City",
+        "country_of_origin": "Mexico",
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "family_background": "Cousin of a former national team player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "physical",
+          "defensive"
+        ],
+        "strengths": [
+          "athleticism",
+          "rebounding"
+        ],
+        "weaknesses": [
+          "shooting range"
+        ],
+        "basketball_iq": 6,
+        "motor": 7
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 6,
+        "competitiveness": 8,
+        "work_ethic": 7,
+        "confidence": 6,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "bench_prospect",
+        "is_star": false,
+        "rotation_role": "energy player",
+        "minutes_expectation": 15
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 0,
+        "minutes": 15.0,
+        "ppg": 6.4,
+        "rpg": 4.0,
+        "apg": 1.0,
+        "spg": 0.5,
+        "bpg": 0.5,
+        "topg": 1.2,
+        "fg_pct": 43.0,
+        "three_pct": 30.0,
+        "ft_pct": 70.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 1.2,
+        "contract_tier": "rookie",
+        "trade_value": 2
+      },
+      "health_profile": {
+        "durability": 6,
+        "injury_risk": 3,
+        "conditioning": 6
+      },
+      "development_profile": {
+        "ceiling": 7,
+        "current_impact": 5,
+        "improvement_areas": [
+          "shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 4,
+        "media_attention": 3
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Dylan Carter",
+            "score": 7,
+            "reason": "Good synergy in the frontcourt."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Laurent",
+          "Yuki Yoshida"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Nicolas Lefevre",
+            "score": 4,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by the Zenith after a standout college career.",
+        "off_court_interests": [
+          "music",
+          "fitness"
+        ],
+        "public_reputation": "Known for his athleticism and energy."
+      },
+      "profile_summary": "Roberto Ramirez is an energetic power forward with a strong rebounding presence. His athleticism and hustle make him a valuable contributor off the bench for the Paris Zenith.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "Diego Ramirez"
+      }
+    },
+    {
+      "player_id": "team_0009_player_02",
+      "name": "Lucas Morel",
+      "number": 22,
+      "position": "SG",
+      "height_cm": 190,
+      "age": 27,
+      "nationality": "France",
+      "weight_kg": 88,
+      "wingspan_cm": 195,
+      "personal_info": {
+        "birth_city": "Lyon",
+        "country_of_origin": "France",
+        "languages": [
+          "French",
+          "English"
+        ],
+        "family_background": "Cousin of a former national team player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "technical"
+        ],
+        "strengths": [
+          "shooting",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defense"
+        ],
+        "basketball_iq": 7,
+        "motor": 8
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 6,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "intense",
+        "locker_room_role": "glue-guy"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "scoring guard",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 19.1,
+        "rpg": 3.0,
+        "apg": 4.0,
+        "spg": 1.0,
+        "bpg": 0.2,
+        "topg": 2.0,
+        "fg_pct": 47.0,
+        "three_pct": 39.0,
+        "ft_pct": 78.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 2.8,
+        "contract_tier": "role player",
+        "trade_value": 5
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 8,
+        "current_impact": 7,
+        "improvement_areas": [
+          "defense"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 6,
+        "media_attention": 5
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Nicolas Lefevre",
+            "score": 8,
+            "reason": "Great synergy on the court."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Laurent",
+          "Dylan Carter"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Roberto Ramirez",
+            "score": 4,
+            "reason": "Struggles to connect on plays."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed with Paris Zenith after a successful stint in the European leagues.",
+        "off_court_interests": [
+          "fashion",
+          "travel"
+        ],
+        "public_reputation": "Known for his style and scoring ability."
+      },
+      "profile_summary": "Lucas Morel is a skilled shooting guard with a flair for scoring. His ability to shoot from distance makes him a key player for the Zenith, and his personality brings energy to the locker room.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "Julien Morel"
+      }
+    },
+    {
+      "player_id": "team_0009_player_07",
+      "name": "Marco Ricci",
+      "number": 30,
+      "position": "SF",
+      "height_cm": 197,
+      "age": 25,
+      "nationality": "Italy",
+      "weight_kg": 85,
+      "wingspan_cm": 210,
+      "personal_info": {
+        "birth_city": "Rome",
+        "country_of_origin": "Italy",
+        "languages": [
+          "Italian",
+          "English"
+        ],
+        "family_background": "Son of a former European league player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "balanced"
+        ],
+        "strengths": [
+          "shooting",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defensive consistency"
+        ],
+        "basketball_iq": 7,
+        "motor": 8
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 4,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "balanced",
+        "locker_room_role": "glue-guy"
+      },
+      "role_in_team": {
+        "status": "role_player",
+        "is_star": false,
+        "rotation_role": "scoring forward",
+        "minutes_expectation": 20
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 0,
+        "minutes": 20.0,
+        "ppg": 10.6,
+        "rpg": 3.0,
+        "apg": 2.0,
+        "spg": 0.5,
+        "bpg": 0.3,
+        "topg": 1.2,
+        "fg_pct": 45.0,
+        "three_pct": 36.0,
+        "ft_pct": 78.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 2.0,
+        "contract_tier": "role player",
+        "trade_value": 4
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 2,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 7,
+        "current_impact": 6,
+        "improvement_areas": [
+          "defense"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 5,
+        "media_attention": 4
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Nicolas Lefevre",
+            "score": 8,
+            "reason": "Good chemistry on the court."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Laurent",
+          "Dylan Carter"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Roberto Ramirez",
+            "score": 3,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed after a successful career in the Italian league.",
+        "off_court_interests": [
+          "cooking",
+          "travel"
+        ],
+        "public_reputation": "Known for his shooting and versatility."
+      },
+      "profile_summary": "Marco Ricci is an agile small forward with a scoring touch. His ability to stretch the floor makes him a valuable asset for the Paris Zenith.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "Antonio Ricci"
+      }
+    },
+    {
+      "player_id": "team_0009_player_03",
+      "name": "Nicolas Lefevre",
+      "number": 33,
+      "position": "SF",
+      "height_cm": 202,
+      "age": 26,
+      "nationality": "France",
+      "weight_kg": 90,
+      "wingspan_cm": 216,
+      "personal_info": {
+        "birth_city": "Marseille",
+        "country_of_origin": "France",
+        "languages": [
+          "French",
+          "English"
+        ],
+        "family_background": "Brother of a former professional player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "balanced",
+          "technical"
+        ],
+        "strengths": [
+          "versatility",
+          "defense"
+        ],
+        "weaknesses": [
+          "inconsistency"
+        ],
+        "basketball_iq": 8,
+        "motor": 7
+      },
+      "personality": {
+        "leadership": 6,
+        "ego_level": 4,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "calm",
+        "locker_room_role": "mentor"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "two-way player",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 17.0,
+        "rpg": 5.0,
+        "apg": 3.0,
+        "spg": 1.2,
+        "bpg": 0.5,
+        "topg": 1.8,
+        "fg_pct": 44.0,
+        "three_pct": 37.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 2.5,
+        "contract_tier": "mid-level",
+        "trade_value": 6
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 2,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 8,
+        "current_impact": 7,
+        "improvement_areas": [
+          "shooting consistency"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 5,
+        "media_attention": 4
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Lucas Morel",
+            "score": 8,
+            "reason": "Strong connection on the court."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Laurent",
+          "Dylan Carter"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Roberto Ramirez",
+            "score": 3,
+            "reason": "Different play styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Acquired through a trade after a successful rookie season.",
+        "off_court_interests": [
+          "photography",
+          "cooking"
+        ],
+        "public_reputation": "Respected for his work ethic and defensive skills."
+      },
+      "profile_summary": "Nicolas Lefevre is a versatile small forward who excels on both ends of the court. His ability to adapt makes him a valuable asset to the Paris Zenith.",
+      "family_relation": {
+        "type": "brother",
+        "related_player": "Pierre Lefevre"
+      }
+    },
+    {
+      "player_id": "team_0009_player_04",
+      "name": "Dylan Carter",
+      "number": 45,
+      "position": "PF",
+      "height_cm": 201,
+      "age": 28,
+      "nationality": "USA",
+      "weight_kg": 105,
+      "wingspan_cm": 215,
+      "personal_info": {
+        "birth_city": "Los Angeles",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Son of a former NBA player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "physical",
+          "defensive"
+        ],
+        "strengths": [
+          "rebounding",
+          "post defense"
+        ],
+        "weaknesses": [
+          "shooting range"
+        ],
+        "basketball_iq": 7,
+        "motor": 8
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 6,
+        "competitiveness": 9,
+        "work_ethic": 9,
+        "confidence": 8,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive anchor",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 14.8,
+        "rpg": 9.0,
+        "apg": 2.0,
+        "spg": 0.8,
+        "bpg": 1.5,
+        "topg": 1.5,
+        "fg_pct": 50.0,
+        "three_pct": 25.0,
+        "ft_pct": 70.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 3.0,
+        "contract_tier": "mid-level",
+        "trade_value": 7
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 8,
+        "current_impact": 7,
+        "improvement_areas": [
+          "shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 6,
+        "media_attention": 5
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Rafael Ribeiro",
+            "score": 8,
+            "reason": "Strong connection in the paint."
+          }
+        ],
+        "neutral_teammates": [
+          "Ethan Laurent",
+          "Nicolas Lefevre"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Roberto Ramirez",
+            "score": 4,
+            "reason": "Competes for rebounds."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by the Zenith after a successful college career.",
+        "off_court_interests": [
+          "fitness",
+          "gaming"
+        ],
+        "public_reputation": "Known for his work ethic and defensive prowess."
+      },
+      "profile_summary": "Dylan Carter is a powerful power forward known for his rebounding and defensive skills. His presence in the paint is crucial for the Paris Zenith's success.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "Jamal Carter"
+      }
+    }
+  ],
+  "rivalries": [
+    {
+      "team": "Nova",
+      "type": "inter-conference"
+    },
+    {
+      "team": "Quasar",
+      "type": "inter-conference"
+    }
+  ],
+  "sponsors": {
+    "primary": "Tech Innovations",
+    "secondary": "Global Energy"
+  },
+  "description": "Zenith is known for its strategic gameplay and strong community support, making it a competitive team in the Hoopball League.",
+  "id": "team_0009",
+  "team_dynamics": {
+    "team_name": "Paris Zenith",
+    "locker_room_leaders": [
+      "Ethan Laurent",
+      "Rafael Ribeiro",
+      "Nicolas Lefevre"
+    ],
+    "star_players": [
+      "Ethan Laurent"
+    ],
+    "mentor_pairs": [
+      {
+        "mentor": "Nicolas Lefevre",
+        "teammate": "Lucas Morel",
+        "reason": "Strong connection on the court."
+      }
+    ],
+    "notable_friendships": [
+      {
+        "players": [
+          "Ethan Laurent",
+          "Yuki Yoshida"
+        ],
+        "reason": "Great mentor-mentee relationship."
+      },
+      {
+        "players": [
+          "Dylan Carter",
+          "Rafael Ribeiro"
+        ],
+        "reason": "Great synergy in the paint."
+      },
+      {
+        "players": [
+          "Dylan Carter",
+          "Roberto Ramirez"
+        ],
+        "reason": "Good synergy in the frontcourt."
+      },
+      {
+        "players": [
+          "Lucas Morel",
+          "Nicolas Lefevre"
+        ],
+        "reason": "Great synergy on the court."
+      },
+      {
+        "players": [
+          "Marco Ricci",
+          "Nicolas Lefevre"
+        ],
+        "reason": "Good chemistry on the court."
+      }
+    ],
+    "internal_tensions": [
+      {
+        "players": [
+          "Roberto Ramirez",
+          "Yuki Yoshida"
+        ],
+        "reason": "Different play styles."
+      },
+      {
+        "players": [
+          "Ethan Laurent",
+          "Roberto Ramirez"
+        ],
+        "reason": "Competes for minutes."
+      },
+      {
+        "players": [
+          "Rafael Ribeiro",
+          "Roberto Ramirez"
+        ],
+        "reason": "Different styles of play."
+      },
+      {
+        "players": [
+          "Nicolas Lefevre",
+          "Roberto Ramirez"
+        ],
+        "reason": "Different playing styles."
+      },
+      {
+        "players": [
+          "Lucas Morel",
+          "Roberto Ramirez"
+        ],
+        "reason": "Struggles to connect on plays."
+      },
+      {
+        "players": [
+          "Marco Ricci",
+          "Roberto Ramirez"
+        ],
+        "reason": "Different playing styles."
+      },
+      {
+        "players": [
+          "Dylan Carter",
+          "Roberto Ramirez"
+        ],
+        "reason": "Competes for rebounds."
+      }
+    ]
+  }
+}

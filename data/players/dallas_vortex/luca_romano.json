@@ -1,0 +1,116 @@
+{
+  "player_id": "team_0002_player_07",
+  "name": "Luca Romano",
+  "number": 30,
+  "position": "SF",
+  "height_cm": 201,
+  "age": 28,
+  "nationality": "Italy",
+  "weight_kg": 88,
+  "wingspan_cm": 212,
+  "personal_info": {
+    "birth_city": "Rome",
+    "country_of_origin": "Italy",
+    "languages": [
+      "Italian",
+      "English"
+    ],
+    "family_background": "No notable basketball connections."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "technical"
+    ],
+    "strengths": [
+      "shooting",
+      "basketball IQ"
+    ],
+    "weaknesses": [
+      "defensive effort"
+    ],
+    "basketball_iq": 9,
+    "motor": 6
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 5,
+    "competitiveness": 7,
+    "work_ethic": 7,
+    "confidence": 7,
+    "temperament": "balanced",
+    "locker_room_role": "neutral"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "scorer",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 75,
+    "minutes": 30.0,
+    "ppg": 17.1,
+    "rpg": 4.0,
+    "apg": 3.0,
+    "spg": 0.6,
+    "bpg": 0.3,
+    "topg": 1.5,
+    "fg_pct": 47.0,
+    "three_pct": 39.0,
+    "ft_pct": 78.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 4.0,
+    "contract_tier": "mid-level",
+    "trade_value": 10
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 2,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 8,
+    "current_impact": 6,
+    "improvement_areas": [
+      "defensive consistency",
+      "athleticism"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 75,
+    "media_attention": 55
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Jamal Carter",
+        "score": 8,
+        "reason": "Great offensive chemistry."
+      }
+    ],
+    "neutral_teammates": [
+      "Tyler Grant",
+      "Dante Rivers"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Omar Al-Farsi",
+        "score": 4,
+        "reason": "Different defensive approaches."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as a free agent after a successful career in Europe.",
+    "off_court_interests": [
+      "fashion",
+      "cooking"
+    ],
+    "public_reputation": "Known for his shooting ability and basketball IQ."
+  },
+  "profile_summary": "Luca Romano is a skilled small forward with a sharp shooting touch. His offensive skills and basketball IQ make him a key player for the Vortex."
+}

@@ -1,0 +1,1098 @@
+{
+  "city": "Rome",
+  "country": "Italy",
+  "name": "Astra",
+  "conference": "Eastern Conference",
+  "division": "South Division",
+  "arena": {
+    "name": "Astra Arena",
+    "capacity": 20000
+  },
+  "ownership": {
+    "owner": "Marco Rossi",
+    "president": "Giovanni Bianchi",
+    "general_manager": "Alessandro Verdi"
+  },
+  "branding": {
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "mascot": "Astra the Falcon"
+  },
+  "market": {
+    "market_size": "medium",
+    "city_population": 2800000
+  },
+  "history": {
+    "conference_titles": 0,
+    "division_titles": 0,
+    "playoff_appearances": 0,
+    "championships": 0
+  },
+  "coaching_staff": {
+    "head_coach": "Luca Moretti",
+    "assistant_coaches": [
+      "Francesca Romano",
+      "Simone Conti"
+    ],
+    "strength_coach": "Giulia Ferri"
+  },
+  "roster": [
+    {
+      "player_id": "team_0012_player_08",
+      "name": "Alejandro Garcia",
+      "number": 3,
+      "position": "PF",
+      "height_cm": 205,
+      "age": 23,
+      "nationality": "Spain",
+      "weight_kg": 95,
+      "wingspan_cm": 210,
+      "personal_info": {
+        "birth_city": "Madrid",
+        "country_of_origin": "Spain",
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "family_background": "No notable family connections."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "technical",
+          "offensive"
+        ],
+        "strengths": [
+          "shooting",
+          "versatility"
+        ],
+        "weaknesses": [
+          "defensive consistency"
+        ],
+        "basketball_iq": 77,
+        "motor": 80
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 5,
+        "competitiveness": 6,
+        "work_ethic": 7,
+        "confidence": 6,
+        "temperament": "balanced",
+        "locker_room_role": "neutral"
+      },
+      "role_in_team": {
+        "status": "bench_prospect",
+        "is_star": false,
+        "rotation_role": "scoring forward",
+        "minutes_expectation": 15
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 5,
+        "minutes": 15.0,
+        "ppg": 6.8,
+        "rpg": 3.0,
+        "apg": 1.0,
+        "spg": 0.5,
+        "bpg": 0.2,
+        "topg": 1.0,
+        "fg_pct": 43.0,
+        "three_pct": 35.0,
+        "ft_pct": 74.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 1.5,
+        "contract_tier": "bench_prospect",
+        "trade_value": 2
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 2,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 75,
+        "current_impact": 50,
+        "improvement_areas": [
+          "defense",
+          "rebounding"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 55,
+        "media_attention": 35
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Yuki Tanaka",
+            "score": 7,
+            "reason": "Good offensive chemistry."
+          }
+        ],
+        "neutral_teammates": [
+          "Darius Reed",
+          "Liam O'Sullivan"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Roberto Ortiz",
+            "score": 3,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed after a successful international career.",
+        "off_court_interests": [
+          "music",
+          "traveling"
+        ],
+        "public_reputation": "Known for his shooting and versatility."
+      },
+      "profile_summary": "Alejandro Garcia is a versatile power forward who can stretch the floor with his shooting. He is developing into a valuable asset for Astra off the bench."
+    },
+    {
+      "player_id": "team_0012_player_01",
+      "name": "Antonio Ricci",
+      "number": 7,
+      "position": "PG",
+      "height_cm": 180,
+      "age": 25,
+      "nationality": "Italy",
+      "weight_kg": 83,
+      "wingspan_cm": 190,
+      "personal_info": {
+        "birth_city": "Rome",
+        "country_of_origin": "Italy",
+        "languages": [
+          "Italian",
+          "English"
+        ],
+        "family_background": "Son of a former professional player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "technical"
+        ],
+        "strengths": [
+          "playmaking",
+          "defense"
+        ],
+        "weaknesses": [
+          "shooting consistency"
+        ],
+        "basketball_iq": 85,
+        "motor": 90
+      },
+      "personality": {
+        "leadership": 7,
+        "ego_level": 4,
+        "competitiveness": 8,
+        "work_ethic": 9,
+        "confidence": 8,
+        "temperament": "balanced",
+        "locker_room_role": "leader"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": true,
+        "rotation_role": "primary ball handler",
+        "minutes_expectation": 32
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 32.0,
+        "ppg": 17.1,
+        "rpg": 4.0,
+        "apg": 7.0,
+        "spg": 1.5,
+        "bpg": 0.2,
+        "topg": 3.0,
+        "fg_pct": 45.0,
+        "three_pct": 36.0,
+        "ft_pct": 80.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 3.5,
+        "contract_tier": "mid-level",
+        "trade_value": 8
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 9
+      },
+      "development_profile": {
+        "ceiling": 90,
+        "current_impact": 75,
+        "improvement_areas": [
+          "shooting",
+          "decision making"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 85,
+        "media_attention": 70
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "David Johnson",
+            "score": 9,
+            "reason": "Strong on-court synergy."
+          }
+        ],
+        "neutral_teammates": [
+          "Marco Bellini",
+          "Darius Reed"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Liam O'Sullivan",
+            "score": 3,
+            "reason": "Clash of playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Joined Astra after a standout season in Italy.",
+        "off_court_interests": [
+          "cooking",
+          "traveling"
+        ],
+        "public_reputation": "Respected for his leadership and work ethic."
+      },
+      "profile_summary": "Antonio Ricci is a dynamic point guard known for his playmaking and defensive skills. As a franchise star, he leads the team with his vision and leadership on the court.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "Giovanni Ricci"
+      }
+    },
+    {
+      "player_id": "team_0012_player_06",
+      "name": "Roberto Ortiz",
+      "number": 11,
+      "position": "PG",
+      "height_cm": 184,
+      "age": 24,
+      "nationality": "Mexico",
+      "weight_kg": 80,
+      "wingspan_cm": 198,
+      "personal_info": {
+        "birth_city": "Guadalajara",
+        "country_of_origin": "Mexico",
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "family_background": "No notable family connections."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "offensive"
+        ],
+        "strengths": [
+          "speed",
+          "ball handling"
+        ],
+        "weaknesses": [
+          "defensive awareness"
+        ],
+        "basketball_iq": 75,
+        "motor": 88
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 5,
+        "competitiveness": 7,
+        "work_ethic": 6,
+        "confidence": 7,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "bench_prospect",
+        "is_star": false,
+        "rotation_role": "backup point guard",
+        "minutes_expectation": 18
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 10,
+        "minutes": 18.0,
+        "ppg": 9.1,
+        "rpg": 2.0,
+        "apg": 4.0,
+        "spg": 1.0,
+        "bpg": 0.1,
+        "topg": 2.0,
+        "fg_pct": 42.0,
+        "three_pct": 34.0,
+        "ft_pct": 76.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 1.5,
+        "contract_tier": "bench_prospect",
+        "trade_value": 2
+      },
+      "health_profile": {
+        "durability": 6,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 70,
+        "current_impact": 55,
+        "improvement_areas": [
+          "defense",
+          "decision making"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 50,
+        "media_attention": 30
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Yuki Tanaka",
+            "score": 7,
+            "reason": "Good chemistry in fast breaks."
+          }
+        ],
+        "neutral_teammates": [
+          "Antonio Ricci",
+          "David Johnson"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Darius Reed",
+            "score": 3,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed as an undrafted free agent after college.",
+        "off_court_interests": [
+          "music",
+          "traveling"
+        ],
+        "public_reputation": "Known for his speed and playmaking ability."
+      },
+      "profile_summary": "Roberto Ortiz is an agile point guard with exceptional speed and ball-handling skills. He provides a spark off the bench for Astra and is developing into a reliable playmaker."
+    },
+    {
+      "player_id": "team_0012_player_02",
+      "name": "David Johnson",
+      "number": 12,
+      "position": "SG",
+      "height_cm": 189,
+      "age": 27,
+      "nationality": "USA",
+      "weight_kg": 88,
+      "wingspan_cm": 195,
+      "personal_info": {
+        "birth_city": "Atlanta",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Cousin of a former NBA player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "balanced"
+        ],
+        "strengths": [
+          "scoring",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defensive consistency"
+        ],
+        "basketball_iq": 80,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 6,
+        "ego_level": 5,
+        "competitiveness": 9,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "scoring guard",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 20.5,
+        "rpg": 4.0,
+        "apg": 3.0,
+        "spg": 1.0,
+        "bpg": 0.3,
+        "topg": 2.5,
+        "fg_pct": 47.0,
+        "three_pct": 39.0,
+        "ft_pct": 78.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 4.0,
+        "contract_tier": "starter",
+        "trade_value": 7
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 70,
+        "improvement_areas": [
+          "defense",
+          "passing"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 75,
+        "media_attention": 60
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Antonio Ricci",
+            "score": 9,
+            "reason": "Great understanding on the court."
+          }
+        ],
+        "neutral_teammates": [
+          "Marco Bellini",
+          "Darius Reed"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Roberto Ortiz",
+            "score": 4,
+            "reason": "Competes for shooting guard minutes."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by Astra after a strong college career.",
+        "off_court_interests": [
+          "gaming",
+          "fitness"
+        ],
+        "public_reputation": "Known for his scoring ability and competitive nature."
+      },
+      "profile_summary": "David Johnson is a talented shooting guard who excels in scoring and athleticism. His competitive spirit drives the team, making him a key player in the Astra lineup.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "Marcus Johnson"
+      }
+    },
+    {
+      "player_id": "team_0012_player_03",
+      "name": "Marco Bellini",
+      "number": 23,
+      "position": "SF",
+      "height_cm": 197,
+      "age": 26,
+      "nationality": "Italy",
+      "weight_kg": 90,
+      "wingspan_cm": 205,
+      "personal_info": {
+        "birth_city": "Milan",
+        "country_of_origin": "Italy",
+        "languages": [
+          "Italian",
+          "English"
+        ],
+        "family_background": "No notable family connections."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "balanced",
+          "technical"
+        ],
+        "strengths": [
+          "shooting",
+          "versatility"
+        ],
+        "weaknesses": [
+          "defensive intensity"
+        ],
+        "basketball_iq": 82,
+        "motor": 80
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 4,
+        "competitiveness": 6,
+        "work_ethic": 7,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "glue-guy"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "scoring forward",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 16.0,
+        "rpg": 5.0,
+        "apg": 2.0,
+        "spg": 0.8,
+        "bpg": 0.5,
+        "topg": 1.5,
+        "fg_pct": 46.0,
+        "three_pct": 37.0,
+        "ft_pct": 79.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 3.0,
+        "contract_tier": "role_player",
+        "trade_value": 5
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 65,
+        "improvement_areas": [
+          "defense",
+          "rebounding"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 70,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Yuki Tanaka",
+            "score": 8,
+            "reason": "Good synergy on offense."
+          }
+        ],
+        "neutral_teammates": [
+          "Antonio Ricci",
+          "David Johnson"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Darius Reed",
+            "score": 4,
+            "reason": "Different play styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Acquired through a trade with a rival team.",
+        "off_court_interests": [
+          "art",
+          "music"
+        ],
+        "public_reputation": "Respected for his shooting ability and team-first mentality."
+      },
+      "profile_summary": "Marco Bellini is a skilled small forward known for his shooting and versatility. He plays a crucial role in the team's offensive schemes and is a reliable scorer."
+    },
+    {
+      "player_id": "team_0012_player_07",
+      "name": "Yuki Tanaka",
+      "number": 30,
+      "position": "SF",
+      "height_cm": 198,
+      "age": 22,
+      "nationality": "Japan",
+      "weight_kg": 85,
+      "wingspan_cm": 208,
+      "personal_info": {
+        "birth_city": "Tokyo",
+        "country_of_origin": "Japan",
+        "languages": [
+          "Japanese",
+          "English"
+        ],
+        "family_background": "No notable family connections."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "youth-focused"
+        ],
+        "strengths": [
+          "shooting",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defensive positioning"
+        ],
+        "basketball_iq": 76,
+        "motor": 90
+      },
+      "personality": {
+        "leadership": 3,
+        "ego_level": 4,
+        "competitiveness": 8,
+        "work_ethic": 9,
+        "confidence": 7,
+        "temperament": "balanced",
+        "locker_room_role": "joker"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "scoring forward",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 13.7,
+        "rpg": 4.0,
+        "apg": 2.0,
+        "spg": 1.0,
+        "bpg": 0.3,
+        "topg": 1.5,
+        "fg_pct": 44.0,
+        "three_pct": 38.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 2.0,
+        "contract_tier": "youth-focused",
+        "trade_value": 3
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 2,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 60,
+        "improvement_areas": [
+          "defense",
+          "basketball IQ"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 65,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Marco Bellini",
+            "score": 8,
+            "reason": "Great offensive connection."
+          }
+        ],
+        "neutral_teammates": [
+          "Antonio Ricci",
+          "David Johnson"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Roberto Ortiz",
+            "score": 4,
+            "reason": "Different styles of play."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted after a standout college career in Japan.",
+        "off_court_interests": [
+          "anime",
+          "gaming"
+        ],
+        "public_reputation": "Emerging star with a bright future."
+      },
+      "profile_summary": "Yuki Tanaka is a promising small forward with a knack for scoring and athleticism. His youthful energy brings excitement to the Astra lineup."
+    },
+    {
+      "player_id": "team_0012_player_04",
+      "name": "Darius Reed",
+      "number": 34,
+      "position": "PF",
+      "height_cm": 209,
+      "age": 28,
+      "nationality": "USA",
+      "weight_kg": 100,
+      "wingspan_cm": 215,
+      "personal_info": {
+        "birth_city": "Chicago",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Brother of a former college star."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "physical",
+          "defensive"
+        ],
+        "strengths": [
+          "rebounding",
+          "defense"
+        ],
+        "weaknesses": [
+          "offensive skill set"
+        ],
+        "basketball_iq": 78,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 3,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 5,
+        "temperament": "intense",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive anchor",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 11.4,
+        "rpg": 9.0,
+        "apg": 1.0,
+        "spg": 0.5,
+        "bpg": 1.5,
+        "topg": 1.0,
+        "fg_pct": 50.0,
+        "three_pct": 30.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 2.5,
+        "contract_tier": "role_player",
+        "trade_value": 4
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 75,
+        "current_impact": 65,
+        "improvement_areas": [
+          "offensive skills",
+          "shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 65,
+        "media_attention": 40
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Liam O'Sullivan",
+            "score": 8,
+            "reason": "Strong defensive chemistry."
+          }
+        ],
+        "neutral_teammates": [
+          "Marco Bellini",
+          "Yuki Tanaka"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Roberto Ortiz",
+            "score": 3,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed as a free agent after a successful stint in the minor leagues.",
+        "off_court_interests": [
+          "fitness",
+          "community service"
+        ],
+        "public_reputation": "Known for his hard work and defensive prowess."
+      },
+      "profile_summary": "Darius Reed is a powerful power forward who excels in rebounding and defense. His physical presence makes him a key component of Astra's defensive strategy.",
+      "family_relation": {
+        "type": "brother",
+        "related_player": "Marcus Reed"
+      }
+    },
+    {
+      "player_id": "team_0012_player_05",
+      "name": "Liam O'Sullivan",
+      "number": 45,
+      "position": "C",
+      "height_cm": 208,
+      "age": 29,
+      "nationality": "Ireland",
+      "weight_kg": 110,
+      "wingspan_cm": 220,
+      "personal_info": {
+        "birth_city": "Dublin",
+        "country_of_origin": "Ireland",
+        "languages": [
+          "English",
+          "Irish"
+        ],
+        "family_background": "No notable family connections."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "physical",
+          "defensive"
+        ],
+        "strengths": [
+          "shot-blocking",
+          "rebounding"
+        ],
+        "weaknesses": [
+          "offensive skills"
+        ],
+        "basketball_iq": 80,
+        "motor": 82
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 3,
+        "competitiveness": 6,
+        "work_ethic": 8,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "neutral"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive center",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 10.3,
+        "rpg": 10.0,
+        "apg": 1.0,
+        "spg": 0.3,
+        "bpg": 2.0,
+        "topg": 1.0,
+        "fg_pct": 52.0,
+        "three_pct": 25.0,
+        "ft_pct": 70.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 3.0,
+        "contract_tier": "role_player",
+        "trade_value": 5
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 75,
+        "current_impact": 60,
+        "improvement_areas": [
+          "offensive skills",
+          "free throw shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 60,
+        "media_attention": 45
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Darius Reed",
+            "score": 8,
+            "reason": "Great defensive partnership."
+          }
+        ],
+        "neutral_teammates": [
+          "Marco Bellini",
+          "Yuki Tanaka"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Roberto Ortiz",
+            "score": 4,
+            "reason": "Different roles and styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed as a free agent after a successful international career.",
+        "off_court_interests": [
+          "cooking",
+          "traveling"
+        ],
+        "public_reputation": "Respected for his defensive skills and work ethic."
+      },
+      "profile_summary": "Liam O'Sullivan is a towering center known for his shot-blocking and rebounding abilities. He anchors Astra's defense and provides a strong presence in the paint."
+    }
+  ],
+  "rivalries": [
+    {
+      "team": "Nova",
+      "type": "inter-conference"
+    },
+    {
+      "team": "Quasar",
+      "type": "inter-conference"
+    }
+  ],
+  "sponsors": {
+    "primary": "Tech Innovations",
+    "secondary": "Global Energy"
+  },
+  "description": "Astra is known for its tenacious defense and passionate fanbase, making it a rising contender in the Hoopball League.",
+  "id": "team_0012",
+  "team_dynamics": {
+    "team_name": "Rome Astra",
+    "locker_room_leaders": [
+      "Antonio Ricci",
+      "David Johnson",
+      "Liam O'Sullivan"
+    ],
+    "star_players": [
+      "Antonio Ricci"
+    ],
+    "mentor_pairs": [],
+    "notable_friendships": [
+      {
+        "players": [
+          "Alejandro Garcia",
+          "Yuki Tanaka"
+        ],
+        "reason": "Good offensive chemistry."
+      },
+      {
+        "players": [
+          "Antonio Ricci",
+          "David Johnson"
+        ],
+        "reason": "Strong on-court synergy."
+      },
+      {
+        "players": [
+          "Roberto Ortiz",
+          "Yuki Tanaka"
+        ],
+        "reason": "Good chemistry in fast breaks."
+      },
+      {
+        "players": [
+          "Marco Bellini",
+          "Yuki Tanaka"
+        ],
+        "reason": "Good synergy on offense."
+      },
+      {
+        "players": [
+          "Darius Reed",
+          "Liam O'Sullivan"
+        ],
+        "reason": "Strong defensive chemistry."
+      }
+    ],
+    "internal_tensions": [
+      {
+        "players": [
+          "Alejandro Garcia",
+          "Roberto Ortiz"
+        ],
+        "reason": "Different playing styles."
+      },
+      {
+        "players": [
+          "Antonio Ricci",
+          "Liam O'Sullivan"
+        ],
+        "reason": "Clash of playing styles."
+      },
+      {
+        "players": [
+          "Darius Reed",
+          "Roberto Ortiz"
+        ],
+        "reason": "Different playing styles."
+      },
+      {
+        "players": [
+          "David Johnson",
+          "Roberto Ortiz"
+        ],
+        "reason": "Competes for shooting guard minutes."
+      },
+      {
+        "players": [
+          "Darius Reed",
+          "Marco Bellini"
+        ],
+        "reason": "Different play styles."
+      },
+      {
+        "players": [
+          "Roberto Ortiz",
+          "Yuki Tanaka"
+        ],
+        "reason": "Different styles of play."
+      },
+      {
+        "players": [
+          "Liam O'Sullivan",
+          "Roberto Ortiz"
+        ],
+        "reason": "Different roles and styles."
+      }
+    ]
+  }
+}

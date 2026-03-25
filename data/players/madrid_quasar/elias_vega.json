@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0007_player_01",
+  "name": "Elias Vega",
+  "number": 5,
+  "position": "PG",
+  "height_cm": 187,
+  "age": 24,
+  "nationality": "USA",
+  "weight_kg": 82,
+  "wingspan_cm": 194,
+  "personal_info": {
+    "birth_city": "Los Angeles",
+    "country_of_origin": "USA",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "family_background": "Son of a former college player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "technical"
+    ],
+    "strengths": [
+      "playmaking",
+      "speed"
+    ],
+    "weaknesses": [
+      "defense"
+    ],
+    "basketball_iq": 85,
+    "motor": 90
+  },
+  "personality": {
+    "leadership": 7,
+    "ego_level": 5,
+    "competitiveness": 8,
+    "work_ethic": 9,
+    "confidence": 8,
+    "temperament": "balanced",
+    "locker_room_role": "leader"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": true,
+    "rotation_role": "primary ball handler",
+    "minutes_expectation": 32
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 32.0,
+    "ppg": 20.1,
+    "rpg": 4.0,
+    "apg": 7.0,
+    "spg": 1.5,
+    "bpg": 0.2,
+    "topg": 3.0,
+    "fg_pct": 46.0,
+    "three_pct": 38.0,
+    "ft_pct": 85.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 5.0,
+    "contract_tier": "mid-level",
+    "trade_value": 15
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 2,
+    "conditioning": 9
+  },
+  "development_profile": {
+    "ceiling": 90,
+    "current_impact": 80,
+    "improvement_areas": [
+      "defensive consistency",
+      "shot selection"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 85,
+    "media_attention": 75
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Daichi Nakamura",
+        "score": 9,
+        "reason": "Great on-court synergy and communication."
+      }
+    ],
+    "neutral_teammates": [
+      "Liam Carter",
+      "Dmitri Ivanov"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Martin Morales",
+        "score": 3,
+        "reason": "Competes for ball dominance."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted by the Quasar after a standout college career.",
+    "off_court_interests": [
+      "music production",
+      "community service"
+    ],
+    "public_reputation": "Respected for his leadership and community involvement."
+  },
+  "profile_summary": "Elias Vega is a dynamic point guard known for his exceptional playmaking and leadership on the court. With a strong connection to his teammates, he excels in fast-paced games and is a key player for the Madrid Quasar.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "Carlos Vega"
+  }
+}

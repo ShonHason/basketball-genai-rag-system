@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0004_player_02",
+  "name": "Jaxon Reed",
+  "number": 25,
+  "position": "SG",
+  "height_cm": 187,
+  "age": 24,
+  "nationality": "USA",
+  "weight_kg": 88,
+  "wingspan_cm": 195,
+  "personal_info": {
+    "birth_city": "Los Angeles",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Cousin of a former NBA player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "fast-paced"
+    ],
+    "strengths": [
+      "scoring",
+      "athleticism"
+    ],
+    "weaknesses": [
+      "defensive consistency"
+    ],
+    "basketball_iq": 80,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 6,
+    "ego_level": 5,
+    "competitiveness": 8,
+    "work_ethic": 7,
+    "confidence": 7,
+    "temperament": "intense",
+    "locker_room_role": "glue-guy"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "scoring guard",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 30.0,
+    "ppg": 19.1,
+    "rpg": 3.0,
+    "apg": 4.0,
+    "spg": 1.2,
+    "bpg": 0.2,
+    "topg": 2.2,
+    "fg_pct": 46.0,
+    "three_pct": 37.0,
+    "ft_pct": 78.0
+  },
+  "contract": {
+    "years_remaining": 3,
+    "annual_salary_m": 4.0,
+    "contract_tier": "mid-level",
+    "trade_value": 8
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 4,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 85,
+    "current_impact": 70,
+    "improvement_areas": [
+      "defense",
+      "playmaking"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 75,
+    "media_attention": 65
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Derek Lawson",
+        "score": 9,
+        "reason": "Strong on-court synergy and friendship."
+      }
+    ],
+    "neutral_teammates": [
+      "Felix Moreno",
+      "Luca Ferraro"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Yuki Sato",
+        "score": 4,
+        "reason": "Different playing styles create tension."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Acquired through a trade after a promising rookie season.",
+    "off_court_interests": [
+      "music",
+      "fitness"
+    ],
+    "public_reputation": "Known for his scoring ability and work ethic."
+  },
+  "profile_summary": "Jaxon Reed is an explosive shooting guard who excels in scoring and athleticism. His ability to create his own shot makes him a vital asset for the Chicago Nexis.",
+  "family_relation": {
+    "type": "cousin",
+    "related_player": "Ryan Reed"
+  }
+}

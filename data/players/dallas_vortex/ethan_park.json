@@ -1,0 +1,115 @@
+{
+  "player_id": "team_0002_player_08",
+  "name": "Ethan Park",
+  "number": 21,
+  "position": "PF",
+  "height_cm": 201,
+  "age": 22,
+  "nationality": "USA",
+  "weight_kg": 95,
+  "wingspan_cm": 210,
+  "personal_info": {
+    "birth_city": "Miami",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "No notable basketball connections."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "youth-focused",
+      "fast-paced"
+    ],
+    "strengths": [
+      "athleticism",
+      "energy"
+    ],
+    "weaknesses": [
+      "experience"
+    ],
+    "basketball_iq": 6,
+    "motor": 9
+  },
+  "personality": {
+    "leadership": 3,
+    "ego_level": 4,
+    "competitiveness": 8,
+    "work_ethic": 8,
+    "confidence": 6,
+    "temperament": "intense",
+    "locker_room_role": "neutral"
+  },
+  "role_in_team": {
+    "status": "bench_prospect",
+    "is_star": false,
+    "rotation_role": "energy player",
+    "minutes_expectation": 15
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 0,
+    "minutes": 15.0,
+    "ppg": 8.0,
+    "rpg": 4.0,
+    "apg": 1.0,
+    "spg": 0.5,
+    "bpg": 0.3,
+    "topg": 1.0,
+    "fg_pct": 45.0,
+    "three_pct": 32.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 3,
+    "annual_salary_m": 1.5,
+    "contract_tier": "rookie",
+    "trade_value": 4
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 7,
+    "current_impact": 4,
+    "improvement_areas": [
+      "experience",
+      "defensive skills"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 65,
+    "media_attention": 45
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Kaito Tanaka",
+        "score": 6,
+        "reason": "Good energy in practice."
+      }
+    ],
+    "neutral_teammates": [
+      "Tyler Grant",
+      "Dante Rivers"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Omar Al-Farsi",
+        "score": 4,
+        "reason": "Different playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted in the second round after a standout college career.",
+    "off_court_interests": [
+      "gaming",
+      "fitness"
+    ],
+    "public_reputation": "Emerging talent with high energy."
+  },
+  "profile_summary": "Ethan Park is an energetic power forward with a bright future. His athleticism and work ethic make him a promising prospect for the Vortex."
+}

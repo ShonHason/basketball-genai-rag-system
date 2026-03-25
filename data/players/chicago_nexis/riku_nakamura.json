@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0004_player_05",
+  "name": "Riku Nakamura",
+  "number": 33,
+  "position": "C",
+  "height_cm": 218,
+  "age": 29,
+  "nationality": "Japan",
+  "weight_kg": 110,
+  "wingspan_cm": 230,
+  "personal_info": {
+    "birth_city": "Tokyo",
+    "country_of_origin": "Japan",
+    "languages": [
+      "Japanese",
+      "English"
+    ],
+    "family_background": "No notable basketball lineage."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "defensive",
+      "physical"
+    ],
+    "strengths": [
+      "shot-blocking",
+      "rebounding"
+    ],
+    "weaknesses": [
+      "offensive skills"
+    ],
+    "basketball_iq": 80,
+    "motor": 87
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 4,
+    "competitiveness": 8,
+    "work_ethic": 9,
+    "confidence": 6,
+    "temperament": "calm",
+    "locker_room_role": "quiet-worker"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "defensive anchor",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 30.0,
+    "ppg": 10.6,
+    "rpg": 9.0,
+    "apg": 1.0,
+    "spg": 0.5,
+    "bpg": 2.5,
+    "topg": 1.0,
+    "fg_pct": 52.0,
+    "three_pct": 0.0,
+    "ft_pct": 70.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 3.0,
+    "contract_tier": "role player",
+    "trade_value": 6
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 65,
+    "improvement_areas": [
+      "offensive skills",
+      "free throw shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 60,
+    "media_attention": 50
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Luca Ferraro",
+        "score": 8,
+        "reason": "Strong connection in the paint."
+      }
+    ],
+    "neutral_teammates": [
+      "Felix Moreno",
+      "Ethan Carter"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Aiden O'Connor",
+        "score": 4,
+        "reason": "Different playing styles create tension."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted by the Nexis after a successful college career in Japan.",
+    "off_court_interests": [
+      "martial arts",
+      "cooking"
+    ],
+    "public_reputation": "Known for his shot-blocking ability and work ethic."
+  },
+  "profile_summary": "Riku Nakamura is a formidable center known for his defensive skills and shot-blocking ability. His presence in the paint is vital for the Chicago Nexis' defensive strategy.",
+  "family_relation": {
+    "type": "son_of_former_player",
+    "related_player": "Retired Nakamura"
+  }
+}

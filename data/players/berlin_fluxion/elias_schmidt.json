@@ -1,0 +1,115 @@
+{
+  "player_id": "team_0006_player_03",
+  "name": "Elias Schmidt",
+  "number": 23,
+  "position": "SF",
+  "height_cm": 196,
+  "age": 27,
+  "nationality": "Germany",
+  "weight_kg": 90,
+  "wingspan_cm": 205,
+  "personal_info": {
+    "birth_city": "Munich",
+    "country_of_origin": "Germany",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "family_background": "No notable family connections."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "balanced",
+      "technical"
+    ],
+    "strengths": [
+      "versatility",
+      "defense"
+    ],
+    "weaknesses": [
+      "shooting range"
+    ],
+    "basketball_iq": 8,
+    "motor": 7
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 4,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 6,
+    "temperament": "calm",
+    "locker_room_role": "glue-guy"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "two-way player",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 75,
+    "minutes": 30.0,
+    "ppg": 11.9,
+    "rpg": 6.0,
+    "apg": 3.0,
+    "spg": 1.0,
+    "bpg": 0.5,
+    "topg": 1.5,
+    "fg_pct": 46.0,
+    "three_pct": 34.0,
+    "ft_pct": 78.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 2.0,
+    "contract_tier": "mid-level",
+    "trade_value": 6
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 2,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 8,
+    "current_impact": 6,
+    "improvement_areas": [
+      "shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 6,
+    "media_attention": 5
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Jalen Howard",
+        "score": 7,
+        "reason": "Strong defensive partnership."
+      }
+    ],
+    "neutral_teammates": [
+      "Lukas Meyer",
+      "Noah Fischer"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Sota Yamamoto",
+        "score": 4,
+        "reason": "Different styles of play."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Acquired through a trade and quickly adapted to the team's style.",
+    "off_court_interests": [
+      "reading",
+      "cooking"
+    ],
+    "public_reputation": "Respected for his work ethic."
+  },
+  "profile_summary": "Elias Schmidt is a versatile small forward who excels in defense and contributes to the team's overall balance. His ability to adapt makes him a valuable asset for the Berlin Fluxion."
+}

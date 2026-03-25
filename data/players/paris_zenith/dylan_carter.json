@@ -1,0 +1,118 @@
+{
+  "player_id": "team_0009_player_04",
+  "name": "Dylan Carter",
+  "number": 45,
+  "position": "PF",
+  "height_cm": 201,
+  "age": 28,
+  "nationality": "USA",
+  "weight_kg": 105,
+  "wingspan_cm": 215,
+  "personal_info": {
+    "birth_city": "Los Angeles",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Son of a former NBA player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "physical",
+      "defensive"
+    ],
+    "strengths": [
+      "rebounding",
+      "post defense"
+    ],
+    "weaknesses": [
+      "shooting range"
+    ],
+    "basketball_iq": 7,
+    "motor": 8
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 6,
+    "competitiveness": 9,
+    "work_ethic": 9,
+    "confidence": 8,
+    "temperament": "intense",
+    "locker_room_role": "challenger"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "defensive anchor",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 30.0,
+    "ppg": 14.8,
+    "rpg": 9.0,
+    "apg": 2.0,
+    "spg": 0.8,
+    "bpg": 1.5,
+    "topg": 1.5,
+    "fg_pct": 50.0,
+    "three_pct": 25.0,
+    "ft_pct": 70.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 3.0,
+    "contract_tier": "mid-level",
+    "trade_value": 7
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 8,
+    "current_impact": 7,
+    "improvement_areas": [
+      "shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 6,
+    "media_attention": 5
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Rafael Ribeiro",
+        "score": 8,
+        "reason": "Strong connection in the paint."
+      }
+    ],
+    "neutral_teammates": [
+      "Ethan Laurent",
+      "Nicolas Lefevre"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Roberto Ramirez",
+        "score": 4,
+        "reason": "Competes for rebounds."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted by the Zenith after a successful college career.",
+    "off_court_interests": [
+      "fitness",
+      "gaming"
+    ],
+    "public_reputation": "Known for his work ethic and defensive prowess."
+  },
+  "profile_summary": "Dylan Carter is a powerful power forward known for his rebounding and defensive skills. His presence in the paint is crucial for the Paris Zenith's success.",
+  "family_relation": {
+    "type": "cousin",
+    "related_player": "Jamal Carter"
+  }
+}

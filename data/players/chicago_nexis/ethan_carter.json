@@ -1,0 +1,115 @@
+{
+  "player_id": "team_0004_player_06",
+  "name": "Ethan Carter",
+  "number": 5,
+  "position": "PG",
+  "height_cm": 181,
+  "age": 23,
+  "nationality": "USA",
+  "weight_kg": 80,
+  "wingspan_cm": 185,
+  "personal_info": {
+    "birth_city": "Miami",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "No notable basketball lineage."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "technical"
+    ],
+    "strengths": [
+      "speed",
+      "playmaking"
+    ],
+    "weaknesses": [
+      "defensive awareness"
+    ],
+    "basketball_iq": 75,
+    "motor": 84
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 5,
+    "competitiveness": 7,
+    "work_ethic": 7,
+    "confidence": 6,
+    "temperament": "balanced",
+    "locker_room_role": "neutral"
+  },
+  "role_in_team": {
+    "status": "bench_prospect",
+    "is_star": false,
+    "rotation_role": "backup point guard",
+    "minutes_expectation": 15
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 10,
+    "minutes": 15.0,
+    "ppg": 8.5,
+    "rpg": 2.0,
+    "apg": 3.0,
+    "spg": 0.8,
+    "bpg": 0.1,
+    "topg": 1.5,
+    "fg_pct": 42.0,
+    "three_pct": 34.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 2.0,
+    "contract_tier": "role player",
+    "trade_value": 3
+  },
+  "health_profile": {
+    "durability": 6,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 75,
+    "current_impact": 50,
+    "improvement_areas": [
+      "defense",
+      "decision-making"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 55,
+    "media_attention": 45
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Yuki Sato",
+        "score": 7,
+        "reason": "Good understanding in transition."
+      }
+    ],
+    "neutral_teammates": [
+      "Derek Lawson",
+      "Jaxon Reed"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Riku Nakamura",
+        "score": 3,
+        "reason": "Different playing styles create tension."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as a free agent after a standout college career.",
+    "off_court_interests": [
+      "music",
+      "fitness"
+    ],
+    "public_reputation": "Known for his speed and playmaking ability."
+  },
+  "profile_summary": "Ethan Carter is a promising young point guard with exceptional speed and playmaking skills. He is seen as a future contributor for the Chicago Nexis."
+}

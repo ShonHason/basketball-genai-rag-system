@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0012_player_04",
+  "name": "Darius Reed",
+  "number": 34,
+  "position": "PF",
+  "height_cm": 209,
+  "age": 28,
+  "nationality": "USA",
+  "weight_kg": 100,
+  "wingspan_cm": 215,
+  "personal_info": {
+    "birth_city": "Chicago",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Brother of a former college star."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "physical",
+      "defensive"
+    ],
+    "strengths": [
+      "rebounding",
+      "defense"
+    ],
+    "weaknesses": [
+      "offensive skill set"
+    ],
+    "basketball_iq": 78,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 3,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 5,
+    "temperament": "intense",
+    "locker_room_role": "quiet-worker"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "defensive anchor",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 30.0,
+    "ppg": 11.4,
+    "rpg": 9.0,
+    "apg": 1.0,
+    "spg": 0.5,
+    "bpg": 1.5,
+    "topg": 1.0,
+    "fg_pct": 50.0,
+    "three_pct": 30.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 2.5,
+    "contract_tier": "role_player",
+    "trade_value": 4
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 75,
+    "current_impact": 65,
+    "improvement_areas": [
+      "offensive skills",
+      "shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 65,
+    "media_attention": 40
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Liam O'Sullivan",
+        "score": 8,
+        "reason": "Strong defensive chemistry."
+      }
+    ],
+    "neutral_teammates": [
+      "Marco Bellini",
+      "Yuki Tanaka"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Roberto Ortiz",
+        "score": 3,
+        "reason": "Different playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as a free agent after a successful stint in the minor leagues.",
+    "off_court_interests": [
+      "fitness",
+      "community service"
+    ],
+    "public_reputation": "Known for his hard work and defensive prowess."
+  },
+  "profile_summary": "Darius Reed is a powerful power forward who excels in rebounding and defense. His physical presence makes him a key component of Astra's defensive strategy.",
+  "family_relation": {
+    "type": "brother",
+    "related_player": "Marcus Reed"
+  }
+}

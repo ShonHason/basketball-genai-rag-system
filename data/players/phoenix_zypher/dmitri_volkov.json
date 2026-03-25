@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0001_player_05",
+  "name": "Dmitri Volkov",
+  "number": 45,
+  "position": "C",
+  "height_cm": 213,
+  "age": 28,
+  "nationality": "Russia",
+  "weight_kg": 110,
+  "wingspan_cm": 220,
+  "personal_info": {
+    "birth_city": "Moscow",
+    "country_of_origin": "Russia",
+    "languages": [
+      "Russian",
+      "English"
+    ],
+    "family_background": "Comes from a family of athletes."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "defensive",
+      "physical"
+    ],
+    "strengths": [
+      "shot-blocking",
+      "rebounding"
+    ],
+    "weaknesses": [
+      "offensive versatility"
+    ],
+    "basketball_iq": 78,
+    "motor": 75
+  },
+  "personality": {
+    "leadership": 3,
+    "ego_level": 6,
+    "competitiveness": 8,
+    "work_ethic": 7,
+    "confidence": 6,
+    "temperament": "intense",
+    "locker_room_role": "challenger"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "starter",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 30.0,
+    "ppg": 10.6,
+    "rpg": 9.0,
+    "apg": 2.0,
+    "spg": 0.5,
+    "bpg": 2.0,
+    "topg": 2.0,
+    "fg_pct": 52.0,
+    "three_pct": 25.0,
+    "ft_pct": 70.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 6.0,
+    "contract_tier": "mid-level",
+    "trade_value": 9
+  },
+  "health_profile": {
+    "durability": 6,
+    "injury_risk": 4,
+    "conditioning": 6
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 65,
+    "improvement_areas": [
+      "offensive skills",
+      "conditioning"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 60,
+    "media_attention": 65
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Luca Moretti",
+        "score": 7,
+        "reason": "Strong inside presence together."
+      }
+    ],
+    "neutral_teammates": [
+      "Marcus Flynn",
+      "Jalen Brooks"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Khalid Rahman",
+        "score": 4,
+        "reason": "Different styles lead to some tension."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Acquired through trade after a successful stint in Europe.",
+    "off_court_interests": [
+      "fitness",
+      "reading"
+    ],
+    "public_reputation": "Known for his defensive skills and shot-blocking ability."
+  },
+  "profile_summary": "Dmitri Volkov is a formidable center known for his shot-blocking and rebounding. He anchors the Zypher's defense and provides a strong presence in the paint.",
+  "family_relation": {
+    "type": "son_of_former_player",
+    "related_player": "Retired Volkov"
+  }
+}

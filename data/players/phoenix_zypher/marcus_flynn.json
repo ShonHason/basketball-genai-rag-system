@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0001_player_01",
+  "name": "Marcus Flynn",
+  "number": 23,
+  "position": "PG",
+  "height_cm": 182,
+  "age": 27,
+  "nationality": "USA",
+  "weight_kg": 82,
+  "wingspan_cm": 190,
+  "personal_info": {
+    "birth_city": "Phoenix",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Son of a former college basketball player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "technical"
+    ],
+    "strengths": [
+      "playmaking",
+      "defense"
+    ],
+    "weaknesses": [
+      "shooting consistency"
+    ],
+    "basketball_iq": 90,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 8,
+    "ego_level": 4,
+    "competitiveness": 9,
+    "work_ethic": 9,
+    "confidence": 8,
+    "temperament": "balanced",
+    "locker_room_role": "leader"
+  },
+  "role_in_team": {
+    "status": "star",
+    "is_star": true,
+    "rotation_role": "starter",
+    "minutes_expectation": 32
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 32.0,
+    "ppg": 17.0,
+    "rpg": 4.0,
+    "apg": 8.0,
+    "spg": 2.0,
+    "bpg": 0.5,
+    "topg": 3.0,
+    "fg_pct": 45.0,
+    "three_pct": 36.0,
+    "ft_pct": 80.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 5.0,
+    "contract_tier": "mid-level",
+    "trade_value": 15
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 2,
+    "conditioning": 9
+  },
+  "development_profile": {
+    "ceiling": 90,
+    "current_impact": 75,
+    "improvement_areas": [
+      "shooting consistency",
+      "leadership under pressure"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 85,
+    "media_attention": 80
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Jalen Brooks",
+        "score": 9,
+        "reason": "Strong on-court synergy and mutual respect."
+      }
+    ],
+    "neutral_teammates": [
+      "Khalid Rahman",
+      "Luca Moretti"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dmitri Volkov",
+        "score": 3,
+        "reason": "Clashing playing styles."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Grew up in Phoenix and always dreamed of playing for the Zypher.",
+    "off_court_interests": [
+      "community service",
+      "gaming"
+    ],
+    "public_reputation": "Respected for his leadership and community involvement."
+  },
+  "profile_summary": "Marcus Flynn is a dynamic point guard known for his playmaking and leadership. With a strong community presence, he embodies the spirit of the Phoenix Zypher.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "former player"
+  }
+}

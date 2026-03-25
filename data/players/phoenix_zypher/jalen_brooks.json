@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0001_player_02",
+  "name": "Jalen Brooks",
+  "number": 34,
+  "position": "SG",
+  "height_cm": 185,
+  "age": 25,
+  "nationality": "USA",
+  "weight_kg": 88,
+  "wingspan_cm": 195,
+  "personal_info": {
+    "birth_city": "Los Angeles",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Cousin of a former NBA player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "fast-paced"
+    ],
+    "strengths": [
+      "scoring",
+      "athleticism"
+    ],
+    "weaknesses": [
+      "defensive consistency"
+    ],
+    "basketball_iq": 85,
+    "motor": 90
+  },
+  "personality": {
+    "leadership": 6,
+    "ego_level": 5,
+    "competitiveness": 8,
+    "work_ethic": 7,
+    "confidence": 7,
+    "temperament": "intense",
+    "locker_room_role": "glue-guy"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "starter",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 75,
+    "minutes": 30.0,
+    "ppg": 19.1,
+    "rpg": 5.0,
+    "apg": 3.0,
+    "spg": 1.5,
+    "bpg": 0.3,
+    "topg": 2.0,
+    "fg_pct": 47.0,
+    "three_pct": 39.0,
+    "ft_pct": 78.0
+  },
+  "contract": {
+    "years_remaining": 3,
+    "annual_salary_m": 4.0,
+    "contract_tier": "mid-level",
+    "trade_value": 12
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 85,
+    "current_impact": 70,
+    "improvement_areas": [
+      "defensive skills",
+      "playmaking"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 80,
+    "media_attention": 75
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Marcus Flynn",
+        "score": 9,
+        "reason": "Great chemistry on the court."
+      }
+    ],
+    "neutral_teammates": [
+      "Khalid Rahman",
+      "Luca Moretti"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dmitri Volkov",
+        "score": 4,
+        "reason": "Different playing styles lead to misunderstandings."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Joined the Zypher after a successful college career.",
+    "off_court_interests": [
+      "music",
+      "fitness"
+    ],
+    "public_reputation": "Known for his scoring ability and work ethic."
+  },
+  "profile_summary": "Jalen Brooks is a talented shooting guard with an explosive scoring ability and a strong work ethic. He plays a crucial role in the Zypher's offensive strategy.",
+  "family_relation": {
+    "type": "cousin",
+    "related_player": "former NBA player"
+  }
+}

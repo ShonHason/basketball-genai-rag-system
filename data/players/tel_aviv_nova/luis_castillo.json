@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0008_player_06",
+  "name": "Luis Castillo",
+  "number": 30,
+  "position": "PG",
+  "height_cm": 181,
+  "age": 22,
+  "nationality": "Mexico",
+  "weight_kg": 78,
+  "wingspan_cm": 185,
+  "personal_info": {
+    "birth_city": "Guadalajara",
+    "country_of_origin": "Mexico",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "family_background": "Youngest brother of a former league player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "youth-focused"
+    ],
+    "strengths": [
+      "speed",
+      "playmaking"
+    ],
+    "weaknesses": [
+      "defensive skills"
+    ],
+    "basketball_iq": 75,
+    "motor": 90
+  },
+  "personality": {
+    "leadership": 3,
+    "ego_level": 4,
+    "competitiveness": 6,
+    "work_ethic": 8,
+    "confidence": 7,
+    "temperament": "calm",
+    "locker_room_role": "mentor"
+  },
+  "role_in_team": {
+    "status": "bench_prospect",
+    "is_star": false,
+    "rotation_role": "backup point guard",
+    "minutes_expectation": 15
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 5,
+    "minutes": 15.0,
+    "ppg": 9.2,
+    "rpg": 2.0,
+    "apg": 3.0,
+    "spg": 0.5,
+    "bpg": 0.1,
+    "topg": 1.5,
+    "fg_pct": 42.0,
+    "three_pct": 34.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 3,
+    "annual_salary_m": 1.5,
+    "contract_tier": "rookie",
+    "trade_value": 5
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 2,
+    "conditioning": 9
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 60,
+    "improvement_areas": [
+      "defense",
+      "shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 55,
+    "media_attention": 45
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Ethan Cohen",
+        "score": 7,
+        "reason": "Learning a lot from him."
+      }
+    ],
+    "neutral_teammates": [
+      "Avi Levi",
+      "Oren Shapiro"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dante Walker",
+        "score": 3,
+        "reason": "Different styles clash."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted after a standout college career in Mexico.",
+    "off_court_interests": [
+      "music",
+      "travel"
+    ],
+    "public_reputation": "Known for his speed and potential."
+  },
+  "profile_summary": "Luis Castillo is a promising young point guard with exceptional speed and playmaking ability. His potential makes him an exciting prospect for the Nova.",
+  "family_relation": {
+    "type": "brother",
+    "related_player": "Carlos Castillo"
+  }
+}

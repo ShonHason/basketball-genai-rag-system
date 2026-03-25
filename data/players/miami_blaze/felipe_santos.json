@@ -1,0 +1,115 @@
+{
+  "player_id": "team_0003_player_06",
+  "name": "Felipe Santos",
+  "number": 15,
+  "position": "PG",
+  "height_cm": 184,
+  "age": 23,
+  "nationality": "Brazil",
+  "weight_kg": 80,
+  "wingspan_cm": 188,
+  "personal_info": {
+    "birth_city": "São Paulo",
+    "country_of_origin": "Brazil",
+    "languages": [
+      "Portuguese",
+      "English"
+    ],
+    "family_background": "Youngest in a family of basketball players."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "youth-focused"
+    ],
+    "strengths": [
+      "speed",
+      "passing"
+    ],
+    "weaknesses": [
+      "experience"
+    ],
+    "basketball_iq": 75,
+    "motor": 88
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 3,
+    "competitiveness": 7,
+    "work_ethic": 9,
+    "confidence": 6,
+    "temperament": "balanced",
+    "locker_room_role": "quiet-worker"
+  },
+  "role_in_team": {
+    "status": "bench_prospect",
+    "is_star": false,
+    "rotation_role": "bench",
+    "minutes_expectation": 15
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 0,
+    "minutes": 15.0,
+    "ppg": 8.8,
+    "rpg": 2.0,
+    "apg": 3.0,
+    "spg": 0.5,
+    "bpg": 0.1,
+    "topg": 1.5,
+    "fg_pct": 42.0,
+    "three_pct": 35.0,
+    "ft_pct": 78.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 1.5,
+    "contract_tier": "rookie",
+    "trade_value": 2
+  },
+  "health_profile": {
+    "durability": 6,
+    "injury_risk": 2,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 50,
+    "improvement_areas": [
+      "decision-making"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 55,
+    "media_attention": 40
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Tyler Adams",
+        "score": 7,
+        "reason": "Learning a lot from him."
+      }
+    ],
+    "neutral_teammates": [
+      "Liam Brooks",
+      "Marco Rossi"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Hiroshi Yamamoto",
+        "score": 3,
+        "reason": "Different experience levels."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted in 2022.",
+    "off_court_interests": [
+      "music",
+      "video games"
+    ],
+    "public_reputation": "Emerging talent with great potential."
+  },
+  "profile_summary": "Felipe Santos is a young point guard with exceptional speed and passing ability. His potential makes him an exciting prospect for the Miami Blaze."
+}

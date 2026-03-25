@@ -1,0 +1,116 @@
+{
+  "player_id": "team_0004_player_03",
+  "name": "Felix Moreno",
+  "number": 34,
+  "position": "SF",
+  "height_cm": 197,
+  "age": 27,
+  "nationality": "Mexico",
+  "weight_kg": 85,
+  "wingspan_cm": 205,
+  "personal_info": {
+    "birth_city": "Monterrey",
+    "country_of_origin": "Mexico",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "family_background": "No notable basketball lineage."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "balanced",
+      "technical"
+    ],
+    "strengths": [
+      "versatility",
+      "defense"
+    ],
+    "weaknesses": [
+      "shooting range"
+    ],
+    "basketball_iq": 82,
+    "motor": 88
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 3,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 6,
+    "temperament": "calm",
+    "locker_room_role": "quiet-worker"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "defensive wing",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 30.0,
+    "ppg": 12.7,
+    "rpg": 6.0,
+    "apg": 3.0,
+    "spg": 1.0,
+    "bpg": 0.5,
+    "topg": 1.5,
+    "fg_pct": 44.0,
+    "three_pct": 32.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 3.0,
+    "contract_tier": "role player",
+    "trade_value": 5
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 65,
+    "improvement_areas": [
+      "shooting",
+      "offensive consistency"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 70,
+    "media_attention": 50
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Aiden O'Connor",
+        "score": 8,
+        "reason": "Great understanding on the court."
+      }
+    ],
+    "neutral_teammates": [
+      "Derek Lawson",
+      "Jaxon Reed"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Ethan Carter",
+        "score": 4,
+        "reason": "Different work ethics."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as a free agent after a successful stint in a foreign league.",
+    "off_court_interests": [
+      "cooking",
+      "traveling"
+    ],
+    "public_reputation": "Respected for his defensive skills and work ethic."
+  },
+  "profile_summary": "Felix Moreno is a versatile small forward known for his defensive prowess and ability to adapt to various roles on the court. His commitment to the team makes him a valuable player for the Chicago Nexis."
+}

@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0006_player_01",
+  "name": "Lukas Meyer",
+  "number": 5,
+  "position": "PG",
+  "height_cm": 180,
+  "age": 26,
+  "nationality": "Germany",
+  "weight_kg": 80,
+  "wingspan_cm": 185,
+  "personal_info": {
+    "birth_city": "Berlin",
+    "country_of_origin": "Germany",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "family_background": "Son of a former professional player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "technical"
+    ],
+    "strengths": [
+      "playmaking",
+      "defense"
+    ],
+    "weaknesses": [
+      "shooting consistency"
+    ],
+    "basketball_iq": 8,
+    "motor": 9
+  },
+  "personality": {
+    "leadership": 7,
+    "ego_level": 5,
+    "competitiveness": 8,
+    "work_ethic": 9,
+    "confidence": 8,
+    "temperament": "balanced",
+    "locker_room_role": "leader"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": true,
+    "rotation_role": "primary ball handler",
+    "minutes_expectation": 32
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 32.0,
+    "ppg": 14.9,
+    "rpg": 4.0,
+    "apg": 7.0,
+    "spg": 1.5,
+    "bpg": 0.3,
+    "topg": 2.5,
+    "fg_pct": 45.0,
+    "three_pct": 36.0,
+    "ft_pct": 82.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 3.0,
+    "contract_tier": "mid-level",
+    "trade_value": 12
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 2,
+    "conditioning": 9
+  },
+  "development_profile": {
+    "ceiling": 10,
+    "current_impact": 8,
+    "improvement_areas": [
+      "shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 9,
+    "media_attention": 7
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Noah Fischer",
+        "score": 9,
+        "reason": "Strong on-court synergy."
+      }
+    ],
+    "neutral_teammates": [
+      "Elias Schmidt",
+      "Jalen Howard"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Devin Rivers",
+        "score": 3,
+        "reason": "Clash in playing style."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Joined the team as a rookie and quickly became a fan favorite.",
+    "off_court_interests": [
+      "music",
+      "traveling"
+    ],
+    "public_reputation": "Known for his community involvement."
+  },
+  "profile_summary": "Lukas Meyer is a dynamic point guard known for his exceptional playmaking and leadership skills. With a strong community presence, he has quickly become a cornerstone of the Berlin Fluxion.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "Markus Meyer"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "player_id": "team_0007_player_06",
+  "name": "Daichi Nakamura",
+  "number": 15,
+  "position": "PG",
+  "height_cm": 178,
+  "age": 22,
+  "nationality": "Japan",
+  "weight_kg": 78,
+  "wingspan_cm": 183,
+  "personal_info": {
+    "birth_city": "Tokyo",
+    "country_of_origin": "Japan",
+    "languages": [
+      "Japanese",
+      "English"
+    ],
+    "family_background": "Youngest in a family of athletes."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "fast-paced",
+      "technical"
+    ],
+    "strengths": [
+      "speed",
+      "passing"
+    ],
+    "weaknesses": [
+      "experience"
+    ],
+    "basketball_iq": 78,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 3,
+    "competitiveness": 7,
+    "work_ethic": 9,
+    "confidence": 6,
+    "temperament": "calm",
+    "locker_room_role": "neutral"
+  },
+  "role_in_team": {
+    "status": "bench_prospect",
+    "is_star": false,
+    "rotation_role": "backup point guard",
+    "minutes_expectation": 15
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 5,
+    "minutes": 15.0,
+    "ppg": 6.7,
+    "rpg": 2.0,
+    "apg": 3.0,
+    "spg": 1.0,
+    "bpg": 0.0,
+    "topg": 1.5,
+    "fg_pct": 42.0,
+    "three_pct": 35.0,
+    "ft_pct": 80.0
+  },
+  "contract": {
+    "years_remaining": 3,
+    "annual_salary_m": 1.5,
+    "contract_tier": "rookie_contract",
+    "trade_value": 5
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 2,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 85,
+    "current_impact": 60,
+    "improvement_areas": [
+      "decision making",
+      "defensive skills"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 60,
+    "media_attention": 50
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Elias Vega",
+        "score": 8,
+        "reason": "Learns a lot from him."
+      }
+    ],
+    "neutral_teammates": [
+      "Liam Carter",
+      "Dmitri Ivanov"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Martin Morales",
+        "score": 4,
+        "reason": "Different styles lead to misunderstandings."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted after an impressive college career in Japan.",
+    "off_court_interests": [
+      "video games",
+      "anime"
+    ],
+    "public_reputation": "Emerging talent with a bright future."
+  },
+  "profile_summary": "Daichi Nakamura is a promising young point guard known for his speed and passing ability. As a rookie, he is eager to learn and grow within the Madrid Quasar organization."
+}

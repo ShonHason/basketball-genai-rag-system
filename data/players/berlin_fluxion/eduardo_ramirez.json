@@ -1,0 +1,115 @@
+{
+  "player_id": "team_0006_player_07",
+  "name": "Eduardo Ramirez",
+  "number": 30,
+  "position": "SF",
+  "height_cm": 197,
+  "age": 29,
+  "nationality": "Mexico",
+  "weight_kg": 88,
+  "wingspan_cm": 207,
+  "personal_info": {
+    "birth_city": "Mexico City",
+    "country_of_origin": "Mexico",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "family_background": "No notable family connections."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "technical"
+    ],
+    "strengths": [
+      "shooting",
+      "athleticism"
+    ],
+    "weaknesses": [
+      "defense"
+    ],
+    "basketball_iq": 7,
+    "motor": 8
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 6,
+    "competitiveness": 8,
+    "work_ethic": 7,
+    "confidence": 7,
+    "temperament": "balanced",
+    "locker_room_role": "neutral"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "scoring forward",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 75,
+    "minutes": 30.0,
+    "ppg": 15.8,
+    "rpg": 5.0,
+    "apg": 2.0,
+    "spg": 0.5,
+    "bpg": 0.3,
+    "topg": 1.5,
+    "fg_pct": 47.0,
+    "three_pct": 38.0,
+    "ft_pct": 79.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 2.5,
+    "contract_tier": "mid-level",
+    "trade_value": 5
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 8,
+    "current_impact": 7,
+    "improvement_areas": [
+      "defense"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 6,
+    "media_attention": 5
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Riccardo Costa",
+        "score": 7,
+        "reason": "Strong connection on offense."
+      }
+    ],
+    "neutral_teammates": [
+      "Lukas Meyer",
+      "Noah Fischer"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Devin Rivers",
+        "score": 4,
+        "reason": "Different styles of play."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Acquired through a trade and has become a reliable scorer.",
+    "off_court_interests": [
+      "music",
+      "cooking"
+    ],
+    "public_reputation": "Known for his positive attitude."
+  },
+  "profile_summary": "Eduardo Ramirez is a talented small forward with a scoring touch and athleticism. His ability to stretch the floor is vital for the Berlin Fluxion's offensive scheme."
+}

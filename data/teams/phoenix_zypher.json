@@ -1,0 +1,1116 @@
+{
+  "city": "Phoenix",
+  "country": "USA",
+  "name": "Zypher",
+  "conference": "Western Conference",
+  "division": "West Division",
+  "arena": {
+    "name": "Zypher Dome",
+    "capacity": 18000
+  },
+  "ownership": {
+    "owner": "Alex Mercer",
+    "president": "Jordan Hale",
+    "general_manager": "Samira Knox"
+  },
+  "branding": {
+    "colors": [
+      "blue",
+      "silver",
+      "black"
+    ],
+    "mascot": "Zypher the Falcon"
+  },
+  "market": {
+    "market_size": "large",
+    "city_population": 1700000
+  },
+  "history": {
+    "conference_titles": 2,
+    "division_titles": 3,
+    "playoff_appearances": 5,
+    "championships": 0
+  },
+  "coaching_staff": {
+    "head_coach": "Liam Carter",
+    "assistant_coaches": [
+      "Nina Patel",
+      "Oscar Chen"
+    ],
+    "strength_coach": "Derek James"
+  },
+  "roster": [
+    {
+      "player_id": "team_0001_player_04",
+      "name": "Luca Moretti",
+      "number": 7,
+      "position": "PF",
+      "height_cm": 207,
+      "age": 26,
+      "nationality": "Italy",
+      "weight_kg": 95,
+      "wingspan_cm": 216,
+      "personal_info": {
+        "birth_city": "Rome",
+        "country_of_origin": "Italy",
+        "languages": [
+          "Italian",
+          "English"
+        ],
+        "family_background": "Son of a former European player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "physical",
+          "technical"
+        ],
+        "strengths": [
+          "rebounding",
+          "post moves"
+        ],
+        "weaknesses": [
+          "defensive foot speed"
+        ],
+        "basketball_iq": 82,
+        "motor": 80
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 5,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "balanced",
+        "locker_room_role": "neutral"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "starter",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 70,
+        "minutes": 30.0,
+        "ppg": 15.9,
+        "rpg": 8.0,
+        "apg": 1.0,
+        "spg": 0.5,
+        "bpg": 1.0,
+        "topg": 1.5,
+        "fg_pct": 50.0,
+        "three_pct": 32.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 4.0,
+        "contract_tier": "mid-level",
+        "trade_value": 10
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 70,
+        "improvement_areas": [
+          "defensive agility",
+          "shooting range"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 75,
+        "media_attention": 70
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Khalid Rahman",
+            "score": 8,
+            "reason": "Complement each other's skills well."
+          }
+        ],
+        "neutral_teammates": [
+          "Marcus Flynn",
+          "Jalen Brooks"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dmitri Volkov",
+            "score": 5,
+            "reason": "Different styles lead to some confusion."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed with the Zypher after a successful career in Europe.",
+        "off_court_interests": [
+          "cooking",
+          "fashion"
+        ],
+        "public_reputation": "Known for his scoring ability and rebounding."
+      },
+      "profile_summary": "Luca Moretti is a skilled power forward with a strong scoring touch and rebounding ability. He plays a vital role in the Zypher's frontcourt.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "former European player"
+      }
+    },
+    {
+      "player_id": "team_0001_player_03",
+      "name": "Khalid Rahman",
+      "number": 11,
+      "position": "SF",
+      "height_cm": 194,
+      "age": 24,
+      "nationality": "USA",
+      "weight_kg": 85,
+      "wingspan_cm": 200,
+      "personal_info": {
+        "birth_city": "Chicago",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Brother of a former college player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "balanced",
+          "technical"
+        ],
+        "strengths": [
+          "versatility",
+          "defense"
+        ],
+        "weaknesses": [
+          "inconsistent shooting"
+        ],
+        "basketball_iq": 80,
+        "motor": 80
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 3,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "starter",
+        "minutes_expectation": 28
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 75,
+        "minutes": 28.0,
+        "ppg": 12.7,
+        "rpg": 6.0,
+        "apg": 2.0,
+        "spg": 1.0,
+        "bpg": 0.5,
+        "topg": 1.5,
+        "fg_pct": 44.0,
+        "three_pct": 34.0,
+        "ft_pct": 76.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 3.0,
+        "contract_tier": "role-player",
+        "trade_value": 8
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 2,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 65,
+        "improvement_areas": [
+          "shooting consistency",
+          "offensive creativity"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 70,
+        "media_attention": 60
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Luca Moretti",
+            "score": 8,
+            "reason": "Strong defensive partnership."
+          }
+        ],
+        "neutral_teammates": [
+          "Marcus Flynn",
+          "Jalen Brooks"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dmitri Volkov",
+            "score": 4,
+            "reason": "Different styles lead to miscommunication."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by the Zypher after a successful college career.",
+        "off_court_interests": [
+          "art",
+          "travel"
+        ],
+        "public_reputation": "Respected for his defensive skills and versatility."
+      },
+      "profile_summary": "Khalid Rahman is a versatile small forward known for his defensive prowess and ability to adapt to various roles on the court. He is a key component of the Zypher's balanced gameplay.",
+      "family_relation": {
+        "type": "brother",
+        "related_player": "former college player"
+      }
+    },
+    {
+      "player_id": "team_0001_player_08",
+      "name": "Ethan Zhang",
+      "number": 12,
+      "position": "PF",
+      "height_cm": 207,
+      "age": 23,
+      "nationality": "China",
+      "weight_kg": 95,
+      "wingspan_cm": 219,
+      "personal_info": {
+        "birth_city": "Beijing",
+        "country_of_origin": "China",
+        "languages": [
+          "Mandarin",
+          "English"
+        ],
+        "family_background": "Comes from a family of basketball players."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "technical",
+          "fast-paced"
+        ],
+        "strengths": [
+          "shooting",
+          "versatility"
+        ],
+        "weaknesses": [
+          "defensive rebounding"
+        ],
+        "basketball_iq": 80,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 3,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 6,
+        "temperament": "calm",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "bench_prospect",
+        "is_star": false,
+        "rotation_role": "bench",
+        "minutes_expectation": 12
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 0,
+        "minutes": 12.0,
+        "ppg": 6.4,
+        "rpg": 3.0,
+        "apg": 1.0,
+        "spg": 0.5,
+        "bpg": 0.3,
+        "topg": 1.0,
+        "fg_pct": 40.0,
+        "three_pct": 30.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 1.5,
+        "contract_tier": "rookie",
+        "trade_value": 3
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 2,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 75,
+        "current_impact": 50,
+        "improvement_areas": [
+          "defensive skills",
+          "rebounding"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 60,
+        "media_attention": 55
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Hiroshi Tanaka",
+            "score": 7,
+            "reason": "Good rapport on the court."
+          }
+        ],
+        "neutral_teammates": [
+          "Marcus Flynn",
+          "Jalen Brooks"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dmitri Volkov",
+            "score": 3,
+            "reason": "Struggles against his physicality."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted after a standout college career in China.",
+        "off_court_interests": [
+          "technology",
+          "gaming"
+        ],
+        "public_reputation": "Emerging talent with great potential."
+      },
+      "profile_summary": "Ethan Zhang is a versatile power forward with a strong shooting touch. He is seen as a promising prospect for the future of the Zypher."
+    },
+    {
+      "player_id": "team_0001_player_06",
+      "name": "Hiroshi Tanaka",
+      "number": 15,
+      "position": "PG",
+      "height_cm": 181,
+      "age": 22,
+      "nationality": "Japan",
+      "weight_kg": 75,
+      "wingspan_cm": 194,
+      "personal_info": {
+        "birth_city": "Tokyo",
+        "country_of_origin": "Japan",
+        "languages": [
+          "Japanese",
+          "English"
+        ],
+        "family_background": "Youngest in a family of athletes."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "technical"
+        ],
+        "strengths": [
+          "speed",
+          "passing"
+        ],
+        "weaknesses": [
+          "defensive strength"
+        ],
+        "basketball_iq": 80,
+        "motor": 90
+      },
+      "personality": {
+        "leadership": 3,
+        "ego_level": 2,
+        "competitiveness": 6,
+        "work_ethic": 9,
+        "confidence": 5,
+        "temperament": "calm",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "bench_prospect",
+        "is_star": false,
+        "rotation_role": "bench",
+        "minutes_expectation": 15
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 5,
+        "minutes": 15.0,
+        "ppg": 8.5,
+        "rpg": 2.0,
+        "apg": 3.0,
+        "spg": 1.0,
+        "bpg": 0.0,
+        "topg": 1.5,
+        "fg_pct": 42.0,
+        "three_pct": 35.0,
+        "ft_pct": 78.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 2.0,
+        "contract_tier": "rookie",
+        "trade_value": 5
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 75,
+        "current_impact": 50,
+        "improvement_areas": [
+          "defensive skills",
+          "shooting consistency"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 65,
+        "media_attention": 60
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Marcus Flynn",
+            "score": 7,
+            "reason": "Looks up to him as a mentor."
+          }
+        ],
+        "neutral_teammates": [
+          "Jalen Brooks",
+          "Khalid Rahman"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dmitri Volkov",
+            "score": 3,
+            "reason": "Struggles against his physicality."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted after a standout college career in Japan.",
+        "off_court_interests": [
+          "anime",
+          "technology"
+        ],
+        "public_reputation": "Rising star with great potential."
+      },
+      "profile_summary": "Hiroshi Tanaka is a promising young point guard known for his speed and passing ability. He is seen as a future leader for the Zypher.",
+      "family_relation": {
+        "type": "brother",
+        "related_player": "Kaito Tanaka"
+      }
+    },
+    {
+      "player_id": "team_0001_player_01",
+      "name": "Marcus Flynn",
+      "number": 23,
+      "position": "PG",
+      "height_cm": 182,
+      "age": 27,
+      "nationality": "USA",
+      "weight_kg": 82,
+      "wingspan_cm": 190,
+      "personal_info": {
+        "birth_city": "Phoenix",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Son of a former college basketball player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "technical"
+        ],
+        "strengths": [
+          "playmaking",
+          "defense"
+        ],
+        "weaknesses": [
+          "shooting consistency"
+        ],
+        "basketball_iq": 90,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 8,
+        "ego_level": 4,
+        "competitiveness": 9,
+        "work_ethic": 9,
+        "confidence": 8,
+        "temperament": "balanced",
+        "locker_room_role": "leader"
+      },
+      "role_in_team": {
+        "status": "star",
+        "is_star": true,
+        "rotation_role": "starter",
+        "minutes_expectation": 32
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 32.0,
+        "ppg": 17.0,
+        "rpg": 4.0,
+        "apg": 8.0,
+        "spg": 2.0,
+        "bpg": 0.5,
+        "topg": 3.0,
+        "fg_pct": 45.0,
+        "three_pct": 36.0,
+        "ft_pct": 80.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 5.0,
+        "contract_tier": "mid-level",
+        "trade_value": 15
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 9
+      },
+      "development_profile": {
+        "ceiling": 90,
+        "current_impact": 75,
+        "improvement_areas": [
+          "shooting consistency",
+          "leadership under pressure"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 85,
+        "media_attention": 80
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Jalen Brooks",
+            "score": 9,
+            "reason": "Strong on-court synergy and mutual respect."
+          }
+        ],
+        "neutral_teammates": [
+          "Khalid Rahman",
+          "Luca Moretti"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dmitri Volkov",
+            "score": 3,
+            "reason": "Clashing playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Grew up in Phoenix and always dreamed of playing for the Zypher.",
+        "off_court_interests": [
+          "community service",
+          "gaming"
+        ],
+        "public_reputation": "Respected for his leadership and community involvement."
+      },
+      "profile_summary": "Marcus Flynn is a dynamic point guard known for his playmaking and leadership. With a strong community presence, he embodies the spirit of the Phoenix Zypher.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "former player"
+      }
+    },
+    {
+      "player_id": "team_0001_player_07",
+      "name": "Carlos Mendoza",
+      "number": 30,
+      "position": "SF",
+      "height_cm": 200,
+      "age": 29,
+      "nationality": "Mexico",
+      "weight_kg": 90,
+      "wingspan_cm": 205,
+      "personal_info": {
+        "birth_city": "Guadalajara",
+        "country_of_origin": "Mexico",
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "family_background": "Comes from a family of basketball enthusiasts."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "fast-paced"
+        ],
+        "strengths": [
+          "shooting",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defensive positioning"
+        ],
+        "basketball_iq": 82,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 6,
+        "competitiveness": 8,
+        "work_ethic": 7,
+        "confidence": 7,
+        "temperament": "intense",
+        "locker_room_role": "neutral"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "starter",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 75,
+        "minutes": 30.0,
+        "ppg": 14.8,
+        "rpg": 5.0,
+        "apg": 3.0,
+        "spg": 1.0,
+        "bpg": 0.5,
+        "topg": 2.0,
+        "fg_pct": 46.0,
+        "three_pct": 38.0,
+        "ft_pct": 77.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 3.0,
+        "contract_tier": "mid-level",
+        "trade_value": 9
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 65,
+        "improvement_areas": [
+          "defensive skills",
+          "basketball IQ"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 70,
+        "media_attention": 65
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Jalen Brooks",
+            "score": 8,
+            "reason": "Great offensive chemistry."
+          }
+        ],
+        "neutral_teammates": [
+          "Khalid Rahman",
+          "Luca Moretti"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dmitri Volkov",
+            "score": 4,
+            "reason": "Different styles lead to some tension."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed after a successful career in the Mexican league.",
+        "off_court_interests": [
+          "music",
+          "community service"
+        ],
+        "public_reputation": "Known for his scoring ability and community involvement."
+      },
+      "profile_summary": "Carlos Mendoza is an athletic small forward known for his scoring and shooting ability. He plays a key role in the Zypher's offensive strategy."
+    },
+    {
+      "player_id": "team_0001_player_02",
+      "name": "Jalen Brooks",
+      "number": 34,
+      "position": "SG",
+      "height_cm": 185,
+      "age": 25,
+      "nationality": "USA",
+      "weight_kg": 88,
+      "wingspan_cm": 195,
+      "personal_info": {
+        "birth_city": "Los Angeles",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Cousin of a former NBA player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "fast-paced"
+        ],
+        "strengths": [
+          "scoring",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defensive consistency"
+        ],
+        "basketball_iq": 85,
+        "motor": 90
+      },
+      "personality": {
+        "leadership": 6,
+        "ego_level": 5,
+        "competitiveness": 8,
+        "work_ethic": 7,
+        "confidence": 7,
+        "temperament": "intense",
+        "locker_room_role": "glue-guy"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "starter",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 75,
+        "minutes": 30.0,
+        "ppg": 19.1,
+        "rpg": 5.0,
+        "apg": 3.0,
+        "spg": 1.5,
+        "bpg": 0.3,
+        "topg": 2.0,
+        "fg_pct": 47.0,
+        "three_pct": 39.0,
+        "ft_pct": 78.0
+      },
+      "contract": {
+        "years_remaining": 3,
+        "annual_salary_m": 4.0,
+        "contract_tier": "mid-level",
+        "trade_value": 12
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 70,
+        "improvement_areas": [
+          "defensive skills",
+          "playmaking"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 80,
+        "media_attention": 75
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Marcus Flynn",
+            "score": 9,
+            "reason": "Great chemistry on the court."
+          }
+        ],
+        "neutral_teammates": [
+          "Khalid Rahman",
+          "Luca Moretti"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Dmitri Volkov",
+            "score": 4,
+            "reason": "Different playing styles lead to misunderstandings."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Joined the Zypher after a successful college career.",
+        "off_court_interests": [
+          "music",
+          "fitness"
+        ],
+        "public_reputation": "Known for his scoring ability and work ethic."
+      },
+      "profile_summary": "Jalen Brooks is a talented shooting guard with an explosive scoring ability and a strong work ethic. He plays a crucial role in the Zypher's offensive strategy.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "former NBA player"
+      }
+    },
+    {
+      "player_id": "team_0001_player_05",
+      "name": "Dmitri Volkov",
+      "number": 45,
+      "position": "C",
+      "height_cm": 213,
+      "age": 28,
+      "nationality": "Russia",
+      "weight_kg": 110,
+      "wingspan_cm": 220,
+      "personal_info": {
+        "birth_city": "Moscow",
+        "country_of_origin": "Russia",
+        "languages": [
+          "Russian",
+          "English"
+        ],
+        "family_background": "Comes from a family of athletes."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "defensive",
+          "physical"
+        ],
+        "strengths": [
+          "shot-blocking",
+          "rebounding"
+        ],
+        "weaknesses": [
+          "offensive versatility"
+        ],
+        "basketball_iq": 78,
+        "motor": 75
+      },
+      "personality": {
+        "leadership": 3,
+        "ego_level": 6,
+        "competitiveness": 8,
+        "work_ethic": 7,
+        "confidence": 6,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "starter",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 10.6,
+        "rpg": 9.0,
+        "apg": 2.0,
+        "spg": 0.5,
+        "bpg": 2.0,
+        "topg": 2.0,
+        "fg_pct": 52.0,
+        "three_pct": 25.0,
+        "ft_pct": 70.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 6.0,
+        "contract_tier": "mid-level",
+        "trade_value": 9
+      },
+      "health_profile": {
+        "durability": 6,
+        "injury_risk": 4,
+        "conditioning": 6
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 65,
+        "improvement_areas": [
+          "offensive skills",
+          "conditioning"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 60,
+        "media_attention": 65
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Luca Moretti",
+            "score": 7,
+            "reason": "Strong inside presence together."
+          }
+        ],
+        "neutral_teammates": [
+          "Marcus Flynn",
+          "Jalen Brooks"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Khalid Rahman",
+            "score": 4,
+            "reason": "Different styles lead to some tension."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Acquired through trade after a successful stint in Europe.",
+        "off_court_interests": [
+          "fitness",
+          "reading"
+        ],
+        "public_reputation": "Known for his defensive skills and shot-blocking ability."
+      },
+      "profile_summary": "Dmitri Volkov is a formidable center known for his shot-blocking and rebounding. He anchors the Zypher's defense and provides a strong presence in the paint.",
+      "family_relation": {
+        "type": "son_of_former_player",
+        "related_player": "Retired Volkov"
+      }
+    }
+  ],
+  "rivalries": [
+    {
+      "team": "Vortex",
+      "type": "in-state"
+    },
+    {
+      "team": "Aether",
+      "type": "inter-conference"
+    }
+  ],
+  "sponsors": {
+    "primary": "Tech Innovations",
+    "secondary": "Global Energy"
+  },
+  "description": "Zypher is known for its fast-paced gameplay and strong community support, making it a formidable team in the Hoopball League.",
+  "id": "team_0001",
+  "team_dynamics": {
+    "team_name": "Phoenix Zypher",
+    "locker_room_leaders": [
+      "Marcus Flynn",
+      "Jalen Brooks",
+      "Khalid Rahman"
+    ],
+    "star_players": [
+      "Marcus Flynn"
+    ],
+    "mentor_pairs": [],
+    "notable_friendships": [
+      {
+        "players": [
+          "Khalid Rahman",
+          "Luca Moretti"
+        ],
+        "reason": "Complement each other's skills well."
+      },
+      {
+        "players": [
+          "Ethan Zhang",
+          "Hiroshi Tanaka"
+        ],
+        "reason": "Good rapport on the court."
+      },
+      {
+        "players": [
+          "Hiroshi Tanaka",
+          "Marcus Flynn"
+        ],
+        "reason": "Looks up to him as a mentor."
+      },
+      {
+        "players": [
+          "Jalen Brooks",
+          "Marcus Flynn"
+        ],
+        "reason": "Strong on-court synergy and mutual respect."
+      },
+      {
+        "players": [
+          "Carlos Mendoza",
+          "Jalen Brooks"
+        ],
+        "reason": "Great offensive chemistry."
+      },
+      {
+        "players": [
+          "Dmitri Volkov",
+          "Luca Moretti"
+        ],
+        "reason": "Strong inside presence together."
+      }
+    ],
+    "internal_tensions": [
+      {
+        "players": [
+          "Dmitri Volkov",
+          "Luca Moretti"
+        ],
+        "reason": "Different styles lead to some confusion."
+      },
+      {
+        "players": [
+          "Dmitri Volkov",
+          "Khalid Rahman"
+        ],
+        "reason": "Different styles lead to miscommunication."
+      },
+      {
+        "players": [
+          "Dmitri Volkov",
+          "Ethan Zhang"
+        ],
+        "reason": "Struggles against his physicality."
+      },
+      {
+        "players": [
+          "Dmitri Volkov",
+          "Hiroshi Tanaka"
+        ],
+        "reason": "Struggles against his physicality."
+      },
+      {
+        "players": [
+          "Dmitri Volkov",
+          "Marcus Flynn"
+        ],
+        "reason": "Clashing playing styles."
+      },
+      {
+        "players": [
+          "Carlos Mendoza",
+          "Dmitri Volkov"
+        ],
+        "reason": "Different styles lead to some tension."
+      },
+      {
+        "players": [
+          "Dmitri Volkov",
+          "Jalen Brooks"
+        ],
+        "reason": "Different playing styles lead to misunderstandings."
+      }
+    ]
+  }
+}

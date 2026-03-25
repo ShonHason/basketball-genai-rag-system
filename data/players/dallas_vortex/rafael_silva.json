@@ -1,0 +1,116 @@
+{
+  "player_id": "team_0002_player_04",
+  "name": "Rafael Silva",
+  "number": 11,
+  "position": "PF",
+  "height_cm": 208,
+  "age": 25,
+  "nationality": "Brazil",
+  "weight_kg": 95,
+  "wingspan_cm": 218,
+  "personal_info": {
+    "birth_city": "São Paulo",
+    "country_of_origin": "Brazil",
+    "languages": [
+      "Portuguese",
+      "English"
+    ],
+    "family_background": "No notable basketball connections."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "defensive",
+      "technical"
+    ],
+    "strengths": [
+      "rebounding",
+      "post defense"
+    ],
+    "weaknesses": [
+      "outside shooting"
+    ],
+    "basketball_iq": 8,
+    "motor": 7
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 3,
+    "competitiveness": 6,
+    "work_ethic": 9,
+    "confidence": 6,
+    "temperament": "balanced",
+    "locker_room_role": "glue-guy"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "rebounder",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 70,
+    "minutes": 30.0,
+    "ppg": 11.4,
+    "rpg": 8.0,
+    "apg": 2.0,
+    "spg": 0.8,
+    "bpg": 1.2,
+    "topg": 1.5,
+    "fg_pct": 50.0,
+    "three_pct": 30.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 4.0,
+    "contract_tier": "mid-level",
+    "trade_value": 10
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 2,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 8,
+    "current_impact": 6,
+    "improvement_areas": [
+      "shooting",
+      "offensive versatility"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 75,
+    "media_attention": 60
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Jamal Carter",
+        "score": 8,
+        "reason": "Strong defensive synergy."
+      }
+    ],
+    "neutral_teammates": [
+      "Tyler Grant",
+      "Dante Rivers"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Omar Al-Farsi",
+        "score": 5,
+        "reason": "Different styles on defense."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as a free agent after a successful international career.",
+    "off_court_interests": [
+      "cooking",
+      "music"
+    ],
+    "public_reputation": "Known for his hard work and defensive skills."
+  },
+  "profile_summary": "Rafael Silva is a skilled power forward with a strong defensive presence. His rebounding ability and work ethic make him a key contributor for the Vortex."
+}

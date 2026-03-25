@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0009_player_05",
+  "name": "Rafael Ribeiro",
+  "number": 11,
+  "position": "C",
+  "height_cm": 215,
+  "age": 29,
+  "nationality": "Brazil",
+  "weight_kg": 110,
+  "wingspan_cm": 220,
+  "personal_info": {
+    "birth_city": "São Paulo",
+    "country_of_origin": "Brazil",
+    "languages": [
+      "Portuguese",
+      "English"
+    ],
+    "family_background": "Cousin of a former national team player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "physical",
+      "defensive"
+    ],
+    "strengths": [
+      "shot-blocking",
+      "rebounding"
+    ],
+    "weaknesses": [
+      "free throw shooting"
+    ],
+    "basketball_iq": 8,
+    "motor": 7
+  },
+  "personality": {
+    "leadership": 6,
+    "ego_level": 5,
+    "competitiveness": 8,
+    "work_ethic": 8,
+    "confidence": 7,
+    "temperament": "calm",
+    "locker_room_role": "neutral"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "defensive anchor",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 30.0,
+    "ppg": 12.7,
+    "rpg": 10.0,
+    "apg": 1.0,
+    "spg": 0.5,
+    "bpg": 2.0,
+    "topg": 1.2,
+    "fg_pct": 52.0,
+    "three_pct": 20.0,
+    "ft_pct": 65.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 4.0,
+    "contract_tier": "mid-level",
+    "trade_value": 7
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 6
+  },
+  "development_profile": {
+    "ceiling": 8,
+    "current_impact": 7,
+    "improvement_areas": [
+      "free throw shooting"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 5,
+    "media_attention": 4
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Dylan Carter",
+        "score": 8,
+        "reason": "Great synergy in the paint."
+      }
+    ],
+    "neutral_teammates": [
+      "Ethan Laurent",
+      "Nicolas Lefevre"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Roberto Ramirez",
+        "score": 3,
+        "reason": "Different styles of play."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed as a free agent after a successful run in the Brazilian league.",
+    "off_court_interests": [
+      "cooking",
+      "music"
+    ],
+    "public_reputation": "Known for his shot-blocking ability and leadership."
+  },
+  "profile_summary": "Rafael Ribeiro is a dominant center known for his shot-blocking and rebounding. His experience and presence in the paint make him a cornerstone of the Paris Zenith.",
+  "family_relation": {
+    "type": "cousin",
+    "related_player": "Carlos Ribeiro"
+  }
+}

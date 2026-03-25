@@ -1,0 +1,120 @@
+{
+  "player_id": "team_0001_player_04",
+  "name": "Luca Moretti",
+  "number": 7,
+  "position": "PF",
+  "height_cm": 207,
+  "age": 26,
+  "nationality": "Italy",
+  "weight_kg": 95,
+  "wingspan_cm": 216,
+  "personal_info": {
+    "birth_city": "Rome",
+    "country_of_origin": "Italy",
+    "languages": [
+      "Italian",
+      "English"
+    ],
+    "family_background": "Son of a former European player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "physical",
+      "technical"
+    ],
+    "strengths": [
+      "rebounding",
+      "post moves"
+    ],
+    "weaknesses": [
+      "defensive foot speed"
+    ],
+    "basketball_iq": 82,
+    "motor": 80
+  },
+  "personality": {
+    "leadership": 4,
+    "ego_level": 5,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 7,
+    "temperament": "balanced",
+    "locker_room_role": "neutral"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "starter",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 70,
+    "minutes": 30.0,
+    "ppg": 15.9,
+    "rpg": 8.0,
+    "apg": 1.0,
+    "spg": 0.5,
+    "bpg": 1.0,
+    "topg": 1.5,
+    "fg_pct": 50.0,
+    "three_pct": 32.0,
+    "ft_pct": 75.0
+  },
+  "contract": {
+    "years_remaining": 2,
+    "annual_salary_m": 4.0,
+    "contract_tier": "mid-level",
+    "trade_value": 10
+  },
+  "health_profile": {
+    "durability": 8,
+    "injury_risk": 2,
+    "conditioning": 7
+  },
+  "development_profile": {
+    "ceiling": 85,
+    "current_impact": 70,
+    "improvement_areas": [
+      "defensive agility",
+      "shooting range"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 75,
+    "media_attention": 70
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Khalid Rahman",
+        "score": 8,
+        "reason": "Complement each other's skills well."
+      }
+    ],
+    "neutral_teammates": [
+      "Marcus Flynn",
+      "Jalen Brooks"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dmitri Volkov",
+        "score": 5,
+        "reason": "Different styles lead to some confusion."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Signed with the Zypher after a successful career in Europe.",
+    "off_court_interests": [
+      "cooking",
+      "fashion"
+    ],
+    "public_reputation": "Known for his scoring ability and rebounding."
+  },
+  "profile_summary": "Luca Moretti is a skilled power forward with a strong scoring touch and rebounding ability. He plays a vital role in the Zypher's frontcourt.",
+  "family_relation": {
+    "type": "son",
+    "related_player": "former European player"
+  }
+}

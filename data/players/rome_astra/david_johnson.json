@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0012_player_02",
+  "name": "David Johnson",
+  "number": 12,
+  "position": "SG",
+  "height_cm": 189,
+  "age": 27,
+  "nationality": "USA",
+  "weight_kg": 88,
+  "wingspan_cm": 195,
+  "personal_info": {
+    "birth_city": "Atlanta",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Cousin of a former NBA player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "offensive",
+      "balanced"
+    ],
+    "strengths": [
+      "scoring",
+      "athleticism"
+    ],
+    "weaknesses": [
+      "defensive consistency"
+    ],
+    "basketball_iq": 80,
+    "motor": 85
+  },
+  "personality": {
+    "leadership": 6,
+    "ego_level": 5,
+    "competitiveness": 9,
+    "work_ethic": 8,
+    "confidence": 7,
+    "temperament": "intense",
+    "locker_room_role": "challenger"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "scoring guard",
+    "minutes_expectation": 30
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 82,
+    "minutes": 30.0,
+    "ppg": 20.5,
+    "rpg": 4.0,
+    "apg": 3.0,
+    "spg": 1.0,
+    "bpg": 0.3,
+    "topg": 2.5,
+    "fg_pct": 47.0,
+    "three_pct": 39.0,
+    "ft_pct": 78.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 4.0,
+    "contract_tier": "starter",
+    "trade_value": 7
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 3,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 85,
+    "current_impact": 70,
+    "improvement_areas": [
+      "defense",
+      "passing"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 75,
+    "media_attention": 60
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Antonio Ricci",
+        "score": 9,
+        "reason": "Great understanding on the court."
+      }
+    ],
+    "neutral_teammates": [
+      "Marco Bellini",
+      "Darius Reed"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Roberto Ortiz",
+        "score": 4,
+        "reason": "Competes for shooting guard minutes."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted by Astra after a strong college career.",
+    "off_court_interests": [
+      "gaming",
+      "fitness"
+    ],
+    "public_reputation": "Known for his scoring ability and competitive nature."
+  },
+  "profile_summary": "David Johnson is a talented shooting guard who excels in scoring and athleticism. His competitive spirit drives the team, making him a key player in the Astra lineup.",
+  "family_relation": {
+    "type": "cousin",
+    "related_player": "Marcus Johnson"
+  }
+}

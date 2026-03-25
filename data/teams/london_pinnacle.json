@@ -1,0 +1,1093 @@
+{
+  "city": "London",
+  "country": "United Kingdom",
+  "name": "Pinnacle",
+  "conference": "Western Conference",
+  "division": "West Division",
+  "arena": {
+    "name": "Pinnacle Arena",
+    "capacity": 20000
+  },
+  "ownership": {
+    "owner": "Oliver Grant",
+    "president": "Sophie Turner",
+    "general_manager": "Liam Patel"
+  },
+  "branding": {
+    "colors": [
+      "gold",
+      "black",
+      "white"
+    ],
+    "mascot": "Pinnacle the Eagle"
+  },
+  "market": {
+    "market_size": "large",
+    "city_population": 8900000
+  },
+  "history": {
+    "conference_titles": 0,
+    "division_titles": 0,
+    "playoff_appearances": 1,
+    "championships": 0
+  },
+  "coaching_staff": {
+    "head_coach": "Nathaniel Brooks",
+    "assistant_coaches": [
+      "Chloe Nguyen",
+      "Marcus Reed"
+    ],
+    "strength_coach": "Derek James"
+  },
+  "roster": [
+    {
+      "player_id": "team_0010_player_08",
+      "name": "Joao Oliveira",
+      "number": 3,
+      "position": "PF",
+      "height_cm": 201,
+      "age": 23,
+      "nationality": "Brazil",
+      "weight_kg": 95,
+      "wingspan_cm": 210,
+      "personal_info": {
+        "birth_city": "Sao Paulo",
+        "country_of_origin": "Brazil",
+        "languages": [
+          "Portuguese",
+          "English"
+        ],
+        "family_background": "No notable basketball family."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "technical"
+        ],
+        "strengths": [
+          "scoring",
+          "rebounding"
+        ],
+        "weaknesses": [
+          "defense"
+        ],
+        "basketball_iq": 76,
+        "motor": 80
+      },
+      "personality": {
+        "leadership": 3,
+        "ego_level": 6,
+        "competitiveness": 7,
+        "work_ethic": 6,
+        "confidence": 5,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "bench_prospect",
+        "is_star": false,
+        "rotation_role": "scoring forward",
+        "minutes_expectation": 15
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 0,
+        "minutes": 15.0,
+        "ppg": 9.8,
+        "rpg": 3.0,
+        "apg": 1.0,
+        "spg": 0.0,
+        "bpg": 0.0,
+        "topg": 1.0,
+        "fg_pct": 43.0,
+        "three_pct": 30.0,
+        "ft_pct": 72.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 2.0,
+        "contract_tier": "rookie",
+        "trade_value": 3
+      },
+      "health_profile": {
+        "durability": 6,
+        "injury_risk": 3,
+        "conditioning": 6
+      },
+      "development_profile": {
+        "ceiling": 70,
+        "current_impact": 50,
+        "improvement_areas": [
+          "defense"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 55,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Javier Castillo",
+            "score": 6,
+            "reason": "Good scoring duo."
+          }
+        ],
+        "neutral_teammates": [
+          "Aiden Brooks",
+          "Austin Powell"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Miles Morris",
+            "score": 3,
+            "reason": "Competes for minutes."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed after a successful career in Brazil.",
+        "off_court_interests": [
+          "music",
+          "art"
+        ],
+        "public_reputation": "Known for his scoring ability and work ethic."
+      },
+      "profile_summary": "Joao Oliveira is a promising power forward with a strong scoring ability. His competitive nature and work ethic make him a valuable prospect for the London Pinnacle."
+    },
+    {
+      "player_id": "team_0010_player_05",
+      "name": "Takumi Ito",
+      "number": 11,
+      "position": "C",
+      "height_cm": 212,
+      "age": 29,
+      "nationality": "Japan",
+      "weight_kg": 102,
+      "wingspan_cm": 223,
+      "personal_info": {
+        "birth_city": "Tokyo",
+        "country_of_origin": "Japan",
+        "languages": [
+          "Japanese",
+          "English"
+        ],
+        "family_background": "No notable basketball family."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "technical",
+          "defensive"
+        ],
+        "strengths": [
+          "shot-blocking",
+          "rebounding"
+        ],
+        "weaknesses": [
+          "offensive game"
+        ],
+        "basketball_iq": 80,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 4,
+        "competitiveness": 7,
+        "work_ethic": 9,
+        "confidence": 7,
+        "temperament": "calm",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive anchor",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 8.8,
+        "rpg": 10.0,
+        "apg": 1.0,
+        "spg": 0.0,
+        "bpg": 2.0,
+        "topg": 1.0,
+        "fg_pct": 52.0,
+        "three_pct": 25.0,
+        "ft_pct": 70.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 3.0,
+        "contract_tier": "role player",
+        "trade_value": 5
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 75,
+        "current_impact": 65,
+        "improvement_areas": [
+          "offensive skills"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 60,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Austin Powell",
+            "score": 8,
+            "reason": "Strong defensive pairing."
+          }
+        ],
+        "neutral_teammates": [
+          "Francesco Bruno",
+          "Liam O'Connor"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Javier Castillo",
+            "score": 3,
+            "reason": "Different styles clash."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed after a successful career in Japan.",
+        "off_court_interests": [
+          "martial arts",
+          "cooking"
+        ],
+        "public_reputation": "Respected for his defensive skills and work ethic."
+      },
+      "profile_summary": "Takumi Ito is a skilled center known for his shot-blocking and rebounding abilities. His calm demeanor and strong work ethic make him a valuable asset to the London Pinnacle."
+    },
+    {
+      "player_id": "team_0010_player_01",
+      "name": "Miles Morris",
+      "number": 12,
+      "position": "PG",
+      "height_cm": 185,
+      "age": 25,
+      "nationality": "USA",
+      "weight_kg": 80,
+      "wingspan_cm": 190,
+      "personal_info": {
+        "birth_city": "Los Angeles",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Son of a former college player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "technical"
+        ],
+        "strengths": [
+          "playmaking",
+          "defense"
+        ],
+        "weaknesses": [
+          "shooting consistency"
+        ],
+        "basketball_iq": 85,
+        "motor": 90
+      },
+      "personality": {
+        "leadership": 7,
+        "ego_level": 4,
+        "competitiveness": 8,
+        "work_ethic": 9,
+        "confidence": 8,
+        "temperament": "balanced",
+        "locker_room_role": "leader"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": true,
+        "rotation_role": "primary ball handler",
+        "minutes_expectation": 32
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 32.0,
+        "ppg": 16.4,
+        "rpg": 4.0,
+        "apg": 7.0,
+        "spg": 2.0,
+        "bpg": 0.0,
+        "topg": 3.0,
+        "fg_pct": 45.0,
+        "three_pct": 36.0,
+        "ft_pct": 80.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 5.0,
+        "contract_tier": "mid-level",
+        "trade_value": 10
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 9
+      },
+      "development_profile": {
+        "ceiling": 90,
+        "current_impact": 75,
+        "improvement_areas": [
+          "shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 85,
+        "media_attention": 80
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Liam O'Connor",
+            "score": 9,
+            "reason": "Strong on-court synergy."
+          }
+        ],
+        "neutral_teammates": [
+          "Francesco Bruno",
+          "Austin Powell"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Joao Oliveira",
+            "score": 3,
+            "reason": "Competes for minutes."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted by the London Pinnacle after a standout college career.",
+        "off_court_interests": [
+          "gaming",
+          "community service"
+        ],
+        "public_reputation": "Known for his leadership and charitable efforts."
+      },
+      "profile_summary": "Miles Morris is a dynamic point guard known for his playmaking and leadership. With a strong work ethic and a commitment to community service, he has quickly become a fan favorite.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "Michael Morris"
+      }
+    },
+    {
+      "player_id": "team_0010_player_07",
+      "name": "Aiden Brooks",
+      "number": 21,
+      "position": "SF",
+      "height_cm": 196,
+      "age": 24,
+      "nationality": "USA",
+      "weight_kg": 85,
+      "wingspan_cm": 200,
+      "personal_info": {
+        "birth_city": "Miami",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Son of a former NBA player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "fast-paced"
+        ],
+        "strengths": [
+          "scoring",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defense"
+        ],
+        "basketball_iq": 78,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 5,
+        "competitiveness": 8,
+        "work_ethic": 7,
+        "confidence": 7,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "role_player",
+        "is_star": false,
+        "rotation_role": "scoring forward",
+        "minutes_expectation": 20
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 0,
+        "minutes": 20.0,
+        "ppg": 13.1,
+        "rpg": 4.0,
+        "apg": 2.0,
+        "spg": 1.0,
+        "bpg": 0.0,
+        "topg": 1.0,
+        "fg_pct": 45.0,
+        "three_pct": 34.0,
+        "ft_pct": 76.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 2.0,
+        "contract_tier": "rookie",
+        "trade_value": 3
+      },
+      "health_profile": {
+        "durability": 6,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 75,
+        "current_impact": 55,
+        "improvement_areas": [
+          "defense"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 65,
+        "media_attention": 50
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Javier Castillo",
+            "score": 7,
+            "reason": "Good on fast breaks."
+          }
+        ],
+        "neutral_teammates": [
+          "Miles Morris",
+          "Liam O'Connor"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Takumi Ito",
+            "score": 4,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted after a successful college career.",
+        "off_court_interests": [
+          "music",
+          "sports"
+        ],
+        "public_reputation": "Known for his scoring ability and athleticism."
+      },
+      "profile_summary": "Aiden Brooks is an athletic small forward with a scoring touch. His competitive spirit and fast-paced play make him a valuable contributor to the London Pinnacle.",
+      "family_relation": {
+        "type": "son",
+        "related_player": "James Brooks"
+      }
+    },
+    {
+      "player_id": "team_0010_player_02",
+      "name": "Liam O'Connor",
+      "number": 23,
+      "position": "SG",
+      "height_cm": 187,
+      "age": 27,
+      "nationality": "USA",
+      "weight_kg": 85,
+      "wingspan_cm": 195,
+      "personal_info": {
+        "birth_city": "Chicago",
+        "country_of_origin": "USA",
+        "languages": [
+          "English"
+        ],
+        "family_background": "Cousin of a former NBA player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "offensive",
+          "fast-paced"
+        ],
+        "strengths": [
+          "scoring",
+          "athleticism"
+        ],
+        "weaknesses": [
+          "defense"
+        ],
+        "basketball_iq": 80,
+        "motor": 88
+      },
+      "personality": {
+        "leadership": 5,
+        "ego_level": 6,
+        "competitiveness": 9,
+        "work_ethic": 7,
+        "confidence": 8,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "scoring guard",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 19.7,
+        "rpg": 3.0,
+        "apg": 4.0,
+        "spg": 1.0,
+        "bpg": 0.0,
+        "topg": 2.0,
+        "fg_pct": 46.0,
+        "three_pct": 39.0,
+        "ft_pct": 78.0
+      },
+      "contract": {
+        "years_remaining": 3,
+        "annual_salary_m": 4.0,
+        "contract_tier": "mid-level",
+        "trade_value": 8
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 8
+      },
+      "development_profile": {
+        "ceiling": 85,
+        "current_impact": 70,
+        "improvement_areas": [
+          "defense"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 75,
+        "media_attention": 70
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Miles Morris",
+            "score": 9,
+            "reason": "Great chemistry on offense."
+          }
+        ],
+        "neutral_teammates": [
+          "Francesco Bruno",
+          "Austin Powell"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Javier Castillo",
+            "score": 4,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Acquired via trade from a rival team.",
+        "off_court_interests": [
+          "fitness",
+          "music"
+        ],
+        "public_reputation": "Known for his scoring ability and competitive nature."
+      },
+      "profile_summary": "Liam O'Connor is a high-scoring shooting guard with a knack for making big plays. His intensity on the court and dedication to fitness make him a key asset for the Pinnacle.",
+      "family_relation": {
+        "type": "cousin",
+        "related_player": "Ryan O'Connor"
+      }
+    },
+    {
+      "player_id": "team_0010_player_06",
+      "name": "Javier Castillo",
+      "number": 30,
+      "position": "PG",
+      "height_cm": 179,
+      "age": 22,
+      "nationality": "Mexico",
+      "weight_kg": 78,
+      "wingspan_cm": 185,
+      "personal_info": {
+        "birth_city": "Guadalajara",
+        "country_of_origin": "Mexico",
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "family_background": "No notable basketball family."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "fast-paced",
+          "offensive"
+        ],
+        "strengths": [
+          "speed",
+          "scoring"
+        ],
+        "weaknesses": [
+          "defense"
+        ],
+        "basketball_iq": 75,
+        "motor": 88
+      },
+      "personality": {
+        "leadership": 3,
+        "ego_level": 5,
+        "competitiveness": 8,
+        "work_ethic": 7,
+        "confidence": 6,
+        "temperament": "intense",
+        "locker_room_role": "challenger"
+      },
+      "role_in_team": {
+        "status": "bench_prospect",
+        "is_star": false,
+        "rotation_role": "scoring guard",
+        "minutes_expectation": 15
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 0,
+        "minutes": 15.0,
+        "ppg": 10.9,
+        "rpg": 2.0,
+        "apg": 3.0,
+        "spg": 1.0,
+        "bpg": 0.0,
+        "topg": 2.0,
+        "fg_pct": 42.0,
+        "three_pct": 35.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 2.0,
+        "contract_tier": "rookie",
+        "trade_value": 3
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 50,
+        "improvement_areas": [
+          "defense"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 60,
+        "media_attention": 55
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Aiden Brooks",
+            "score": 7,
+            "reason": "Good synergy on fast breaks."
+          }
+        ],
+        "neutral_teammates": [
+          "Miles Morris",
+          "Liam O'Connor"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Joao Oliveira",
+            "score": 4,
+            "reason": "Different playing styles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Drafted after a standout college career.",
+        "off_court_interests": [
+          "music",
+          "video games"
+        ],
+        "public_reputation": "Known for his speed and scoring ability."
+      },
+      "profile_summary": "Javier Castillo is a young and speedy point guard with a knack for scoring. His competitive nature and work ethic make him a promising prospect for the London Pinnacle."
+    },
+    {
+      "player_id": "team_0010_player_03",
+      "name": "Francesco Bruno",
+      "number": 34,
+      "position": "SF",
+      "height_cm": 202,
+      "age": 26,
+      "nationality": "Italy",
+      "weight_kg": 85,
+      "wingspan_cm": 211,
+      "personal_info": {
+        "birth_city": "Rome",
+        "country_of_origin": "Italy",
+        "languages": [
+          "Italian",
+          "English"
+        ],
+        "family_background": "No notable basketball family."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "balanced",
+          "technical"
+        ],
+        "strengths": [
+          "versatility",
+          "defense"
+        ],
+        "weaknesses": [
+          "shooting range"
+        ],
+        "basketball_iq": 82,
+        "motor": 85
+      },
+      "personality": {
+        "leadership": 6,
+        "ego_level": 3,
+        "competitiveness": 7,
+        "work_ethic": 8,
+        "confidence": 7,
+        "temperament": "calm",
+        "locker_room_role": "glue-guy"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "two-way player",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 15.3,
+        "rpg": 5.0,
+        "apg": 3.0,
+        "spg": 1.0,
+        "bpg": 0.0,
+        "topg": 2.0,
+        "fg_pct": 44.0,
+        "three_pct": 32.0,
+        "ft_pct": 75.0
+      },
+      "contract": {
+        "years_remaining": 1,
+        "annual_salary_m": 3.0,
+        "contract_tier": "role player",
+        "trade_value": 5
+      },
+      "health_profile": {
+        "durability": 8,
+        "injury_risk": 2,
+        "conditioning": 9
+      },
+      "development_profile": {
+        "ceiling": 80,
+        "current_impact": 65,
+        "improvement_areas": [
+          "shooting"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 70,
+        "media_attention": 60
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Austin Powell",
+            "score": 8,
+            "reason": "Strong defensive pairing."
+          }
+        ],
+        "neutral_teammates": [
+          "Miles Morris",
+          "Liam O'Connor"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Javier Castillo",
+            "score": 4,
+            "reason": "Different roles."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Signed as a free agent after a successful stint in Europe.",
+        "off_court_interests": [
+          "cooking",
+          "traveling"
+        ],
+        "public_reputation": "Respected for his work ethic and team-first mentality."
+      },
+      "profile_summary": "Francesco Bruno is a versatile small forward who excels in both offense and defense. His calm demeanor and strong work ethic make him a valuable asset to the London Pinnacle."
+    },
+    {
+      "player_id": "team_0010_player_04",
+      "name": "Austin Powell",
+      "number": 45,
+      "position": "PF",
+      "height_cm": 201,
+      "age": 28,
+      "nationality": "Russia",
+      "weight_kg": 95,
+      "wingspan_cm": 205,
+      "personal_info": {
+        "birth_city": "Moscow",
+        "country_of_origin": "Russia",
+        "languages": [
+          "Russian",
+          "English"
+        ],
+        "family_background": "Brother of a former EuroLeague player."
+      },
+      "basketball_profile": {
+        "play_style": [
+          "defensive",
+          "physical"
+        ],
+        "strengths": [
+          "rebounding",
+          "defense"
+        ],
+        "weaknesses": [
+          "offensive consistency"
+        ],
+        "basketball_iq": 78,
+        "motor": 80
+      },
+      "personality": {
+        "leadership": 4,
+        "ego_level": 5,
+        "competitiveness": 6,
+        "work_ethic": 8,
+        "confidence": 6,
+        "temperament": "balanced",
+        "locker_room_role": "quiet-worker"
+      },
+      "role_in_team": {
+        "status": "starter",
+        "is_star": false,
+        "rotation_role": "defensive anchor",
+        "minutes_expectation": 30
+      },
+      "season_projection": {
+        "games": 82,
+        "games_started": 82,
+        "minutes": 30.0,
+        "ppg": 10.9,
+        "rpg": 8.0,
+        "apg": 2.0,
+        "spg": 1.0,
+        "bpg": 1.0,
+        "topg": 1.0,
+        "fg_pct": 50.0,
+        "three_pct": 30.0,
+        "ft_pct": 70.0
+      },
+      "contract": {
+        "years_remaining": 2,
+        "annual_salary_m": 4.0,
+        "contract_tier": "mid-level",
+        "trade_value": 7
+      },
+      "health_profile": {
+        "durability": 7,
+        "injury_risk": 3,
+        "conditioning": 7
+      },
+      "development_profile": {
+        "ceiling": 75,
+        "current_impact": 70,
+        "improvement_areas": [
+          "offensive game"
+        ]
+      },
+      "media_and_reputation": {
+        "fan_popularity": 65,
+        "media_attention": 55
+      },
+      "chemistry": {
+        "best_teammates": [
+          {
+            "player": "Francesco Bruno",
+            "score": 8,
+            "reason": "Great defensive synergy."
+          }
+        ],
+        "neutral_teammates": [
+          "Miles Morris",
+          "Liam O'Connor"
+        ],
+        "low_chemistry_teammates": [
+          {
+            "player": "Javier Castillo",
+            "score": 3,
+            "reason": "Different styles clash."
+          }
+        ]
+      },
+      "background_story": {
+        "path_to_team": "Acquired through a trade after a strong season in Europe.",
+        "off_court_interests": [
+          "fitness",
+          "reading"
+        ],
+        "public_reputation": "Known for his defensive prowess and work ethic."
+      },
+      "profile_summary": "Austin Powell is a physical power forward who excels in defense and rebounding. His quiet demeanor and strong work ethic make him a reliable presence on the court.",
+      "family_relation": {
+        "type": "brother",
+        "related_player": "Igor Powell"
+      }
+    }
+  ],
+  "rivalries": [
+    {
+      "team": "Zypher",
+      "type": "in-state"
+    },
+    {
+      "team": "Vortex",
+      "type": "in-state"
+    }
+  ],
+  "sponsors": {
+    "primary": "Tech Innovations",
+    "secondary": "Global Energy"
+  },
+  "description": "Pinnacle is known for its strategic gameplay and strong community support, making it a competitive team in the Hoopball League.",
+  "id": "team_0010",
+  "team_dynamics": {
+    "team_name": "London Pinnacle",
+    "locker_room_leaders": [
+      "Miles Morris",
+      "Francesco Bruno",
+      "Takumi Ito"
+    ],
+    "star_players": [
+      "Miles Morris"
+    ],
+    "mentor_pairs": [],
+    "notable_friendships": [
+      {
+        "players": [
+          "Javier Castillo",
+          "Joao Oliveira"
+        ],
+        "reason": "Good scoring duo."
+      },
+      {
+        "players": [
+          "Austin Powell",
+          "Takumi Ito"
+        ],
+        "reason": "Strong defensive pairing."
+      },
+      {
+        "players": [
+          "Liam O'Connor",
+          "Miles Morris"
+        ],
+        "reason": "Strong on-court synergy."
+      },
+      {
+        "players": [
+          "Aiden Brooks",
+          "Javier Castillo"
+        ],
+        "reason": "Good on fast breaks."
+      },
+      {
+        "players": [
+          "Austin Powell",
+          "Francesco Bruno"
+        ],
+        "reason": "Strong defensive pairing."
+      }
+    ],
+    "internal_tensions": [
+      {
+        "players": [
+          "Joao Oliveira",
+          "Miles Morris"
+        ],
+        "reason": "Competes for minutes."
+      },
+      {
+        "players": [
+          "Javier Castillo",
+          "Takumi Ito"
+        ],
+        "reason": "Different styles clash."
+      },
+      {
+        "players": [
+          "Aiden Brooks",
+          "Takumi Ito"
+        ],
+        "reason": "Different playing styles."
+      },
+      {
+        "players": [
+          "Javier Castillo",
+          "Liam O'Connor"
+        ],
+        "reason": "Different playing styles."
+      },
+      {
+        "players": [
+          "Javier Castillo",
+          "Joao Oliveira"
+        ],
+        "reason": "Different playing styles."
+      },
+      {
+        "players": [
+          "Francesco Bruno",
+          "Javier Castillo"
+        ],
+        "reason": "Different roles."
+      },
+      {
+        "players": [
+          "Austin Powell",
+          "Javier Castillo"
+        ],
+        "reason": "Different styles clash."
+      }
+    ]
+  }
+}

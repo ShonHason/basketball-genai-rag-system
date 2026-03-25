@@ -1,0 +1,119 @@
+{
+  "player_id": "team_0001_player_03",
+  "name": "Khalid Rahman",
+  "number": 11,
+  "position": "SF",
+  "height_cm": 194,
+  "age": 24,
+  "nationality": "USA",
+  "weight_kg": 85,
+  "wingspan_cm": 200,
+  "personal_info": {
+    "birth_city": "Chicago",
+    "country_of_origin": "USA",
+    "languages": [
+      "English"
+    ],
+    "family_background": "Brother of a former college player."
+  },
+  "basketball_profile": {
+    "play_style": [
+      "balanced",
+      "technical"
+    ],
+    "strengths": [
+      "versatility",
+      "defense"
+    ],
+    "weaknesses": [
+      "inconsistent shooting"
+    ],
+    "basketball_iq": 80,
+    "motor": 80
+  },
+  "personality": {
+    "leadership": 5,
+    "ego_level": 3,
+    "competitiveness": 7,
+    "work_ethic": 8,
+    "confidence": 6,
+    "temperament": "calm",
+    "locker_room_role": "quiet-worker"
+  },
+  "role_in_team": {
+    "status": "starter",
+    "is_star": false,
+    "rotation_role": "starter",
+    "minutes_expectation": 28
+  },
+  "season_projection": {
+    "games": 82,
+    "games_started": 75,
+    "minutes": 28.0,
+    "ppg": 12.7,
+    "rpg": 6.0,
+    "apg": 2.0,
+    "spg": 1.0,
+    "bpg": 0.5,
+    "topg": 1.5,
+    "fg_pct": 44.0,
+    "three_pct": 34.0,
+    "ft_pct": 76.0
+  },
+  "contract": {
+    "years_remaining": 1,
+    "annual_salary_m": 3.0,
+    "contract_tier": "role-player",
+    "trade_value": 8
+  },
+  "health_profile": {
+    "durability": 7,
+    "injury_risk": 2,
+    "conditioning": 8
+  },
+  "development_profile": {
+    "ceiling": 80,
+    "current_impact": 65,
+    "improvement_areas": [
+      "shooting consistency",
+      "offensive creativity"
+    ]
+  },
+  "media_and_reputation": {
+    "fan_popularity": 70,
+    "media_attention": 60
+  },
+  "chemistry": {
+    "best_teammates": [
+      {
+        "player": "Luca Moretti",
+        "score": 8,
+        "reason": "Strong defensive partnership."
+      }
+    ],
+    "neutral_teammates": [
+      "Marcus Flynn",
+      "Jalen Brooks"
+    ],
+    "low_chemistry_teammates": [
+      {
+        "player": "Dmitri Volkov",
+        "score": 4,
+        "reason": "Different styles lead to miscommunication."
+      }
+    ]
+  },
+  "background_story": {
+    "path_to_team": "Drafted by the Zypher after a successful college career.",
+    "off_court_interests": [
+      "art",
+      "travel"
+    ],
+    "public_reputation": "Respected for his defensive skills and versatility."
+  },
+  "profile_summary": "Khalid Rahman is a versatile small forward known for his defensive prowess and ability to adapt to various roles on the court. He is a key component of the Zypher's balanced gameplay.",
+  "family_relation": {
+    "type": "brother",
+    "related_player": "former college player"
+  }
+}
