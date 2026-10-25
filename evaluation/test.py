@@ -13,12 +13,16 @@ class TestQuestion(BaseModel):
     reference_answer: str = Field(description="The reference answer for this question")
     category: str = Field(description="Question category (e.g., direct_fact, spanning, temporal)")
 
+    @property
+    def answerable(self) -> bool:
+        return self.category != "unanswerable"
 
-def load_tests() -> list[TestQuestion]:
+
+def load_tests(path: str = TEST_FILE) -> list[TestQuestion]:
     """Load test questions from JSONL file."""
     tests = []
-    with open(TEST_FILE, "r", encoding="utf-8") as f:
+    with open(path, "r", encoding="utf-8") as f:
         for line in f:
-            data = json.loads(line.strip())
-            tests.append(TestQuestion(**data))
+            if line.strip():
+                tests.append(TestQuestion(**json.loads(line)))
     return tests

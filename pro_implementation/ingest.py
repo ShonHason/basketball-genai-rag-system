@@ -1,4 +1,5 @@
 import os
+import argparse
 from pathlib import Path
 from openai import OpenAI
 from dotenv import load_dotenv
@@ -8,6 +9,7 @@ from tqdm import tqdm
 from litellm import completion
 from multiprocessing import Pool
 from tenacity import retry, wait_exponential
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 load_dotenv(override=True)
 
@@ -56,7 +58,8 @@ def fetch_documents():
         with open(file, "r", encoding="utf-8") as f:
             documents.append({
                 "type": doc_type, 
-                "source": file.name, 
+                # Relative path, not file.name: teams/x.md and team_summaries/x.md share a filename
+                "source": str(file.relative_to(KNOWLEDGE_BASE_PATH)), 
                 "text": f.read()
             })
 
@@ -99,12 +102,25 @@ def create_chunks(documents):
             chunks.extend(result)
     return chunks
 
-def create_embeddings(chunks):
-    chroma = PersistentClient(path=DB_NAME)
-    if collection_name in [c.name for c in chroma.list_collections()]:
-        chroma.delete_collection(collection_name)
+def create_fixed_chunks(documents, chunk_size):
+    """Deterministic chunking (no LLM) - used to compare chunk sizes."""
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=chunk_size,
+        chunk_overlap=chunk_size // 8,
+        separators=["\n## ", "\n\n", "\n", " ", ""],
+    )
+    chunks = []
+    for document in documents:
+        for text in splitter.split_text(document["text"]):
+            chunks.append(Result(page_content=text, metadata={"source": document["source"], "type": document["type"]}))
+    return chunks
 
-    collection = chroma.get_or_create_collection(collection_name)
+def create_embeddings(chunks, name=collection_name):
+    chroma = PersistentClient(path=DB_NAME)
+    if name in [c.name for c in chroma.list_collections()]:
+        chroma.delete_collection(name)
+
+    collection = chroma.get_or_create_collection(name)
     
     texts = [chunk.page_content for chunk in chunks]
     metas = [chunk.metadata for chunk in chunks]
@@ -124,14 +140,24 @@ def create_embeddings(chunks):
     # הוספה ל-ChromaDB
     ids = [str(i) for i in range(len(chunks))]
     collection.add(ids=ids, embeddings=all_vectors, documents=texts, metadatas=metas)
-    print(f"✅ Vectorstore created successfully with {collection.count()} chunks")
+    print(f"✅ Vectorstore '{name}' created successfully with {collection.count()} chunks")
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--chunk-size", type=int, help="Fixed-size chunking (no LLM) into collection docs_cs<N>")
+    parser.add_argument("--collection", help="Collection name (default: docs, or docs_cs<N> with --chunk-size)")
+    args = parser.parse_args()
+
     docs = fetch_documents()
     if docs:
-        all_chunks = create_chunks(docs)
-        create_embeddings(all_chunks)
+        if args.chunk_size:
+            all_chunks = create_fixed_chunks(docs, args.chunk_size)
+            name = args.collection or f"docs_cs{args.chunk_size}"
+        else:
+            all_chunks = create_chunks(docs)
+            name = args.collection or collection_name
+        create_embeddings(all_chunks, name)
         print("🚀 Ingestion complete!")
     else:
         print("⚠️ Check if your .md files are actually inside the 'data' folder.")

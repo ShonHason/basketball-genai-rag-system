@@ -1,0 +1,185 @@
+{
+  "created": "2026-10-21T21:01:58",
+  "git_commit": "7d4fd8b",
+  "generator_model": "openai/gpt-5-nano",
+  "generator_reasoning_effort": "low",
+  "reranker": "BAAI/bge-reranker-v2-m3",
+  "judge_model": "openrouter/google/gemini-2.5-flash-lite",
+  "judge_reasoning_effort": "low",
+  "embedding_model": "text-embedding-3-large",
+  "retrieval_k": 15,
+  "final_k": 7,
+  "n_tests": 243,
+  "seed": 42,
+  "baseline": "docs__rw_rr",
+  "matrix": [
+    {
+      "label": "docs__rw_rr",
+      "collection": "docs",
+      "use_rewrite": true,
+      "use_rerank": true,
+      "reused_from": "evaluation/results/experiment_20261021_203829/docs__rw_rr.jsonl"
+    },
+    {
+      "label": "docs__rw_only",
+      "collection": "docs",
+      "use_rewrite": true,
+      "use_rerank": false,
+      "reused_from": "evaluation/results/experiment_20261021_203829/docs__rw_only.jsonl"
+    },
+    {
+      "label": "docs__rr_only",
+      "collection": "docs",
+      "use_rewrite": false,
+      "use_rerank": true,
+      "reused_from": "evaluation/results/experiment_20261021_203829/docs__rr_only.jsonl"
+    },
+    {
+      "label": "docs__none",
+      "collection": "docs",
+      "use_rewrite": false,
+      "use_rerank": false,
+      "reused_from": "evaluation/results/experiment_20261021_203829/docs__none.jsonl"
+    },
+    {
+      "label": "docs_cs300__rw_rr",
+      "collection": "docs_cs300",
+      "use_rewrite": true,
+      "use_rerank": true,
+      "reused_from": "evaluation/results/experiment_20261021_203829/docs_cs300__rw_rr.jsonl"
+    },
+    {
+      "label": "docs_cs300__rw_only",
+      "collection": "docs_cs300",
+      "use_rewrite": true,
+      "use_rerank": false,
+      "reused_from": "evaluation/results/experiment_20261021_193803/docs_cs300__rw_only.jsonl"
+    },
+    {
+      "label": "docs_cs300__rr_only",
+      "collection": "docs_cs300",
+      "use_rewrite": false,
+      "use_rerank": true,
+      "reused_from": "evaluation/results/experiment_20261021_193803/docs_cs300__rr_only.jsonl"
+    },
+    {
+      "label": "docs_cs300__none",
+      "collection": "docs_cs300",
+      "use_rewrite": false,
+      "use_rerank": false,
+      "reused_from": "evaluation/results/experiment_20261021_155838/docs_cs300__none.jsonl"
+    },
+    {
+      "label": "docs_cs600__rw_rr",
+      "collection": "docs_cs600",
+      "use_rewrite": true,
+      "use_rerank": true,
+      "reused_from": "evaluation/results/experiment_20261021_155838/docs_cs600__rw_rr.jsonl"
+    },
+    {
+      "label": "docs_cs600__rw_only",
+      "collection": "docs_cs600",
+      "use_rewrite": true,
+      "use_rerank": false,
+      "reused_from": "evaluation/results/experiment_20261021_155838/docs_cs600__rw_only.jsonl"
+    },
+    {
+      "label": "docs_cs600__rr_only",
+      "collection": "docs_cs600",
+      "use_rewrite": false,
+      "use_rerank": true,
+      "reused_from": null
+    },
+    {
+      "label": "docs_cs600__none",
+      "collection": "docs_cs600",
+      "use_rewrite": false,
+      "use_rerank": false,
+      "reused_from": null
+    },
+    {
+      "label": "docs_cs800__rw_rr",
+      "collection": "docs_cs800",
+      "use_rewrite": true,
+      "use_rerank": true,
+      "reused_from": null
+    },
+    {
+      "label": "docs_cs800__rw_only",
+      "collection": "docs_cs800",
+      "use_rewrite": true,
+      "use_rerank": false,
+      "reused_from": null
+    },
+    {
+      "label": "docs_cs800__rr_only",
+      "collection": "docs_cs800",
+      "use_rewrite": false,
+      "use_rerank": true,
+      "reused_from": null
+    },
+    {
+      "label": "docs_cs800__none",
+      "collection": "docs_cs800",
+      "use_rewrite": false,
+      "use_rerank": false,
+      "reused_from": null
+    },
+    {
+      "label": "docs_cs1000__rw_rr",
+      "collection": "docs_cs1000",
+      "use_rewrite": true,
+      "use_rerank": true,
+      "reused_from": null
+    },
+    {
+      "label": "docs_cs1000__rw_only",
+      "collection": "docs_cs1000",
+      "use_rewrite": true,
+      "use_rerank": false,
+      "reused_from": null
+    },
+    {
+      "label": "docs_cs1000__rr_only",
+      "collection": "docs_cs1000",
+      "use_rewrite": false,
+      "use_rerank": true,
+      "reused_from": null
+    },
+    {
+      "label": "docs_cs1000__none",
+      "collection": "docs_cs1000",
+      "use_rewrite": false,
+      "use_rerank": false,
+      "reused_from": null
+    },
+    {
+      "label": "docs_cs1200__rw_rr",
+      "collection": "docs_cs1200",
+      "use_rewrite": true,
+      "use_rerank": true,
+      "reused_from": null
+    },
+    {
+      "label": "docs_cs1200__rw_only",
+      "collection": "docs_cs1200",
+      "use_rewrite": true,
+      "use_rerank": false,
+      "reused_from": null
+    },
+    {
+      "label": "docs_cs1200__rr_only",
+      "collection": "docs_cs1200",
+      "use_rewrite": false,
+      "use_rerank": true,
+      "reused_from": null
+    },
+    {
+      "label": "docs_cs1200__none",
+      "collection": "docs_cs1200",
+      "use_rewrite": false,
+      "use_rerank": false,
+      "reused_from": null
+    }
+  ]
+}

@@ -1,6 +1,8 @@
-..env
+.env
 __pycache__/
 *.pyc
 vector_db/
 preprocessed_db/
 
+evaluation/results/
+.DS_Store

@@ -1,0 +1,205 @@
+{
+  "grader": "Claude (manual review of question, reference, answer and retrieved chunks)",
+  "labels": {
+    "9": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "12": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "21": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "27": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "29": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "44": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "45": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "61": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "66": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "73": {
+      "correct": false,
+      "partial": false,
+      "note": "Refused; league.md lists Fluxion as 2021 champion"
+    },
+    "78": {
+      "correct": true,
+      "partial": false,
+      "note": "All three named players do average 10.0 RPG (8 players do)"
+    },
+    "84": {
+      "correct": true,
+      "partial": false,
+      "note": "Lists all players aged 29; reference fixed"
+    },
+    "85": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "100": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "105": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "109": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "113": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "115": {
+      "correct": false,
+      "partial": false,
+      "note": "Refused; Ethan Cohen FT% 80.0 is in his player file"
+    },
+    "119": {
+      "correct": false,
+      "partial": false,
+      "note": "Refused; Liam Foster is quiet-worker"
+    },
+    "122": {
+      "correct": false,
+      "partial": false,
+      "note": "Refused; Hiroshi Tanaka has Ego 2"
+    },
+    "123": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "126": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "132": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "140": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "149": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "155": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "164": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "177": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "190": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "191": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "192": {
+      "correct": false,
+      "partial": true,
+      "note": "Partial: player right, primary strength (scoring, athleticism) missing"
+    },
+    "197": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "199": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "204": {
+      "correct": true,
+      "partial": false,
+      "note": "All four named players list anime; reference fixed"
+    },
+    "208": {
+      "correct": false,
+      "partial": true,
+      "note": "Partial: Kaito Tanaka's birth city (Tokyo) said to be missing"
+    },
+    "211": {
+      "correct": false,
+      "partial": true,
+      "note": "Partial: player right, locker room role (glue-guy) missing"
+    },
+    "213": {
+      "correct": false,
+      "partial": true,
+      "note": "Partial: player right, focus areas (shooting, offensive consistency) missing"
+    },
+    "224": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "236": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    },
+    "242": {
+      "correct": true,
+      "partial": false,
+      "note": ""
+    }
+  }
+}

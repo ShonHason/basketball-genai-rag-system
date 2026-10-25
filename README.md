@@ -22,7 +22,7 @@ Beyond basic RAG, the project emphasizes **improving retrieval quality and respo
 - 🔄 Retrieval-Augmented Generation (RAG)
 - ✨ Query rewriting for improved semantic matching
 - 📊 Reranking of retrieved documents
-- 🧪 Evaluation using structured JSONL datasets
+- 🧪 Automated evaluation harness with LLM-as-judge + 24-configuration ablation study
 - ⚙️ Multi-model usage and selection (Grok + OpenAI + OpenRouter)
 
 ---
@@ -62,9 +62,8 @@ Beyond basic RAG, the project emphasizes **improving retrieval quality and respo
 
 ### 5. Reranking Layer
 
-- Retrieved chunks were reranked based on:
-  - Relevance to the user query
-  - Contextual importance
+- Retrieved chunks are reranked with a local cross-encoder (`BAAI/bge-reranker-v2-m3`), with an LLM-based reranker as an alternative
+- Top 15 retrieved → top 7 passed to the generator
 - Reduced noise from vector similarity search
 
 ---
@@ -72,7 +71,7 @@ Beyond basic RAG, the project emphasizes **improving retrieval quality and respo
 ### 6. Response Generation
 
 - Selected top-ranked context
-- Passed context + query to LLM (`gpt-4o-mini`)
+- Passed context + query to LLM (`gpt-5-nano`, low reasoning effort)
 - Generated final natural language response
 
 ---
@@ -89,16 +88,54 @@ Beyond basic RAG, the project emphasizes **improving retrieval quality and respo
 
 ---
 
-## 🧪 Evaluation & Iteration
+## 🧪 Evaluation & Ablation Study
 
-- Used JSONL datasets to test system behavior across different queries
-- Compared response quality under different:
-  - Prompt strategies
-  - Retrieval approaches
-- Iteratively improved:
-  - Prompt design
-  - Query rewriting
-  - Reranking effectiveness
+I built an automated evaluation harness ([evaluation/](evaluation/)) and ran a full ablation:
+**6 chunking strategies × 4 pipeline variants = 24 configurations**, each run on the same
+**243-question** test set ([rag_eval_nla.jsonl](evaluation/rag_eval_nla.jsonl)) covering direct facts,
+comparisons, rankings, multi-hop and holistic questions.
+
+**Pipeline variants**
+
+| Variant | Query rewriting | Reranking |
+|---|---|---|
+| `rw_rr` | ✅ | ✅ |
+| `rw_only` | ✅ | ❌ |
+| `rr_only` | ❌ | ✅ |
+| `none` | ❌ | ❌ |
+
+**Chunking strategies:** LLM-based semantic chunking (`docs`) vs. fixed-size chunks of 300 / 600 / 800 / 1000 / 1200 characters.
+
+**Metrics** — an LLM judge (Gemini 2.5 Flash-Lite) scores each answer for correctness and faithfulness to the
+retrieved context, plus retrieval metrics (context recall, context sufficiency, MRR, precision@k),
+latency and API cost. I hand-labelled a sample of answers ([calibration_labels.json](evaluation/calibration_labels.json))
+to check the judge against human judgement before trusting it at scale.
+
+### Results (top configurations)
+
+| Config | Correct % | Faithful % | Ctx recall | MRR | p50 latency | Cost / 243 Qs |
+|---|---|---|---|---|---|---|
+| **cs1200 + rewrite + rerank** | **78.2** | **90.5** | **0.88** | **0.83** | 9.7s | $0.099 |
+| cs1200 + rerank only | 74.9 | 90.1 | 0.85 | 0.81 | 3.4s | $0.040 |
+| semantic + rerank only | 73.3 | 87.7 | 0.83 | 0.79 | 4.5s | $0.047 |
+| cs1000 + rewrite + rerank | 71.6 | 90.1 | 0.85 | 0.83 | 9.5s | $0.097 |
+| semantic + rewrite + rerank *(original pipeline)* | 70.8 | 89.7 | 0.85 | 0.80 | 12.2s | $0.109 |
+| semantic, no rewrite, no rerank | 63.8 | 86.8 | 0.74 | 0.65 | 2.5s | $0.043 |
+| cs300 (any variant) | ~50 | ~81 | ~0.63 | 0.52–0.62 | — | — |
+
+Full tables for all 24 configs: [evaluation/final_results/tables.txt](evaluation/final_results/tables.txt)
+(per-category breakdown in [summary.json](evaluation/final_results/summary.json)).
+
+### What I learned from the data
+
+- **Reranking is the biggest single win.** Adding the cross-encoder reranker raised correctness by ~5–10 points
+  at almost every chunk size and lifted MRR from ~0.63 to ~0.80.
+- **Query rewriting adds little on top of reranking** — and costs ~2.5× the money and ~3× the latency.
+  `cs1200 + rerank only` is the best quality-per-dollar setup.
+- **Chunk size matters a lot.** Small chunks (300) lose ~20 points of correctness; larger chunks (1000–1200)
+  performed best on this corpus.
+- **Simple fixed-size chunking beat LLM semantic chunking** at 1200 characters, while being free to build.
+- With 243 questions the noise is roughly ±3 points, so differences smaller than that are not treated as meaningful.
 
 ---
 
@@ -118,8 +155,9 @@ Beyond basic RAG, the project emphasizes **improving retrieval quality and respo
 
 ## 🛠️ Tech Stack
 
-- **LLMs**: OpenAI (GPT-4o-mini), Grok  
+- **LLMs**: OpenAI (GPT-5-nano, GPT-4o-mini), Grok, Gemini 2.5 Flash-Lite (judge) via LiteLLM / OpenRouter  
 - **Embeddings**: text-embedding-3-large  
+- **Reranker**: BAAI/bge-reranker-v2-m3 (sentence-transformers cross-encoder)  
 - **Vector Database**: Chroma  
 - **Language**: Python  
 - **Data Formats**: Markdown, JSONL  
@@ -128,8 +166,9 @@ Beyond basic RAG, the project emphasizes **improving retrieval quality and respo
 
 ## 🎯 Key Learnings
 
-- Query rewriting significantly improves retrieval performance  
-- Combining multiple queries increases recall and answer quality  
+- Measure before you optimize: the ablation showed reranking drives most of the gain, while query rewriting mostly adds cost and latency  
+- Chunk size has a large effect on answer quality — test it rather than guess  
+- An LLM judge needs to be calibrated against human labels before its scores are trusted  
 - Reranking is critical to reduce noise from vector search  
 - Prompt engineering directly impacts system reliability  
 - Model selection should be task-specific, not one-size-fits-all  
@@ -139,7 +178,7 @@ Beyond basic RAG, the project emphasizes **improving retrieval quality and respo
 ## 🚧 Limitations
 
 - Limited historical depth in generated league data  
-- Evaluation is semi-manual (no automated scoring yet)  
+- Test set and corpus are synthetic; results may not transfer directly to real-world data  
 - No persistent user personalization  
 
 ---
@@ -147,7 +186,7 @@ Beyond basic RAG, the project emphasizes **improving retrieval quality and respo
 ## 🔮 Future Improvements
 
 - Expand dataset with richer historical narratives and stats  
-- Introduce automated evaluation metrics  
+- Switch the default pipeline to the best ablation config (cs1200 + rerank)  
 - Add personalization layer  
 - Deploy as a web-based application  
 
